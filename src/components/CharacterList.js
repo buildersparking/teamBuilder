@@ -7,6 +7,7 @@ function CharacterList({ onSelectCharacter, selectedCharacters }) {
   const [sortCriteria, setSortCriteria] = useState('nom');
   const [sortOrder, setSortOrder] = useState('asc');
   const [dpFilter, setDpFilter] = useState('all');
+  const [searchTerm, setSearchTerm] = useState('');
 
   useEffect(() => {
     const updatedCharacters = personnagesData.map(character => ({
@@ -29,8 +30,15 @@ function CharacterList({ onSelectCharacter, selectedCharacters }) {
     setDpFilter(event.target.value);
   };
 
+  const handleSearchChange = (event) => {
+    setSearchTerm(event.target.value);
+  };
+
   const filteredAndSortedCharacters = characters
-    .filter(character => dpFilter === 'all' || character.dp === parseInt(dpFilter))
+    .filter(character => 
+      (dpFilter === 'all' || character.dp === parseInt(dpFilter)) &&
+      character.nom.toLowerCase().includes(searchTerm.toLowerCase())
+    )
     .sort((a, b) => {
       if (sortCriteria === 'nom') {
         return sortOrder === 'asc' 
@@ -48,6 +56,14 @@ function CharacterList({ onSelectCharacter, selectedCharacters }) {
   return (
     <div>
       <div className="filter-sort-controls">
+        <div className="search-bar">
+          <input
+            type="text"
+            placeholder="Rechercher un personnage"
+            value={searchTerm}
+            onChange={handleSearchChange}
+          />
+        </div>
         <div className="sort-buttons">
           <button onClick={() => sortCharacters('nom')}>
             Trier par nom {sortCriteria === 'nom' && (sortOrder === 'asc' ? '▲' : '▼')}

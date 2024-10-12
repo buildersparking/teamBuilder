@@ -1,912 +1,972 @@
 [
   {
-    "nom": "Whis",
-    "dp": 10,
-    "image": "./images/Whis.jpg"
+    "nom": "GOKU (Z-EARLY)",
+    "image": "./images/GOKU_(Z-EARLY).jpg",
+    "dp": 4
   },
   {
-    "nom": "Vegito (Super Saiyan God Super Saiyan)",
-    "dp": 10,
-    "image": "./images/Vegito_(Super_Saiyan_God_Super_Saiyan).jpg"
+    "nom": "GOKU (Z-MID)",
+    "image": "./images/GOKU_(Z-MID).jpg",
+    "dp": 5
   },
   {
-    "nom": "Gogeta (Super, Super Saiyan God Super Saiyan)",
-    "dp": 10,
-    "image": "./images/Gogeta_(Super,_Super_Saiyan_God_Super_Saiyan).jpg"
+    "nom": "GOKU (Z-MID)",
+    "caracteristiques": "SUPER SAIYAN",
+    "image": "./images/GOKU_(Z-MID)_SUPER_SAIYAN.jpg",
+    "dp": 6
   },
   {
-    "nom": "Gogeta (GT, Super Saiyan 4)",
-    "dp": 10,
-    "image": "./images/Gogeta_(GT,_Super_Saiyan_4).jpg"
+    "nom": "GOKU (Z-END)",
+    "image": "./images/GOKU_(Z-END).jpg",
+    "dp": 5
   },
   {
-    "nom": "Beerus",
-    "dp": 10,
-    "image": "./images/Beerus.jpg"
+    "nom": "GOKU (Z-END)",
+    "caracteristiques": "SUPER SAIYAN",
+    "image": "./images/GOKU_(Z-END)_SUPER_SAIYAN.jpg",
+    "dp": 6
   },
   {
-    "nom": "Jiren (Full Power)",
-    "dp": 9,
-    "image": "./images/Jiren_(Full_Power).jpg"
+    "nom": "GOKU (Z-END)",
+    "caracteristiques": "SUPER SAIYAN 2",
+    "image": "./images/GOKU_(Z-END)_SUPER_SAIYAN_2.jpg",
+    "dp": 6
   },
   {
-    "nom": "Goku (Super, Ultra Instinct)",
-    "dp": 9,
-    "image": "./images/Goku_(Super,_Ultra_Instinct).jpg"
+    "nom": "GOKU (Z-END)",
+    "caracteristiques": "SUPER SAIYAN 3",
+    "image": "./images/GOKU_(Z-END)_SUPER_SAIYAN_3.jpg",
+    "dp": 7
   },
   {
-    "nom": "Fused Zamasu (half corrupted)",
-    "dp": 9,
-    "image": "./images/Fused_Zamasu_(half_corrupted).jpg"
+    "nom": "GOKU (SUPER)",
+    "image": "./images/GOKU_(SUPER).jpg",
+    "dp": 5
   },
   {
-    "nom": "Broly (Z. Legendary Super Saiyan)",
-    "dp": 9,
-    "image": "./images/Broly_(Z._Legendary_Super_Saiyan).jpg"
+    "nom": "GOKU (SUPER)",
+    "caracteristiques": "SUPER SAIYAN",
+    "image": "./images/GOKU_(SUPER)_SUPER_SAIYAN.jpg",
+    "dp": 6
   },
   {
-    "nom": "Broly (Super, Super Saiyan Full Power)",
-    "dp": 9,
-    "image": "./images/Broly_(Super,_Super_Saiyan_Full_Power).jpg"
+    "nom": "GOKU (SUPER)",
+    "caracteristiques": "SUPER SAIYAN GOD",
+    "image": "./images/GOKU_(SUPER)_SUPER_SAIYAN_GOD.jpg",
+    "dp": 7
   },
   {
-    "nom": "Vegeta (Super. Super Saiyan God Super Saiyan)",
-    "dp": 8,
-    "image": "./images/Vegeta_(Super._Super_Saiyan_God_Super_Saiyan).jpg"
+    "nom": "GOKU (SUPER)",
+    "caracteristiques": "SUPER SAIYAN GOD SUPER SAIYAN",
+    "image": "./images/GOKU_(SUPER)_SUPER_SAIYAN_GOD_SUPER_SAIYAN.jpg",
+    "dp": 8
   },
   {
-    "nom": "Vegeta (GT, Super Saiyan 4)",
-    "dp": 8,
-    "image": "./images/Vegeta_(GT,_Super_Saiyan_4).jpg"
+    "nom": "VEGETA (Z-SCOUTER)",
+    "image": "./images/VEGETA-Z-SCOUTER.jpg",
+    "dp": 4
   },
   {
-    "nom": "Toppo (God of Destruction)",
-    "dp": 8,
-    "image": "./images/Toppo_(God_of_Destruction).jpg"
+    "nom": "GREAT APE VEGETA",
+    "image": "./images/GREAT_APE_VEGETA.jpg",
+    "dp": 5
   },
   {
-    "nom": "Super Vegito",
-    "dp": 8,
-    "image": "./images/Super_Vegito.jpg"
+    "nom": "VEGETA (Z-EARLY)",
+    "image": "./images/VEGETA_(Z-EARLY).jpg",
+    "dp": 5
   },
   {
-    "nom": "Super Gogeta (Z)",
-    "dp": 8,
-    "image": "./images/Super_Gogeta_(Z).jpg"
+    "nom": "VEGETA (Z-EARLY)",
+    "caracteristiques": "SUPER SAIYAN",
+    "image": "./images/VEGETA_(Z-EARLY)_SUPER_SAIYAN.jpg",
+    "dp": 6
   },
   {
-    "nom": "Omega Shenron (GT)",
-    "dp": 8,
-    "image": "./images/Omega_Shenron_(GT).jpg"
+    "nom": "SUPER VEGETA",
+    "image": "./images/SUPER_VEGETA.jpg",
+    "dp": 6
   },
   {
-    "nom": "Kefla (Super Saiyan 2)",
-    "dp": 8,
-    "image": "./images/Kefla_(Super_Saiyan_2).jpg"
+    "nom": "VEGETA (Z-END)",
+    "image": "./images/VEGETA_(Z-END).jpg",
+    "dp": 5
   },
   {
-    "nom": "Jiren",
-    "dp": 8,
-    "image": "./images/Jiren.jpg"
+    "nom": "VEGETA (Z-END)",
+    "caracteristiques": "SUPER SAIYAN",
+    "image": "./images/VEGETA_(Z-END)_SUPER_SAIYAN.jpg",
+    "dp": 6
   },
   {
-    "nom": "Hit",
-    "dp": 8,
-    "image": "./images/Hit.jpg"
+    "nom": "VEGETA (Z-END)",
+    "caracteristiques": "SUPER SAIYAN 2",
+    "image": "./images/VEGETA_(Z-END)_SUPER_SAIYAN_2.jpg",
+    "dp": 6
   },
   {
-    "nom": "Gotenks (Super Saiyan 3)",
-    "dp": 8,
-    "image": "./images/Gotenks_(Super_Saiyan_3).jpg"
+    "nom": "MAJIN VEGETA",
+    "image": "./images/MAJIN_VEGETA.jpg",
+    "dp": 7
   },
   {
-    "nom": "Golden Frieza",
-    "dp": 8,
-    "image": "./images/Golden_Frieza.jpg"
+    "nom": "VEGETA (SUPER)",
+    "image": "./images/VEGETA_(SUPER).jpg",
+    "dp": 5
   },
   {
-    "nom": "Goku Black (Super Saiyan Rose)",
-    "dp": 8,
-    "image": "./images/Goku_Black_(Super_Saiyan_Rose).jpg"
+    "nom": "VEGETA (SUPER)",
+    "caracteristiques": "SUPER SAIYAN",
+    "image": "./images/VEGETA_(SUPER)_SUPER_SAIYAN.jpg",
+    "dp": 6
   },
   {
-    "nom": "Goku (Super, Ultra Instinct Sign)",
-    "dp": 8,
-    "image": "./images/Goku_(Super,_Ultra_Instinct_Sign).jpg"
+    "nom": "VEGETA (SUPER)",
+    "caracteristiques": "SUPER SAIYAN GOD",
+    "image": "./images/VEGETA_(SUPER)_SUPER_SAIYAN_GOD.jpg",
+    "dp": 7
   },
   {
-    "nom": "Goku (Super, Super Saiyan God Super Saiyan)",
-    "dp": 8,
-    "image": "./images/Goku_(Super,_Super_Saiyan_God_Super_Saiyan).jpg"
+    "nom": "VEGETA (SUPER)",
+    "caracteristiques": "SUPER SAIYAN GOD SUPER SAIYAN",
+    "image": "./images/VEGETA_(SUPER)_SUPER_SAIYAN_GOD_SUPER_SAIYAN.jpg",
+    "dp": 8
   },
   {
-    "nom": "Goku (GT, Super Saiyan 4)",
-    "dp": 8,
-    "image": "./images/Goku_(GT,_Super_Saiyan_4).jpg"
+    "nom": "PICCOLO",
+    "image": "./images/PICCOLO.jpg",
+    "dp": 4
   },
   {
-    "nom": "Gogeta (Super, Super Saiyan)",
-    "dp": 8,
-    "image": "./images/Gogeta_(Super,_Super_Saiyan).jpg"
+    "nom": "KRILLIN",
+    "image": "./images/KRILLIN.jpg",
+    "dp": 3
   },
   {
-    "nom": "Fused Zamasu",
-    "dp": 8,
-    "image": "./images/Fused_Zamasu.jpg"
+    "nom": "YAMCHA",
+    "image": "./images/YAMCHA.jpg",
+    "dp": 3
   },
   {
-    "nom": "Anilaza",
-    "dp": 8,
-    "image": "./images/Anilaza.jpg"
+    "nom": "TIEN",
+    "image": "./images/TIEN.jpg",
+    "dp": 4
   },
   {
-    "nom": "Vegito",
-    "dp": 7,
-    "image": "./images/Vegito.jpg"
+    "nom": "TRUNKS (MELEE)",
+    "caracteristiques": "SUPER SAIYAN",
+    "image": "./images/TRUNKS_(MELEE)_SUPER_SAIYAN.jpg",
+    "dp": 6
   },
   {
-    "nom": "Vegeta (Super, Super Saiyan God)",
-    "dp": 7,
-    "image": "./images/Vegeta_(Super,_Super_Saiyan_God).jpg"
+    "nom": "FUTURE TRUNKS",
+    "caracteristiques": "SUPER SAIYAN",
+    "image": "./images/FUTURE_TRUNKS_SUPER_SAIYAN.jpg",
+    "dp": 10
   },
   {
-    "nom": "Ultimate Gohan",
-    "dp": 7,
-    "image": "./images/Ultimate_Gohan.jpg"
+    "nom": "FRIEZA (SUPER)",
+    "image": "./images/FRIEZA_(SUPER).jpg",
+    "dp": 6
   },
   {
-    "nom": "Toppo",
-    "dp": 7,
-    "image": "./images/Toppo.jpg"
+    "nom": "CELL",
+    "caracteristiques": "PERFECT FORM",
+    "image": "./images/CELL_PERFECT_FORM.jpg",
+    "dp": 6
   },
   {
-    "nom": "Syn Shenron (GT)",
-    "dp": 7,
-    "image": "./images/Syn_Shenron_(GT).jpg"
+    "nom": "MAJIN BUU",
+    "image": "./images/MAJIN_BUU.jpg",
+    "dp": 6 
   },
   {
-    "nom": "Super Janemba",
-    "dp": 7,
-    "image": "./images/Super_Janemba.jpg"
+    "nom": "MR. SATAN",
+    "image": "./images/MR._SATAN.jpg",
+    "dp": 1
   },
   {
-    "nom": "Super Buu (Gotenks absorbed)",
-    "dp": 7,
-    "image": "./images/Super_Buu_(Gotenks_absorbed).jpg"
+    "nom": "ANDROID 17 (SUPER)",
+    "image": "./images/ANDROID_17_(SUPER).jpg",
+    "dp": 6
   },
   {
-    "nom": "Super Buu (Gohan absorbed)",
-    "dp": 7,
-    "image": "./images/Super_Buu_(Gohan_absorbed).jpg"
+    "nom": "ANDROID 18",
+    "image": "./images/ANDROID_18.jpg",
+    "dp": 5
   },
   {
-    "nom": "Super Baby 2 (GT)",
-    "dp": 7,
-    "image": "./images/Super_Baby_2_(GT).jpg"
+    "nom": "BROLY (SUPER)",
+    "image": "./images/BROLY_(SUPER).jpg",
+    "dp": 5
   },
   {
-    "nom": "Perfect Cell",
-    "dp": 7,
-    "image": "./images/Perfect_Cell.jpg"
+    "nom": "BROLY (SUPER)",
+    "caracteristiques": "SUPER SAIYAN",
+    "image": "./images/BROLY_(SUPER)_SUPER_SAIYAN.jpg",
+    "dp": 7
   },
   {
-    "nom": "Metal Cooler",
-    "dp": 7,
-    "image": "./images/Metal_Cooler.jpg"
+    "nom": "JIREN",
+    "image": "./images/JIREN.jpg",
+    "dp": 8
   },
   {
-    "nom": "Majin Vegeta",
-    "dp": 7,
-    "image": "./images/Majin_Vegeta.jpg"
+    "nom": "BERGAMO",
+    "image": "./images/BERGAMO.jpg",
+    "dp": 5
   },
   {
-    "nom": "Kid Buu",
-    "dp": 7,
-    "image": "./images/Kid_Buu.jpg"
+    "nom": "SUPER TRUNKS",
+    "image": "./images/SUPER_TRUNKS.jpg",
+    "dp": 6
   },
   {
-    "nom": "Kefla (Super Saiyan)",
-    "dp": 7,
-    "image": "./images/Kefla_(Super_Saiyan).jpg"
+    "nom": "DYSPO",
+    "image": "./images/DYSPO.jpg",
+    "dp": 6 
   },
   {
-    "nom": "Kale (Super Saiyan Berserk)",
-    "dp": 7,
-    "image": "./images/Kale_(Super_Saiyan_Berserk).jpg"
+    "nom": "KAKUNSA",
+    "image": "./images/KAKUNSA.jpg",
+    "dp": 5
   },
   {
-    "nom": "Great Ape Baby (GT)",
-    "dp": 7,
-    "image": "./images/Great_Ape_Baby_(GT).jpg"
+    "nom": "MASTER ROSHI",
+    "caracteristiques": "MAX POWER",
+    "image": "./images/MASTER_ROSHI_MAX_POWER.jpg",
+    "dp": 2
   },
   {
-    "nom": "Gotenks (Super Saiyan)",
-    "dp": 7,
-    "image": "./images/Gotenks_(Super_Saiyan).jpg"
+    "nom": "NAPPA",
+    "image": "./images/NAPPA.jpg",
+    "dp": 3
   },
   {
-    "nom": "Goku (Z – End, Super Saiyan 3)",
-    "dp": 7,
-    "image": "./images/Goku_(Z_–_End,_Super_Saiyan_3).jpg"
+    "nom": "BURTER",
+    "image": "./images/BURTER.jpg",
+    "dp": 3
   },
   {
-    "nom": "Goku (Super, Super Saiyan God)",
-    "dp": 7,
-    "image": "./images/Goku_(Super,_Super_Saiyan_God).jpg"
+    "nom": "TOPPO",
+    "image": "./images/TOPPO.jpg",
+    "dp": 7
   },
   {
-    "nom": "Goku (GT, Super Saiyan 3)",
-    "dp": 7,
-    "image": "./images/Goku_(GT,_Super_Saiyan_3).jpg"
+    "nom": "JEICE",
+    "image": "./images/JEICE.jpg",
+    "dp": 3
   },
   {
-    "nom": "Gohan (Teen, Super Saiyan 2)",
-    "dp": 7,
-    "image": "./images/Gohan_(Teen,_Super_Saiyan_2).jpg"
+    "nom": "KALE",
+    "caracteristiques": "SUPER SAIYAN (BERSERK)",
+    "image": "./images/KALE_SUPER_SAIYAN_(BERSERK).jpg",
+    "dp": 7
   },
   {
-    "nom": "Gohan (Adult, Super Saiyan 2)",
-    "dp": 7,
-    "image": "./images/Gohan_(Adult,_Super_Saiyan_2).jpg"
+    "nom": "BROLY (SUPER)",
+    "caracteristiques": "SUPER SAIYAN FULL POWER",
+    "image": "./images/BROLY_(SUPER)_SUPER_SAIYAN_FULL_POWER.jpg",
+    "dp": 9
   },
   {
-    "nom": "Gogeta (Super)",
-    "dp": 7,
-    "image": "./images/Gogeta_(Super).jpg"
+    "nom": "HIT",
+    "image": "./images/HIT.jpg",
+    "dp": 8
   },
   {
-    "nom": "Fusion Android 13",
-    "dp": 7,
-    "image": "./images/Fusion_Android_13.jpg"
+    "nom": "BEERUS",
+    "image": "./images/BEERUS.jpg",
+    "dp": 10
   },
   {
-    "nom": "Full-Power Bojack",
-    "dp": 7,
-    "image": "./images/Full-Power_Bojack.jpg"
+    "nom": "GOHAN (ADULT)",
+    "image": "./images/GOHAN_(ADULT).jpg",
+    "dp": 4
   },
   {
-    "nom": "Frieza (Z, Full Power)",
-    "dp": 7,
-    "image": "./images/Frieza_(Z,_Full_Power).jpg"
+    "nom": "VIDEL",
+    "image": "./images/VIDEL.jpg",
+    "dp": 2
   },
   {
-    "nom": "Cooler (Final Form)",
-    "dp": 7,
-    "image": "./images/Cooler_(Final_Form).jpg"
+    "nom": "GOHAN (FUTURE)",
+    "image": "./images/GOHAN_(FUTURE).jpg",
+    "dp": 5
   },
   {
-    "nom": "Caulifla (Super Saiyan 2)",
-    "dp": 7,
-    "image": "./images/Caulifla_(Super_Saiyan_2).jpg"
+    "nom": "GOHAN (FUTURE)",
+    "caracteristiques": "SUPER SAIYAN",
+    "image": "./images/GOHAN_(FUTURE)_SUPER_SAIYAN.jpg",
+    "dp": 6
   },
   {
-    "nom": "Cabba (Super Saiyan 2)",
-    "dp": 7,
-    "image": "./images/Cabba_(Super_Saiyan_2).jpg"
+    "nom": "GOHAN (KID)",
+    "image": "./images/GOHAN_(KID).jpg",
+    "dp": 3
   },
   {
-    "nom": "Broly (Z, Super Saiyan)",
-    "dp": 7,
-    "image": "./images/Broly_(Z,_Super_Saiyan).jpg"
+    "nom": "MASTER ROSHI",
+    "image": "./images/MASTER_ROSHI.jpg",
+    "dp": 2
   },
   {
-    "nom": "Broly (Super, Super Saiyan)",
-    "dp": 7,
-    "image": "./images/Broly_(Super,_Super_Saiyan).jpg"
+    "nom": "TRUNKS (SWORD)",
+    "image": "./images/TRUNKS_(SWORD).jpg",
+    "dp": 4
   },
   {
-    "nom": "Vegeta (Z – End, Super Saiyan 2)",
-    "dp": 6,
-    "image": "./images/Vegeta_(Z_–_End,_Super_Saiyan_2).jpg"
+    "nom": "TRUNKS (SWORD)",
+    "caracteristiques": "SUPER SAIYAN",
+    "image": "./images/TRUNKS_(SWORD)_SUPER_SAIYAN.jpg",
+    "dp": 6
   },
   {
-    "nom": "Vegeta (Z – End, Super Saiyan)",
-    "dp": 6,
-    "image": "./images/Vegeta_(Z_–_End,_Super_Saiyan).jpg"
+    "nom": "WHIS",
+    "image": "./images/WHIS.jpg",
+    "dp": 10
   },
   {
-    "nom": "Vegeta (Z – Early, Super Saiyan)",
-    "dp": 6,
-    "image": "./images/Vegeta_(Z_–_Early,_Super_Saiyan).jpg"
+    "nom": "TRUNKS (KID)",
+    "image": "./images/TRUNKS_(KID).jpg",
+    "dp": 4
   },
   {
-    "nom": "Vegeta (Super, Super Saiyan)",
-    "dp": 6,
-    "image": "./images/Vegeta_(Super,_Super_Saiyan).jpg"
+    "nom": "TRUNKS (KID)",
+    "caracteristiques": "SUPER SAIYAN",
+    "image": "./images/TRUNKS_(KID)_SUPER_SAIYAN.jpg",
+    "dp": 5
   },
   {
-    "nom": "Trunks (Sword, Super Saiyan)",
-    "dp": 6,
-    "image": "./images/Trunks_(Sword,_Super_Saiyan).jpg"
+    "nom": "GOTEN",
+    "image": "./images/GOTEN.jpg",
+    "dp": 4
   },
   {
-    "nom": "Trunks (Melee, Super Saiyan)",
-    "dp": 6,
-    "image": "./images/Trunks_(Melee,_Super_Saiyan).jpg"
+    "nom": "GOTEN",
+    "caracteristiques": "SUPER SAIYAN",
+    "image": "./images/GOTEN_SUPER_SAIYAN.jpg",
+    "dp": 5
   },
   {
-    "nom": "Super Vegeta",
-    "dp": 6,
-    "image": "./images/Super_Vegeta.jpg"
+    "nom": "GOTENKS",
+    "image": "./images/GOTENKS.jpg",
+    "dp": 6
   },
   {
-    "nom": "Super Trunks",
-    "dp": 6,
-    "image": "./images/Super_Trunks.jpg"
+    "nom": "GOTENKS",
+    "caracteristiques": "SUPER SAIYAN",
+    "image": "./images/GOTENKS_SUPER_SAIYAN.jpg",
+    "dp": 7
   },
   {
-    "nom": "Super Buu",
-    "dp": 6,
-    "image": "./images/Super_Buu.jpg"
+    "nom": "GOTENKS",
+    "caracteristiques": "SUPER SAIYAN 3",
+    "image": "./images/GOTENKS_SUPER_SAIYAN_3.jpg",
+    "dp": 8
   },
   {
-    "nom": "Super Baby 1 (GT)",
-    "dp": 6,
-    "image": "./images/Super_Baby_1_(GT).jpg"
+    "nom": "KALE",
+    "image": "./images/KALE.jpg",
+    "dp": 5
   },
   {
-    "nom": "Mecha Frieza",
-    "dp": 6,
-    "image": "./images/Mecha_Frieza.jpg"
+    "nom": "KALE",
+    "caracteristiques": "SUPER SAIYAN",
+    "image": "./images/KALE_SUPER_SAIYAN.jpg",
+    "dp": 6
   },
   {
-    "nom": "Majuub (GT)",
-    "dp": 6,
-    "image": "./images/Majuub_(GT).jpg"
+    "nom": "CAULIFLA",
+    "image": "./images/CAULIFLA.jpg",
+    "dp": 5
   },
   {
-    "nom": "Majin Buu (Evil)",
-    "dp": 6,
-    "image": "./images/Majin_Buu_(Evil).jpg"
+    "nom": "CAULIFLA",
+    "caracteristiques": "SUPER SAIYAN 2",
+    "image": "./images/CAULIFLA_SUPER_SAIYAN_2.jpg",
+    "dp": 7
   },
   {
-    "nom": "Majin Buu",
-    "dp": 6,
-    "image": "./images/Majin_Buu.jpg"
+    "nom": "KEFLA",
+    "image": "./images/KEFLA.jpg",
+    "dp": 6
   },
   {
-    "nom": "Lord Slug (Giant Form)",
-    "dp": 6,
-    "image": "./images/Lord_Slug_(Giant_Form).jpg"
+    "nom": "KEFLA",
+    "caracteristiques": "SUPER SAIYAN",
+    "image": "./images/KEFLA_SUPER_SAIYAN.jpg",
+    "dp": 7
   },
   {
-    "nom": "Kefla",
-    "dp": 6,
-    "image": "./images/Kefla.jpg"
+    "nom": "KEFLA",
+    "caracteristiques": "SUPER SAIYAN 2",
+    "image": "./images/KEFLA_SUPER_SAIYAN_2.jpg",
+    "dp": 8
   },
   {
-    "nom": "Kale (Super Saiyan)",
-    "dp": 6,
-    "image": "./images/Kale_(Super_Saiyan).jpg"
+    "nom": "VEGITO",
+    "image": "./images/VEGITO.jpg",
+    "dp": 7
   },
   {
-    "nom": "Hirudegarn",
-    "dp": 6,
-    "image": "./images/Hirudegarn.jpg"
+    "nom": "VEGITO",
+    "caracteristiques": "SUPER SAIYAN GOD SUPER SAIYAN",
+    "image": "./images/VEGITO_SUPER_SAIYAN_GOD_SUPER_SAIYAN.jpg",
+    "dp": 10
   },
   {
-    "nom": "Gotenks",
-    "dp": 6,
-    "image": "./images/Gotenks.jpg"
+    "nom": "GOGETA (SUPER)",
+    "image": "./images/GOGETA_(SUPER).jpg",
+    "dp": 7
   },
   {
-    "nom": "Goku (Z – Mid, Super Saiyan)",
-    "dp": 6,
-    "image": "./images/Goku_(Z_–_Mid,_Super_Saiyan).jpg"
+    "nom": "GOGETA (SUPER)",
+    "caracteristiques": "SUPER SAIYAN",
+    "image": "./images/GOGETA_(SUPER)_SUPER_SAIYAN.jpg",
+    "dp": 8
   },
   {
-    "nom": "Goku (Z – End, Super Saiyan 2)",
-    "dp": 6,
-    "image": "./images/Goku_(Z_–_End,_Super_Saiyan_2).jpg"
+    "nom": "GOGETA (SUPER)",
+    "caracteristiques": "SUPER SAIYAN GOD SUPER SAIYAN",
+    "image": "./images/GOGETA_(SUPER)_SUPER_SAIYAN_GOD_SUPER_SAIYAN.jpg",
+    "dp": 10
   },
   {
-    "nom": "Goku (Z – End, Super Saiyan)",
-    "dp": 6,
-    "image": "./images/Goku_(Z_–_End,_Super_Saiyan).jpg"
+    "nom": "FUSED ZAMASU",
+    "image": "./images/FUSED_ZAMASU.jpg",
+    "dp": 8
   },
   {
-    "nom": "Goku (Super, Super Saiyan)",
-    "dp": 6,
-    "image": "./images/Goku_(Super,_Super_Saiyan).jpg"
+    "nom": "FUSED ZAMASU",
+    "caracteristiques": "HALF-CORRUPTED",
+    "image": "./images/FUSED_ZAMASU_HALF-CORRUPTED.jpg",
+    "dp": 9
   },
   {
-    "nom": "Goku (GT, Super Saiyan)",
-    "dp": 6,
-    "image": "./images/Goku_(GT,_Super_Saiyan).jpg"
+    "nom": "GOKU (SUPER)",
+    "caracteristiques": "ULTRA INSTINCT",
+    "image": "./images/GOKU_(SUPER)_ULTRA_INSTINCT.jpg",
+    "dp": 9
   },
   {
-    "nom": "Gohan (Teen, Super Saiyan)",
-    "dp": 6,
-    "image": "./images/Gohan_(Teen,_Super_Saiyan).jpg"
+    "nom": "GOHAN (ADULT)",
+    "caracteristiques": "SUPER SAIYAN 2",
+    "image": "./images/GOHAN_(ADULT)_SUPER_SAIYAN_2.jpg",
+    "dp": 7
   },
   {
-    "nom": "Gohan (Future, Super Saiyan)",
-    "dp": 6,
-    "image": "./images/Gohan_(Future,_Super_Saiyan).jpg"
+    "nom": "GOLDEN FRIEZA",
+    "image": "./images/GOLDEN_FRIEZA.jpg",
+    "dp": 8
   },
   {
-    "nom": "Gohan (Adult, Super Saiyan)",
-    "dp": 6,
-    "image": "./images/Gohan_(Adult,_Super_Saiyan).jpg"
+    "nom": "BARDOCK",
+    "image": "./images/BARDOCK.jpg",
+    "dp": 4
   },
   {
-    "nom": "Future Trunks (Super Saiyan)",
-    "dp": 6,
-    "image": "./images/Future_Trunks_(Super_Saiyan).jpg"
+    "nom": "RADITZ",
+    "image": "./images/RADITZ.jpg",
+    "dp": 3
   },
   {
-    "nom": "Frost",
-    "dp": 6,
-    "image": "./images/Frost.jpg"
+    "nom": "GOKU BLACK",
+    "image": "./images/GOKU_BLACK.jpg",
+    "dp": 5
   },
   {
-    "nom": "Frieza (Z, 4th Form)",
-    "dp": 6,
-    "image": "./images/Frieza_(Z,_4th_Form).jpg"
+    "nom": "ZAMASU",
+    "image": "./images/ZAMASU.jpg",
+    "dp": 5
   },
   {
-    "nom": "Frieza (Super)",
-    "dp": 6,
-    "image": "./images/Frieza_(Super).jpg"
+    "nom": "JIREN",
+    "caracteristiques": "FULL POWER",
+    "image": "./images/JIREN_FULL_POWER.jpg",
+    "dp": 9
   },
   {
-    "nom": "Dyspo",
-    "dp": 6,
-    "image": "./images/Dyspo.jpg"
+    "nom": "GOKU (SUPER)",
+    "caracteristiques": "ULTRA INSTINCT -SIGN-",
+    "image": "./images/GOKU_(SUPER)_ULTRA_INSTINCT_-SIGN-.jpg",
+    "dp": 8
   },
   {
-    "nom": "Dabura",
-    "dp": 6,
-    "image": "./images/Dabura.jpg"
+    "nom": "SUPER VEGITO",
+    "image": "./images/SUPER_VEGITO.jpg",
+    "dp": 8
   },
   {
-    "nom": "Cooler",
-    "dp": 6,
-    "image": "./images/Cooler.jpg"
+    "nom": "YAJIROBE",
+    "image": "./images/YAJIROBE.jpg",
+    "dp": 2
   },
   {
-    "nom": "Cell (Perfect Form)",
-    "dp": 6,
-    "image": "./images/Cell_(Perfect_Form).jpg"
+    "nom": "DABURA",
+    "image": "./images/DABURA.jpg",
+    "dp": 6
   },
   {
-    "nom": "Cabba (Super Saiyan)",
-    "dp": 6,
-    "image": "./images/Cabba_(Super_Saiyan).jpg"
+    "nom": "SPOPOVICH",
+    "image": "./images/SPOPOVICH.jpg",
+    "dp": 2
   },
   {
-    "nom": "Android 17 (Super)",
-    "dp": 6,
-    "image": "./images/Android_17_(Super).jpg"
+    "nom": "GOKU BLACK",
+    "caracteristiques": "SUPER SAIYAN ROSÉ",
+    "image": "./images/GOKU_BLACK_SUPER_SAIYAN_ROSÉ.jpg",
+    "dp": 8
   },
   {
-    "nom": "Zamasu",
-    "dp": 5,
-    "image": "./images/Zamasu.jpg"
+    "nom": "FUTURE TRUNKS",
+    "image": "./images/FUTURE_TRUNKS.jpg",
+    "dp": 5
   },
   {
-    "nom": "Vegeta (Z – End)",
-    "dp": 5,
-    "image": "./images/Vegeta_(Z_–_End).jpg"
+    "nom": "RIBRIANNE",
+    "image": "./images/RIBRIANNE.jpg",
+    "dp": 5
   },
   {
-    "nom": "Vegeta (Z – Early)",
-    "dp": 5,
-    "image": "./images/Vegeta_(Z_–_Early).jpg"
+    "nom": "ROASIE",
+    "image": "./images/ROASIE.jpg",
+    "dp": 5
   },
   {
-    "nom": "Vegeta (Super)",
-    "dp": 5,
-    "image": "./images/Vegeta_(Super).jpg"
+    "nom": "ANILAZA",
+    "image": "./images/ANILAZA.jpg",
+    "dp": 8
   },
   {
-    "nom": "Trunks (Melee)",
-    "dp": 5,
-    "image": "./images/Trunks_(Melee).jpg"
+    "nom": "NAIL",
+    "image": "./images/NAIL.jpg",
+    "dp": 4
   },
   {
-    "nom": "Trunks (Kid, Super Saiyan)",
-    "dp": 5,
-    "image": "./images/Trunks_(Kid,_Super_Saiyan).jpg"
+    "nom": "FRIEZA (Z)",
+    "caracteristiques": "1ST FORM",
+    "image": "./images/FRIEZA_(Z)_1ST_FORM.jpg",
+    "dp": 5
   },
   {
-    "nom": "Roasie",
-    "dp": 5,
-    "image": "./images/Roasie.jpg"
+    "nom": "FRIEZA (Z)",
+    "caracteristiques": "2ND FORM",
+    "image": "./images/FRIEZA_(Z)_2ND_FORM.jpg",
+    "dp": 5
   },
   {
-    "nom": "Ribrianne",
-    "dp": 5,
-    "image": "./images/Ribrianne.jpg"
+    "nom": "FRIEZA (Z)",
+    "caracteristiques": "3RD FORM",
+    "image": "./images/FRIEZA_(Z)_3RD_FORM.jpg",
+    "dp": 5
   },
   {
-    "nom": "Piccolo (fused with Kami)",
-    "dp": 5,
-    "image": "./images/Piccolo_(fused_with_Kami).jpg"
+    "nom": "FRIEZA (Z)",
+    "caracteristiques": "4TH FORM",
+    "image": "./images/FRIEZA_(Z)_4TH_FORM.jpg",
+    "dp": 6
   },
   {
-    "nom": "Kale",
-    "dp": 5,
-    "image": "./images/Kale.jpg"
+    "nom": "FRIEZA (Z)",
+    "caracteristiques": "FULL POWER",
+    "image": "./images/FRIEZA_(Z)_FULL_POWER.jpg",
+    "dp": 7
   },
   {
-    "nom": "Kakunsa",
-    "dp": 5,
-    "image": "./images/Kakunsa.jpg"
+    "nom": "CHIAOTZU",
+    "image": "./images/CHIAOTZU.jpg",
+    "dp": 2
   },
   {
-    "nom": "Janemba",
-    "dp": 5,
-    "image": "./images/Janemba.jpg"
+    "nom": "SAIBAMAN",
+    "image": "./images/SAIBAMAN.jpg",
+    "dp": 2
   },
   {
-    "nom": "Great Ape Vegeta",
-    "dp": 5,
-    "image": "./images/Great_Ape_Vegeta.jpg"
+    "nom": "ZARBON",
+    "image": "./images/ZARBON.jpg",
+    "dp": 3
   },
   {
-    "nom": "Goten",
-    "dp": 5,
-    "image": "./images/Goten.jpg"
+    "nom": "SUPER ZARBON",
+    "image": "./images/SUPER_ZARBON.jpg",
+    "dp": 3
   },
   {
-    "nom": "Goku Black",
-    "dp": 5,
-    "image": "./images/Goku_Black.jpg"
+    "nom": "DODORIA",
+    "image": "./images/DODORIA.jpg",
+    "dp": 3
   },
   {
-    "nom": "Goku (Z – Mid)",
-    "dp": 5,
-    "image": "./images/Goku_(Z_–_Mid).jpg"
+    "nom": "CUI",
+    "image": "./images/CUI.jpg",
+    "dp": 3
   },
   {
-    "nom": "Goku (Z – End)",
-    "dp": 5,
-    "image": "./images/Goku_(Z_–_End).jpg"
+    "nom": "GINYU",
+    "image": "./images/GINYU.jpg",
+    "dp": 4
   },
   {
-    "nom": "Goku (Super)",
-    "dp": 5,
-    "image": "./images/Goku_(Super).jpg"
+    "nom": "RECOOME",
+    "image": "./images/RECOOME.jpg",
+    "dp": 3
   },
   {
-    "nom": "Goku (GT)",
-    "dp": 5,
-    "image": "./images/Goku_(GT).jpg"
+    "nom": "GULDO",
+    "image": "./images/GULDO.jpg",
+    "dp": 2
   },
   {
-    "nom": "Gohan (Future)",
-    "dp": 5,
-    "image": "./images/Gohan_(Future).jpg"
+    "nom": "GOHAN (TEEN)",
+    "image": "./images/GOHAN_(TEEN).jpg",
+    "dp": 4
   },
   {
-    "nom": "Future Trunks",
-    "dp": 5,
-    "image": "./images/Future_Trunks.jpg"
+    "nom": "GOHAN (TEEN)",
+    "caracteristiques": "SUPER SAIYAN",
+    "image": "./images/GOHAN_(TEEN)_SUPER_SAIYAN.jpg",
+    "dp": 6
   },
   {
-    "nom": "Frieza (Z, 3rd form)",
-    "dp": 5,
-    "image": "./images/Frieza_(Z,_3rd_form).jpg"
+    "nom": "GOHAN (TEEN)",
+    "caracteristiques": "SUPER SAIYAN 2",
+    "image": "./images/GOHAN_(TEEN)_SUPER_SAIYAN_2.jpg",
+    "dp": 7
   },
   {
-    "nom": "Frieza (Z, 2nd form)",
-    "dp": 5,
-    "image": "./images/Frieza_(Z,_2nd_form).jpg"
+    "nom": "TRUNKS (MELEE)",
+    "image": "./images/TRUNKS_(MELEE).jpg",
+    "dp": 5
   },
   {
-    "nom": "Frieza (Z)",
-    "dp": 5,
-    "image": "./images/Frieza_(Z).jpg"
+    "nom": "ANDROID 17 (Z)",
+    "image": "./images/ANDROID_17_(Z).jpg",
+    "dp": 5
   },
   {
-    "nom": "Call (2nd form)",
-    "dp": 5,
-    "image": "./images/Call_(2nd_form).jpg"
+    "nom": "ANDROID 16",
+    "image": "./images/ANDROID_16.jpg",
+    "dp": 5
   },
   {
-    "nom": "Cell",
-    "dp": 5,
-    "image": "./images/Cell.jpg"
+    "nom": "ANDROID 19",
+    "image": "./images/ANDROID_19.jpg",
+    "dp": 4
   },
   {
-    "nom": "Caulifla",
-    "dp": 5,
-    "image": "./images/Caulifla.jpg"
+    "nom": "DR. GERO",
+    "image": "./images/DR._GERO.jpg",
+    "dp": 4
   },
   {
-    "nom": "Cabba",
-    "dp": 5,
-    "image": "./images/Cabba.jpg"
+    "nom": "CELL",
+    "caracteristiques": "1ST FORM",
+    "image": "./images/CELL_1ST_FORM.jpg",
+    "dp": 5
   },
   {
-    "nom": "Broly (Z)",
-    "dp": 5,
-    "image": "./images/Broly_(Z).jpg"
+    "nom": "CELL",
+    "caracteristiques": "2ND FORM",
+    "image": "./images/CELL_2ND_FORM.jpg",
+    "dp": 5
   },
   {
-    "nom": "Broly (Super)",
-    "dp": 5,
-    "image": "./images/Broly_(Super).jpg"
+    "nom": "PERFECT CELL",
+    "image": "./images/PERFECT_CELL.jpg",
+    "dp": 7
   },
   {
-    "nom": "Bojack",
-    "dp": 5,
-    "image": "./images/Bojack.jpg"
+    "nom": "CELL JR.",
+    "image": "./images/CELL_JR..jpg",
+    "dp": 3
   },
   {
-    "nom": "Bergamo",
-    "dp": 5,
-    "image": "./images/Bergamo.jpg"
+    "nom": "PICCOLO (FUSED WITH KAMI)",
+    "image": "./images/PICCOLO_(FUSED_WITH_KAMI).jpg",
+    "dp": 5
   },
   {
-    "nom": "Baby Vegeta (GT)",
-    "dp": 5,
-    "image": "./images/Baby_Vegeta_(GT).jpg"
+    "nom": "KING COLD",
+    "image": "./images/KING_COLD.jpg",
+    "dp": 4
   },
   {
-    "nom": "Android 18",
-    "dp": 5,
-    "image": "./images/Android_18.jpg"
+    "nom": "MECHA FRIEZA",
+    "image": "./images/MECHA_FRIEZA.jpg",
+    "dp": 6
   },
   {
-    "nom": "Android 17 (Z)",
-    "dp": 5,
-    "image": "./images/Android_17_(Z).jpg"
+    "nom": "GREAT SAIYAMAN",
+    "image": "./images/GREAT_SAIYAMAN.jpg",
+    "dp": 4
   },
   {
-    "nom": "Android 16",
-    "dp": 5,
-    "image": "./images/Android_16.jpg"
+    "nom": "BABIDI",
+    "image": "./images/BABIDI.jpg",
+    "dp": 3
   },
   {
-    "nom": "Android 13",
-    "dp": 5,
-    "image": "./images/Android_13.jpg"
+    "nom": "GOHAN (ADULT)",
+    "caracteristiques": "SUPER SAIYAN",
+    "image": "./images/GOHAN_(ADULT)_SUPER_SAIYAN.jpg",
+    "dp": 6
   },
   {
-    "nom": "Vegeta (Z – Scouter)",
-    "dp": 4,
-    "image": "./images/Vegeta_(Z_–_Scouter).jpg"
+    "nom": "MAJIN BUU (EVIL)",
+    "image": "./images/MAJIN_BUU_(EVIL).jpg",
+    "dp": 6
   },
   {
-    "nom": "Uub (GT)",
-    "dp": 4,
-    "image": "./images/Uub_(GT).jpg"
+    "nom": "SUPER BUU",
+    "image": "./images/SUPER_BUU.jpg",
+    "dp": 10
   },
   {
-    "nom": "Turles",
-    "dp": 4,
-    "image": "./images/Turles.jpg"
+    "nom": "ULTIMATE GOHAN",
+    "image": "./images/ULTIMATE_GOHAN.jpg",
+    "dp": 7
   },
   {
-    "nom": "Trunks (Sword)",
-    "dp": 4,
-    "image": "./images/Trunks_(Sword).jpg"
+    "nom": "SUPER BUU (GOTENKS ABSORBED)",
+    "image": "./images/SUPER_BUU_(GOTENKS_ABSORBED).jpg",
+    "dp": 7
   },
   {
-    "nom": "Trunks (Kid)",
-    "dp": 4,
-    "image": "./images/Trunks_(Kid).jpg"
+    "nom": "SUPER BUU (GOHAN ABSORBED)",
+    "image": "./images/SUPER_BUU_(GOHAN_ABSORBED).jpg",
+    "dp": 7
   },
   {
-    "nom": "Tien",
-    "dp": 4,
-    "image": "./images/Tien.jpg"
+    "nom": "KID BUU",
+    "image": "./images/KID_BUU.jpg",
+    "dp": 7
   },
   {
-    "nom": "Tapion",
-    "dp": 4,
-    "image": "./images/Tapion.jpg"
+    "nom": "GOKU (GT)",
+    "image": "./images/GOKU_(GT).jpg",
+    "dp": 5
   },
   {
-    "nom": "Super Garlic Jr.",
-    "dp": 4,
-    "image": "./images/Super_Garlic_Jr..jpg"
+    "nom": "PAN (GT)",
+    "image": "./images/PAN_(GT).jpg",
+    "dp": 3
   },
   {
-    "nom": "Piccolo",
-    "dp": 4,
-    "image": "./images/Piccolo.jpg"
+    "nom": "GOKU (GT)",
+    "caracteristiques": "SUPER SAIYAN",
+    "image": "./images/GOKU_(GT)_SUPER_SAIYAN.jpg",
+    "dp": 6
   },
   {
-    "nom": "Nail",
-    "dp": 4,
-    "image": "./images/Nail.jpg"
+    "nom": "BABY VEGETA (GT)",
+    "image": "./images/BABY_VEGETA_(GT).jpg",
+    "dp": 5
   },
   {
-    "nom": "Lord Slug",
-    "dp": 4,
-    "image": "./images/Lord_Slug.jpg"
+    "nom": "GOKU (GT)",
+    "caracteristiques": "SUPER SAIYAN 3",
+    "image": "./images/GOKU_(GT)_SUPER_SAIYAN_3.jpg",
+    "dp": 7
   },
   {
-    "nom": "King Cold",
-    "dp": 4,
-    "image": "./images/King_Cold.jpg"
+    "nom": "SUPER BABY 1 (GT)",
+    "image": "./images/SUPER_BABY_1_(GT).jpg",
+    "dp": 10
   },
   {
-    "nom": "Great Saiyaman",
-    "dp": 4,
-    "image": "./images/Great_Saiyaman.jpg"
+    "nom": "SUPER BABY 2 (GT)",
+    "image": "./images/SUPER_BABY_2_(GT).jpg",
+    "dp": 7
   },
   {
-    "nom": "Goten",
-    "dp": 4,
-    "image": "./images/Goten.jpg"
+    "nom": "UUB (GT)",
+    "image": "./images/UUB_(GT).jpg",
+    "dp": 4
   },
   {
-    "nom": "Goku (Z – Early)",
-    "dp": 4,
-    "image": "./images/Goku_(Z_–_Early).jpg"
+    "nom": "MAJUUB (GT)",
+    "image": "./images/MAJUUB_(GT).jpg",
+    "dp": 6
   },
   {
-    "nom": "Goku (Mini)",
-    "dp": 4,
-    "image": "./images/Goku_(Mini).jpg"
+    "nom": "GOKU (GT)",
+    "caracteristiques": "SUPER SAIYAN 4",
+    "image": "./images/GOKU_(GT)_SUPER_SAIYAN_4.jpg",
+    "dp": 8
   },
   {
-    "nom": "Gohan (Teen)",
-    "dp": 4,
-    "image": "./images/Gohan_(Teen).jpg"
+    "nom": "GREAT APE BABY (GT)",
+    "image": "./images/GREAT_APE_BABY_(GT).jpg",
+    "dp": 7
   },
   {
-    "nom": "Gohan (Adult)",
-    "dp": 4,
-    "image": "./images/Gohan_(Adult).jpg"
+    "nom": "SYN SHENRON",
+    "image": "./images/SYN_SHENRON.jpg",
+    "dp": 7
   },
   {
-    "nom": "Dr. Wheelo",
-    "dp": 4,
-    "image": "./images/Dr._Wheelo.jpg"
+    "nom": "OMEGA SHENRON (GT)",
+    "image": "./images/OMEGA_SHENRON_(GT).jpg",
+    "dp": 8
   },
   {
-    "nom": "Dr. Gero",
-    "dp": 4,
-    "image": "./images/Dr._Gero.jpg"
+    "nom": "VEGETA (GT)",
+    "caracteristiques": "SUPER SAIYAN 4",
+    "image": "./images/VEGETA_(GT)_SUPER_SAIYAN_4.jpg",
+    "dp": 8
   },
   {
-    "nom": "Captain Ginyu",
-    "dp": 4,
-    "image": "./images/Captain_Ginyu.jpg"
+    "nom": "GOGETA (GT)",
+    "caracteristiques": "SUPER SAIYAN 4",
+    "image": "./images/GOGETA_(GT)_SUPER_SAIYAN_4.jpg",
+    "dp": 10
   },
   {
-    "nom": "Bardock",
-    "dp": 4,
-    "image": "./images/Bardock.jpg"
+    "nom": "FRIEZA FORCE SOLDIER",
+    "image": "./images/FRIEZA_FORCE_SOLDIER.jpg",
+    "dp": 2
   },
   {
-    "nom": "Android 19",
-    "dp": 4,
-    "image": "./images/Android_19.jpg"
+    "nom": "CABBA",
+    "image": "./images/CABBA.jpg",
+    "dp": 5
   },
   {
-    "nom": "Zarbon",
-    "dp": 3,
-    "image": "./images/Zarbon.jpg"
+    "nom": "FROST",
+    "image": "./images/FROST.jpg",
+    "dp": 6
   },
   {
-    "nom": "Yamcha",
-    "dp": 3,
-    "image": "./images/Yamcha.jpg"
+    "nom": "TOPPO, GOD OF DESTRUCTION",
+    "image": "./images/TOPPO,_GOD_OF_DESTRUCTION.jpg",
+    "dp": 8
   },
   {
-    "nom": "Super Zarbon",
-    "dp": 3,
-    "image": "./images/Super_Zarbon.jpg"
+    "nom": "CABBA",
+    "caracteristiques": "SUPER SAIYAN",
+    "image": "./images/CABBA_SUPER_SAIYAN.jpg",
+    "dp": 6
   },
   {
-    "nom": "Recoome",
-    "dp": 3,
-    "image": "./images/Recoome.jpg"
+    "nom": "CABBA",
+    "caracteristiques": "SUPER SAIYAN 2",
+    "image": "./images/CABBA_SUPER_SAIYAN_2.jpg",
+    "dp": 7
   },
   {
-    "nom": "Raditz",
-    "dp": 3,
-    "image": "./images/Raditz.jpg"
+    "nom": "BROLY (Z)",
+    "image": "./images/BROLY_(Z).jpg",
+    "dp": 5
   },
   {
-    "nom": "Pan (GT)",
-    "dp": 3,
-    "image": "./images/Pan_(GT).jpg"
+    "nom": "BROLY (Z)",
+    "caracteristiques": "SUPER SAIYAN",
+    "image": "./images/BROLY_(Z)_SUPER_SAIYAN.jpg",
+    "dp": 7
   },
   {
-    "nom": "Nappa",
-    "dp": 3,
-    "image": "./images/Nappa.jpg"
+    "nom": "BROLY (Z)",
+    "caracteristiques": "LEGENDARY SUPER SAIYAN",
+    "image": "./images/BROLY_(Z)_LEGENDARY_SUPER_SAIYAN.jpg",
+    "dp": 9
   },
   {
-    "nom": "Krillin",
-    "dp": 3,
-    "image": "./images/Krillin.jpg"
+    "nom": "COOLER",
+    "image": "./images/COOLER.jpg",
+    "dp": 6
   },
   {
-    "nom": "Jeice",
-    "dp": 3,
-    "image": "./images/Jeice.jpg"
+    "nom": "COOLER",
+    "caracteristiques": "FINAL FORM",
+    "image": "./images/COOLER_FINAL_FORM.jpg",
+    "dp": 7
   },
   {
-    "nom": "Goku (Teen)",
-    "dp": 3,
-    "image": "./images/Goku_(Teen).jpg"
+    "nom": "METAL COOLER",
+    "image": "./images/METAL_COOLER.jpg",
+    "dp": 7
   },
   {
-    "nom": "Gohan (Kid)",
-    "dp": 3,
-    "image": "./images/Gohan_(Kid).jpg"
+    "nom": "ANDROID 13",
+    "image": "./images/ANDROID_13.jpg",
+    "dp": 5
   },
   {
-    "nom": "Dodoria",
-    "dp": 3,
-    "image": "./images/Dodoria.jpg"
+    "nom": "FUSION ANDROID 13",
+    "image": "./images/FUSION_ANDROID_13.jpg",
+    "dp": 7
   },
   {
-    "nom": "Cui",
-    "dp": 3,
-    "image": "./images/Cui.jpg"
+    "nom": "SUPER GARLIC JR.",
+    "image": "./images/SUPER_GARLIC_JR..jpg",
+    "dp": 4
   },
   {
-    "nom": "Cell Jr.",
-    "dp": 3,
-    "image": "./images/Cell_Jr..jpg"
+    "nom": "DR. WHEELO",
+    "image": "./images/DR._WHEELO.jpg",
+    "dp": 4
   },
   {
-    "nom": "Burter",
-    "dp": 3,
-    "image": "./images/Burter.jpg"
+    "nom": "LORD SLUG",
+    "image": "./images/LORD_SLUG.jpg",
+    "dp": 4
   },
   {
-    "nom": "Babidi",
-    "dp": 3,
-    "image": "./images/Babidi.jpg"
+    "nom": "LORD SLUG",
+    "caracteristiques": "GIANT FORM",
+    "image": "./images/LORD_SLUG_GIANT_FORM.jpg",
+    "dp": 6
   },
   {
-    "nom": "Yajirobe",
-    "dp": 2,
-    "image": "./images/Yajirobe.jpg"
+    "nom": "TURLES",
+    "image": "./images/TURLES.jpg",
+    "dp": 4
   },
   {
-    "nom": "Videl",
-    "dp": 2,
-    "image": "./images/Videl.jpg"
+    "nom": "BOJACK",
+    "image": "./images/BOJACK.jpg",
+    "dp": 5
   },
   {
-    "nom": "Spopovich",
-    "dp": 2,
-    "image": "./images/Spopovich.jpg"
+    "nom": "FULL-POWER BOJACK",
+    "image": "./images/FULL-POWER_BOJACK.jpg",
+    "dp": 7
   },
   {
-    "nom": "Saibaman",
-    "dp": 2,
-    "image": "./images/Saibaman.jpg"
+    "nom": "HIRUDEGARN",
+    "image": "./images/HIRUDEGARN.jpg",
+    "dp": 6
   },
   {
-    "nom": "Master Roshi (Max Power)",
-    "dp": 2,
-    "image": "./images/Master_Roshi_(Max_Power).jpg"
+    "nom": "TAPION",
+    "image": "./images/TAPION.jpg",
+    "dp": 4
   },
   {
-    "nom": "Master Roshi",
-    "dp": 2,
-    "image": "./images/Master_Roshi.jpg"
+    "nom": "JANEMBA",
+    "image": "./images/JANEMBA.jpg",
+    "dp": 5
   },
   {
-    "nom": "Guldo",
-    "dp": 2,
-    "image": "./images/Guldo.jpg"
+    "nom": "SUPER JANEMBA",
+    "image": "./images/SUPER_JANEMBA.jpg",
+    "dp": 7
   },
   {
-    "nom": "Frieza Force Soldier",
-    "dp": 2,
-    "image": "./images/Frieza_Force_Soldier.jpg"
+    "nom": "SUPER GOGETA (Z)",
+    "image": "./images/SUPER_GOGETA_(Z).jpg",
+    "dp": 8
   },
   {
-    "nom": "Chiaotzu",
-    "dp": 2,
-    "image": "./images/Chiaotzu.jpg"
+    "nom": "GOKU (TEEN)",
+    "image": "./images/GOKU_(TEEN).jpg",
+    "dp": 3
   },
   {
-    "nom": "Mr. Satan",
-    "dp": 1,
-    "image": "./images/Mr._Satan.jpg"
+    "nom": "GOKU (MINI)",
+    "image": "./images/GOKU_(MINI).jpg",
+    "dp": 4
   }
 ]
