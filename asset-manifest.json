@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/teamBuilder/static/css/main.9cb15c3c.css",
+    "main.js": "/teamBuilder/static/js/main.dbbdae38.js",
+    "static/js/453.56f68652.chunk.js": "/teamBuilder/static/js/453.56f68652.chunk.js",
+    "index.html": "/teamBuilder/index.html",
+    "main.9cb15c3c.css.map": "/teamBuilder/static/css/main.9cb15c3c.css.map",
+    "main.dbbdae38.js.map": "/teamBuilder/static/js/main.dbbdae38.js.map",
+    "453.56f68652.chunk.js.map": "/teamBuilder/static/js/453.56f68652.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9cb15c3c.css",
+    "static/js/main.dbbdae38.js"
+  ]
+}
