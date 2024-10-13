@@ -59,23 +59,23 @@ function CharacterList({ onSelectCharacter, selectedCharacters }) {
         <div className="search-bar">
           <input
             type="text"
-            placeholder="Rechercher un personnage"
+            placeholder="Search for a character"
             value={searchTerm}
             onChange={handleSearchChange}
           />
         </div>
         <div className="sort-buttons">
           <button onClick={() => sortCharacters('nom')}>
-            Trier par nom {sortCriteria === 'nom' && (sortOrder === 'asc' ? '▲' : '▼')}
+            Sort by name {sortCriteria === 'nom' && (sortOrder === 'asc' ? '▲' : '▼')}
           </button>
           <button onClick={() => sortCharacters('dp')}>
-            Trier par DP {sortCriteria === 'dp' && (sortOrder === 'asc' ? '▲' : '▼')}
+            Sort by DP {sortCriteria === 'dp' && (sortOrder === 'asc' ? '▲' : '▼')}
           </button>
         </div>
         <div className="dp-filter">
           <label htmlFor="dp-select">Filtrer par DP: </label>
           <select id="dp-select" value={dpFilter} onChange={handleDpFilterChange}>
-            <option value="all">Tous</option>
+            <option value="all">All</option>
             {uniqueDpValues.map(dp => (
               <option key={dp} value={dp}>{dp}</option>
             ))}

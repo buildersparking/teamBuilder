@@ -21,12 +21,12 @@ function TeamBuilder() {
 
   return (
     <div className="team-builder">
-      <h1>Constructeur d'équipe Dragon Ball Sparking Zero</h1>
+      <h1>Dragon Ball Sparking Zero Team Builder</h1>
       <div className="selected-team">
-        <h2>Équipe sélectionnée ({team.length}/5)</h2>
+        <h2>Selected Team ({team.length}/5)</h2>
         <p className="total-dp">DP Total: {totalDP}</p>
         {isOverDPLimit && (
-          <p className="warning-message">Attention : la limite de 15 DP est dépassée !</p>
+          <p className="warning-message">Warning : the 15 DP limit is exceeded !</p>
         )}
         <div className="team-members">
           {team.map((character, index) => (
