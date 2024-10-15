@@ -6,8 +6,8 @@ import './App.css';
 function App() {
   useEffect(() => {
     console.log("Début de l'initialisation de Google Analytics");
-    ReactGA.initialize('9829337711');
-    console.log("Google Analytics initialisé avec l'ID : 9829337711");
+    ReactGA.initialize('G-00NH7VFK3X');
+    console.log("Google Analytics initialisé avec l'ID : G-00NH7VFK3X");
     
     ReactGA.send({ hitType: "pageview", page: window.location.pathname });
     console.log("Pageview envoyé pour : " + window.location.pathname);
