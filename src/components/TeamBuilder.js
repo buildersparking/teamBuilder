@@ -13,6 +13,10 @@ function TeamBuilder() {
     }
   };
 
+  const handleRemoveCharacter = (characterToRemove) => {
+    setTeam(team.filter(character => character.nom !== characterToRemove.nom));
+  };
+
   const totalDP = team.reduce((sum, character) => sum + character.dp, 0);
 
   useEffect(() => {
@@ -31,6 +35,12 @@ function TeamBuilder() {
         <div className="team-members">
           {team.map((character, index) => (
             <div key={index} className="team-member">
+              <button 
+                className="remove-character" 
+                onClick={() => handleRemoveCharacter(character)}
+              >
+                ×
+              </button>
               <img src={character.image} alt={character.nom} className="team-member-image" />
               <span>{character.nom} (DP: {character.dp})</span>
             </div>

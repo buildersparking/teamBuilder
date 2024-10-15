@@ -162,7 +162,7 @@
     "nom": "FUTURE TRUNKS",
     "caracteristiques": "SUPER SAIYAN",
     "image": "./images/FUTURE_TRUNKS_SUPER_SAIYAN.jpg",
-    "dp": 10
+    "dp": 6
   },
   {
     "nom": "FRIEZA (SUPER)",
@@ -721,7 +721,7 @@
   {
     "nom": "SUPER BUU",
     "image": "./images/SUPER_BUU.jpg",
-    "dp": 10
+    "dp": 7
   },
   {
     "nom": "ULTIMATE GOHAN",
@@ -773,7 +773,7 @@
   {
     "nom": "SUPER BABY 1 (GT)",
     "image": "./images/SUPER_BABY_1_(GT).jpg",
-    "dp": 10
+    "dp": 6
   },
   {
     "nom": "SUPER BABY 2 (GT)",
