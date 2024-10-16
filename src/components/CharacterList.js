@@ -73,7 +73,7 @@ function CharacterList({ onSelectCharacter, selectedCharacters }) {
           </button>
         </div>
         <div className="dp-filter">
-          <label htmlFor="dp-select">Filtrer par DP: </label>
+          <label htmlFor="dp-select">Filter by DP: </label>
           <select id="dp-select" value={dpFilter} onChange={handleDpFilterChange}>
             <option value="all">All</option>
             {uniqueDpValues.map(dp => (

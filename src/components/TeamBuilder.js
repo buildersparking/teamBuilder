@@ -25,7 +25,7 @@ function TeamBuilder() {
 
   return (
     <div className="team-builder">
-     <h1>Dragon Ball Sparking Zero Team Builder</h1>
+     <h1>Dragon Ball Sparking! Zero Team Builder</h1>
       <div className="selected-team">
         <h2>Selected Team ({team.length}/5)</h2>
         <p className="total-dp">DP Total: {totalDP}</p>
