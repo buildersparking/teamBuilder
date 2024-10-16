@@ -249,3 +249,22 @@ h1 {
   margin-bottom: 15px;
   /* Pas besoin d'ajouter text-align: center; ici */
 }
+
+footer {
+  margin-top: 20px;
+  text-align: center;
+  font-size: 0.8em;
+  color: #666;
+}
+
+footer a {
+  color: #4a525b;
+  text-decoration: none;
+}
+
+.logo-dbsz {
+  display: block;
+  margin: 0 auto 20px;
+  max-width: 100%;
+  height: auto;
+}
