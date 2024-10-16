@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/teamBuilder/static/css/main.edefd787.css",
+    "main.css": "/teamBuilder/static/css/main.f77be8df.css",
     "main.js": "/teamBuilder/static/js/main.128fd82e.js",
     "static/js/453.56f68652.chunk.js": "/teamBuilder/static/js/453.56f68652.chunk.js",
     "static/media/MASTER_ROSHI.jpg": "/teamBuilder/static/media/MASTER_ROSHI.c1f968fd4858c7e75c29.jpg",
@@ -186,12 +186,12 @@
     "static/media/MAJIN_BUU_(EVIL).jpg": "/teamBuilder/static/media/MAJIN_BUU_(EVIL).d0860e99cc2ee8e040e1.jpg",
     "static/media/BERGAMO.jpg": "/teamBuilder/static/media/BERGAMO.9243775292cb6b59d3b2.jpg",
     "index.html": "/teamBuilder/index.html",
-    "main.edefd787.css.map": "/teamBuilder/static/css/main.edefd787.css.map",
+    "main.f77be8df.css.map": "/teamBuilder/static/css/main.f77be8df.css.map",
     "main.128fd82e.js.map": "/teamBuilder/static/js/main.128fd82e.js.map",
     "453.56f68652.chunk.js.map": "/teamBuilder/static/js/453.56f68652.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.edefd787.css",
+    "static/css/main.f77be8df.css",
     "static/js/main.128fd82e.js"
   ]
 }
