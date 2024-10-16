@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/teamBuilder/static/css/main.f77be8df.css",
-    "main.js": "/teamBuilder/static/js/main.128fd82e.js",
+    "main.css": "/teamBuilder/static/css/main.883a9a51.css",
+    "main.js": "/teamBuilder/static/js/main.4d78d964.js",
     "static/js/453.56f68652.chunk.js": "/teamBuilder/static/js/453.56f68652.chunk.js",
     "static/media/MASTER_ROSHI.jpg": "/teamBuilder/static/media/MASTER_ROSHI.c1f968fd4858c7e75c29.jpg",
     "static/media/GOHAN_(ADULT).jpg": "/teamBuilder/static/media/GOHAN_(ADULT).0a02a1beb9fd27288f9c.jpg",
@@ -186,12 +186,12 @@
     "static/media/MAJIN_BUU_(EVIL).jpg": "/teamBuilder/static/media/MAJIN_BUU_(EVIL).d0860e99cc2ee8e040e1.jpg",
     "static/media/BERGAMO.jpg": "/teamBuilder/static/media/BERGAMO.9243775292cb6b59d3b2.jpg",
     "index.html": "/teamBuilder/index.html",
-    "main.f77be8df.css.map": "/teamBuilder/static/css/main.f77be8df.css.map",
-    "main.128fd82e.js.map": "/teamBuilder/static/js/main.128fd82e.js.map",
+    "main.883a9a51.css.map": "/teamBuilder/static/css/main.883a9a51.css.map",
+    "main.4d78d964.js.map": "/teamBuilder/static/js/main.4d78d964.js.map",
     "453.56f68652.chunk.js.map": "/teamBuilder/static/js/453.56f68652.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f77be8df.css",
-    "static/js/main.128fd82e.js"
+    "static/css/main.883a9a51.css",
+    "static/js/main.4d78d964.js"
   ]
 }
