@@ -1,5 +1,6 @@
 import React, { useEffect } from 'react';
 import ReactGA from 'react-ga4';
+import { Routes, Route } from 'react-router-dom';
 import TeamBuilder from './components/TeamBuilder';
 import './App.css';
 
@@ -17,7 +18,11 @@ function App() {
 
   return (
     <div className="app-container">
-      <TeamBuilder />
+      <Routes>
+        {/* Route pour TeamBuilder */}
+        <Route path="/" element={<TeamBuilder />} />
+        {/* Vous pouvez ajouter d'autres routes ici */}
+      </Routes>
     </div>
   );
 }
