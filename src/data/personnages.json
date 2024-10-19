@@ -1,972 +1,972 @@
 [
   {
     "nom": "GOKU (Z-EARLY)",
-    "image": "./images/GOKU_(Z-EARLY).jpg",
+    "image": "images/GOKU_(Z-EARLY).jpg",
     "dp": 4
   },
   {
     "nom": "GOKU (Z-MID)",
-    "image": "./images/GOKU_(Z-MID).jpg",
+    "image": "images/GOKU_(Z-MID).jpg",
     "dp": 5
   },
   {
     "nom": "GOKU (Z-MID)",
     "caracteristiques": "SUPER SAIYAN",
-    "image": "./images/GOKU_(Z-MID)_SUPER_SAIYAN.jpg",
+    "image": "images/GOKU_(Z-MID)_SUPER_SAIYAN.jpg",
     "dp": 6
   },
   {
     "nom": "GOKU (Z-END)",
-    "image": "./images/GOKU_(Z-END).jpg",
+    "image": "images/GOKU_(Z-END).jpg",
     "dp": 5
   },
   {
     "nom": "GOKU (Z-END)",
     "caracteristiques": "SUPER SAIYAN",
-    "image": "./images/GOKU_(Z-END)_SUPER_SAIYAN.jpg",
+    "image": "images/GOKU_(Z-END)_SUPER_SAIYAN.jpg",
     "dp": 6
   },
   {
     "nom": "GOKU (Z-END)",
     "caracteristiques": "SUPER SAIYAN 2",
-    "image": "./images/GOKU_(Z-END)_SUPER_SAIYAN_2.jpg",
+    "image": "images/GOKU_(Z-END)_SUPER_SAIYAN_2.jpg",
     "dp": 6
   },
   {
     "nom": "GOKU (Z-END)",
     "caracteristiques": "SUPER SAIYAN 3",
-    "image": "./images/GOKU_(Z-END)_SUPER_SAIYAN_3.jpg",
+    "image": "images/GOKU_(Z-END)_SUPER_SAIYAN_3.jpg",
     "dp": 7
   },
   {
     "nom": "GOKU (SUPER)",
-    "image": "./images/GOKU_(SUPER).jpg",
+    "image": "images/GOKU_(SUPER).jpg",
     "dp": 5
   },
   {
     "nom": "GOKU (SUPER)",
     "caracteristiques": "SUPER SAIYAN",
-    "image": "./images/GOKU_(SUPER)_SUPER_SAIYAN.jpg",
+    "image": "images/GOKU_(SUPER)_SUPER_SAIYAN.jpg",
     "dp": 6
   },
   {
     "nom": "GOKU (SUPER)",
     "caracteristiques": "SUPER SAIYAN GOD",
-    "image": "./images/GOKU_(SUPER)_SUPER_SAIYAN_GOD.jpg",
+    "image": "images/GOKU_(SUPER)_SUPER_SAIYAN_GOD.jpg",
     "dp": 7
   },
   {
     "nom": "GOKU (SUPER)",
     "caracteristiques": "SUPER SAIYAN GOD SUPER SAIYAN",
-    "image": "./images/GOKU_(SUPER)_SUPER_SAIYAN_GOD_SUPER_SAIYAN.jpg",
+    "image": "images/GOKU_(SUPER)_SUPER_SAIYAN_GOD_SUPER_SAIYAN.jpg",
     "dp": 8
   },
   {
     "nom": "VEGETA (Z-SCOUTER)",
-    "image": "./images/VEGETA-Z-SCOUTER.jpg",
+    "image": "images/VEGETA-Z-SCOUTER.jpg",
     "dp": 4
   },
   {
     "nom": "GREAT APE VEGETA",
-    "image": "./images/GREAT_APE_VEGETA.jpg",
+    "image": "images/GREAT_APE_VEGETA.jpg",
     "dp": 5
   },
   {
     "nom": "VEGETA (Z-EARLY)",
-    "image": "./images/VEGETA_(Z-EARLY).jpg",
+    "image": "images/VEGETA_(Z-EARLY).jpg",
     "dp": 5
   },
   {
     "nom": "VEGETA (Z-EARLY)",
     "caracteristiques": "SUPER SAIYAN",
-    "image": "./images/VEGETA_(Z-EARLY)_SUPER_SAIYAN.jpg",
+    "image": "images/VEGETA_(Z-EARLY)_SUPER_SAIYAN.jpg",
     "dp": 6
   },
   {
     "nom": "SUPER VEGETA",
-    "image": "./images/SUPER_VEGETA.jpg",
+    "image": "images/SUPER_VEGETA.jpg",
     "dp": 6
   },
   {
     "nom": "VEGETA (Z-END)",
-    "image": "./images/VEGETA_(Z-END).jpg",
+    "image": "images/VEGETA_(Z-END).jpg",
     "dp": 5
   },
   {
     "nom": "VEGETA (Z-END)",
     "caracteristiques": "SUPER SAIYAN",
-    "image": "./images/VEGETA_(Z-END)_SUPER_SAIYAN.jpg",
+    "image": "images/VEGETA_(Z-END)_SUPER_SAIYAN.jpg",
     "dp": 6
   },
   {
     "nom": "VEGETA (Z-END)",
     "caracteristiques": "SUPER SAIYAN 2",
-    "image": "./images/VEGETA_(Z-END)_SUPER_SAIYAN_2.jpg",
+    "image": "images/VEGETA_(Z-END)_SUPER_SAIYAN_2.jpg",
     "dp": 6
   },
   {
     "nom": "MAJIN VEGETA",
-    "image": "./images/MAJIN_VEGETA.jpg",
+    "image": "images/MAJIN_VEGETA.jpg",
     "dp": 7
   },
   {
     "nom": "VEGETA (SUPER)",
-    "image": "./images/VEGETA_(SUPER).jpg",
+    "image": "images/VEGETA_(SUPER).jpg",
     "dp": 5
   },
   {
     "nom": "VEGETA (SUPER)",
     "caracteristiques": "SUPER SAIYAN",
-    "image": "./images/VEGETA_(SUPER)_SUPER_SAIYAN.jpg",
+    "image": "images/VEGETA_(SUPER)_SUPER_SAIYAN.jpg",
     "dp": 6
   },
   {
     "nom": "VEGETA (SUPER)",
     "caracteristiques": "SUPER SAIYAN GOD",
-    "image": "./images/VEGETA_(SUPER)_SUPER_SAIYAN_GOD.jpg",
+    "image": "images/VEGETA_(SUPER)_SUPER_SAIYAN_GOD.jpg",
     "dp": 7
   },
   {
     "nom": "VEGETA (SUPER)",
     "caracteristiques": "SUPER SAIYAN GOD SUPER SAIYAN",
-    "image": "./images/VEGETA_(SUPER)_SUPER_SAIYAN_GOD_SUPER_SAIYAN.jpg",
+    "image": "images/VEGETA_(SUPER)_SUPER_SAIYAN_GOD_SUPER_SAIYAN.jpg",
     "dp": 8
   },
   {
     "nom": "PICCOLO",
-    "image": "./images/PICCOLO.jpg",
+    "image": "images/PICCOLO.jpg",
     "dp": 4
   },
   {
     "nom": "KRILLIN",
-    "image": "./images/KRILLIN.jpg",
+    "image": "images/KRILLIN.jpg",
     "dp": 3
   },
   {
     "nom": "YAMCHA",
-    "image": "./images/YAMCHA.jpg",
+    "image": "images/YAMCHA.jpg",
     "dp": 3
   },
   {
     "nom": "TIEN",
-    "image": "./images/TIEN.jpg",
+    "image": "images/TIEN.jpg",
     "dp": 4
   },
   {
     "nom": "TRUNKS (MELEE)",
     "caracteristiques": "SUPER SAIYAN",
-    "image": "./images/TRUNKS_(MELEE)_SUPER_SAIYAN.jpg",
+    "image": "images/TRUNKS_(MELEE)_SUPER_SAIYAN.jpg",
     "dp": 6
   },
   {
     "nom": "FUTURE TRUNKS",
     "caracteristiques": "SUPER SAIYAN",
-    "image": "./images/FUTURE_TRUNKS_SUPER_SAIYAN.jpg",
+    "image": "images/FUTURE_TRUNKS_SUPER_SAIYAN.jpg",
     "dp": 6
   },
   {
     "nom": "FRIEZA (SUPER)",
-    "image": "./images/FRIEZA_(SUPER).jpg",
+    "image": "images/FRIEZA_(SUPER).jpg",
     "dp": 6
   },
   {
     "nom": "CELL",
     "caracteristiques": "PERFECT FORM",
-    "image": "./images/CELL_PERFECT_FORM.jpg",
+    "image": "images/CELL_PERFECT_FORM.jpg",
     "dp": 6
   },
   {
     "nom": "MAJIN BUU",
-    "image": "./images/MAJIN_BUU.jpg",
+    "image": "images/MAJIN_BUU.jpg",
     "dp": 6 
   },
   {
     "nom": "MR. SATAN",
-    "image": "./images/MR._SATAN.jpg",
+    "image": "images/MR._SATAN.jpg",
     "dp": 1
   },
   {
     "nom": "ANDROID 17 (SUPER)",
-    "image": "./images/ANDROID_17_(SUPER).jpg",
+    "image": "images/ANDROID_17_(SUPER).jpg",
     "dp": 6
   },
   {
     "nom": "ANDROID 18",
-    "image": "./images/ANDROID_18.jpg",
+    "image": "images/ANDROID_18.jpg",
     "dp": 5
   },
   {
     "nom": "BROLY (SUPER)",
-    "image": "./images/BROLY_(SUPER).jpg",
+    "image": "images/BROLY_(SUPER).jpg",
     "dp": 5
   },
   {
     "nom": "BROLY (SUPER)",
     "caracteristiques": "SUPER SAIYAN",
-    "image": "./images/BROLY_(SUPER)_SUPER_SAIYAN.jpg",
+    "image": "images/BROLY_(SUPER)_SUPER_SAIYAN.jpg",
     "dp": 7
   },
   {
     "nom": "JIREN",
-    "image": "./images/JIREN.jpg",
+    "image": "images/JIREN.jpg",
     "dp": 8
   },
   {
     "nom": "BERGAMO",
-    "image": "./images/BERGAMO.jpg",
+    "image": "images/BERGAMO.jpg",
     "dp": 5
   },
   {
     "nom": "SUPER TRUNKS",
-    "image": "./images/SUPER_TRUNKS.jpg",
+    "image": "images/SUPER_TRUNKS.jpg",
     "dp": 6
   },
   {
     "nom": "DYSPO",
-    "image": "./images/DYSPO.jpg",
+    "image": "images/DYSPO.jpg",
     "dp": 6 
   },
   {
     "nom": "KAKUNSA",
-    "image": "./images/KAKUNSA.jpg",
+    "image": "images/KAKUNSA.jpg",
     "dp": 5
   },
   {
     "nom": "MASTER ROSHI",
     "caracteristiques": "MAX POWER",
-    "image": "./images/MASTER_ROSHI_MAX_POWER.jpg",
+    "image": "images/MASTER_ROSHI_MAX_POWER.jpg",
     "dp": 2
   },
   {
     "nom": "NAPPA",
-    "image": "./images/NAPPA.jpg",
+    "image": "images/NAPPA.jpg",
     "dp": 3
   },
   {
     "nom": "BURTER",
-    "image": "./images/BURTER.jpg",
+    "image": "images/BURTER.jpg",
     "dp": 3
   },
   {
     "nom": "TOPPO",
-    "image": "./images/TOPPO.jpg",
+    "image": "images/TOPPO.jpg",
     "dp": 7
   },
   {
     "nom": "JEICE",
-    "image": "./images/JEICE.jpg",
+    "image": "images/JEICE.jpg",
     "dp": 3
   },
   {
     "nom": "KALE",
     "caracteristiques": "SUPER SAIYAN (BERSERK)",
-    "image": "./images/KALE_SUPER_SAIYAN_(BERSERK).jpg",
+    "image": "images/KALE_SUPER_SAIYAN_(BERSERK).jpg",
     "dp": 7
   },
   {
     "nom": "BROLY (SUPER)",
     "caracteristiques": "SUPER SAIYAN FULL POWER",
-    "image": "./images/BROLY_(SUPER)_SUPER_SAIYAN_FULL_POWER.jpg",
+    "image": "images/BROLY_(SUPER)_SUPER_SAIYAN_FULL_POWER.jpg",
     "dp": 9
   },
   {
     "nom": "HIT",
-    "image": "./images/HIT.jpg",
+    "image": "images/HIT.jpg",
     "dp": 8
   },
   {
     "nom": "BEERUS",
-    "image": "./images/BEERUS.jpg",
+    "image": "images/BEERUS.jpg",
     "dp": 10
   },
   {
     "nom": "GOHAN (ADULT)",
-    "image": "./images/GOHAN_(ADULT).jpg",
+    "image": "images/GOHAN_(ADULT).jpg",
     "dp": 4
   },
   {
     "nom": "VIDEL",
-    "image": "./images/VIDEL.jpg",
+    "image": "images/VIDEL.jpg",
     "dp": 2
   },
   {
     "nom": "GOHAN (FUTURE)",
-    "image": "./images/GOHAN_(FUTURE).jpg",
+    "image": "images/GOHAN_(FUTURE).jpg",
     "dp": 5
   },
   {
     "nom": "GOHAN (FUTURE)",
     "caracteristiques": "SUPER SAIYAN",
-    "image": "./images/GOHAN_(FUTURE)_SUPER_SAIYAN.jpg",
+    "image": "images/GOHAN_(FUTURE)_SUPER_SAIYAN.jpg",
     "dp": 6
   },
   {
     "nom": "GOHAN (KID)",
-    "image": "./images/GOHAN_(KID).jpg",
+    "image": "images/GOHAN_(KID).jpg",
     "dp": 3
   },
   {
     "nom": "MASTER ROSHI",
-    "image": "./images/MASTER_ROSHI.jpg",
+    "image": "images/MASTER_ROSHI.jpg",
     "dp": 2
   },
   {
     "nom": "TRUNKS (SWORD)",
-    "image": "./images/TRUNKS_(SWORD).jpg",
+    "image": "images/TRUNKS_(SWORD).jpg",
     "dp": 4
   },
   {
     "nom": "TRUNKS (SWORD)",
     "caracteristiques": "SUPER SAIYAN",
-    "image": "./images/TRUNKS_(SWORD)_SUPER_SAIYAN.jpg",
+    "image": "images/TRUNKS_(SWORD)_SUPER_SAIYAN.jpg",
     "dp": 6
   },
   {
     "nom": "WHIS",
-    "image": "./images/WHIS.jpg",
+    "image": "images/WHIS.jpg",
     "dp": 10
   },
   {
     "nom": "TRUNKS (KID)",
-    "image": "./images/TRUNKS_(KID).jpg",
+    "image": "images/TRUNKS_(KID).jpg",
     "dp": 4
   },
   {
     "nom": "TRUNKS (KID)",
     "caracteristiques": "SUPER SAIYAN",
-    "image": "./images/TRUNKS_(KID)_SUPER_SAIYAN.jpg",
+    "image": "images/TRUNKS_(KID)_SUPER_SAIYAN.jpg",
     "dp": 5
   },
   {
     "nom": "GOTEN",
-    "image": "./images/GOTEN.jpg",
+    "image": "images/GOTEN.jpg",
     "dp": 4
   },
   {
     "nom": "GOTEN",
     "caracteristiques": "SUPER SAIYAN",
-    "image": "./images/GOTEN_SUPER_SAIYAN.jpg",
+    "image": "images/GOTEN_SUPER_SAIYAN.jpg",
     "dp": 5
   },
   {
     "nom": "GOTENKS",
-    "image": "./images/GOTENKS.jpg",
+    "image": "images/GOTENKS.jpg",
     "dp": 6
   },
   {
     "nom": "GOTENKS",
     "caracteristiques": "SUPER SAIYAN",
-    "image": "./images/GOTENKS_SUPER_SAIYAN.jpg",
+    "image": "images/GOTENKS_SUPER_SAIYAN.jpg",
     "dp": 7
   },
   {
     "nom": "GOTENKS",
     "caracteristiques": "SUPER SAIYAN 3",
-    "image": "./images/GOTENKS_SUPER_SAIYAN_3.jpg",
+    "image": "images/GOTENKS_SUPER_SAIYAN_3.jpg",
     "dp": 8
   },
   {
     "nom": "KALE",
-    "image": "./images/KALE.jpg",
+    "image": "images/KALE.jpg",
     "dp": 5
   },
   {
     "nom": "KALE",
     "caracteristiques": "SUPER SAIYAN",
-    "image": "./images/KALE_SUPER_SAIYAN.jpg",
+    "image": "images/KALE_SUPER_SAIYAN.jpg",
     "dp": 6
   },
   {
     "nom": "CAULIFLA",
-    "image": "./images/CAULIFLA.jpg",
+    "image": "images/CAULIFLA.jpg",
     "dp": 5
   },
   {
     "nom": "CAULIFLA",
     "caracteristiques": "SUPER SAIYAN 2",
-    "image": "./images/CAULIFLA_SUPER_SAIYAN_2.jpg",
+    "image": "images/CAULIFLA_SUPER_SAIYAN_2.jpg",
     "dp": 7
   },
   {
     "nom": "KEFLA",
-    "image": "./images/KEFLA.jpg",
+    "image": "images/KEFLA.jpg",
     "dp": 6
   },
   {
     "nom": "KEFLA",
     "caracteristiques": "SUPER SAIYAN",
-    "image": "./images/KEFLA_SUPER_SAIYAN.jpg",
+    "image": "images/KEFLA_SUPER_SAIYAN.jpg",
     "dp": 7
   },
   {
     "nom": "KEFLA",
     "caracteristiques": "SUPER SAIYAN 2",
-    "image": "./images/KEFLA_SUPER_SAIYAN_2.jpg",
+    "image": "images/KEFLA_SUPER_SAIYAN_2.jpg",
     "dp": 8
   },
   {
     "nom": "VEGITO",
-    "image": "./images/VEGITO.jpg",
+    "image": "images/VEGITO.jpg",
     "dp": 7
   },
   {
     "nom": "VEGITO",
     "caracteristiques": "SUPER SAIYAN GOD SUPER SAIYAN",
-    "image": "./images/VEGITO_SUPER_SAIYAN_GOD_SUPER_SAIYAN.jpg",
+    "image": "images/VEGITO_SUPER_SAIYAN_GOD_SUPER_SAIYAN.jpg",
     "dp": 10
   },
   {
     "nom": "GOGETA (SUPER)",
-    "image": "./images/GOGETA_(SUPER).jpg",
+    "image": "images/GOGETA_(SUPER).jpg",
     "dp": 7
   },
   {
     "nom": "GOGETA (SUPER)",
     "caracteristiques": "SUPER SAIYAN",
-    "image": "./images/GOGETA_(SUPER)_SUPER_SAIYAN.jpg",
+    "image": "images/GOGETA_(SUPER)_SUPER_SAIYAN.jpg",
     "dp": 8
   },
   {
     "nom": "GOGETA (SUPER)",
     "caracteristiques": "SUPER SAIYAN GOD SUPER SAIYAN",
-    "image": "./images/GOGETA_(SUPER)_SUPER_SAIYAN_GOD_SUPER_SAIYAN.jpg",
+    "image": "images/GOGETA_(SUPER)_SUPER_SAIYAN_GOD_SUPER_SAIYAN.jpg",
     "dp": 10
   },
   {
     "nom": "FUSED ZAMASU",
-    "image": "./images/FUSED_ZAMASU.jpg",
+    "image": "images/FUSED_ZAMASU.jpg",
     "dp": 8
   },
   {
     "nom": "FUSED ZAMASU",
     "caracteristiques": "HALF-CORRUPTED",
-    "image": "./images/FUSED_ZAMASU_HALF-CORRUPTED.jpg",
+    "image": "images/FUSED_ZAMASU_HALF-CORRUPTED.jpg",
     "dp": 9
   },
   {
     "nom": "GOKU (SUPER)",
     "caracteristiques": "ULTRA INSTINCT",
-    "image": "./images/GOKU_(SUPER)_ULTRA_INSTINCT.jpg",
+    "image": "images/GOKU_(SUPER)_ULTRA_INSTINCT.jpg",
     "dp": 9
   },
   {
     "nom": "GOHAN (ADULT)",
     "caracteristiques": "SUPER SAIYAN 2",
-    "image": "./images/GOHAN_(ADULT)_SUPER_SAIYAN_2.jpg",
+    "image": "images/GOHAN_(ADULT)_SUPER_SAIYAN_2.jpg",
     "dp": 7
   },
   {
     "nom": "GOLDEN FRIEZA",
-    "image": "./images/GOLDEN_FRIEZA.jpg",
+    "image": "images/GOLDEN_FRIEZA.jpg",
     "dp": 8
   },
   {
     "nom": "BARDOCK",
-    "image": "./images/BARDOCK.jpg",
+    "image": "images/BARDOCK.jpg",
     "dp": 4
   },
   {
     "nom": "RADITZ",
-    "image": "./images/RADITZ.jpg",
+    "image": "images/RADITZ.jpg",
     "dp": 3
   },
   {
     "nom": "GOKU BLACK",
-    "image": "./images/GOKU_BLACK.jpg",
+    "image": "images/GOKU_BLACK.jpg",
     "dp": 5
   },
   {
     "nom": "ZAMASU",
-    "image": "./images/ZAMASU.jpg",
+    "image": "images/ZAMASU.jpg",
     "dp": 5
   },
   {
     "nom": "JIREN",
     "caracteristiques": "FULL POWER",
-    "image": "./images/JIREN_FULL_POWER.jpg",
+    "image": "images/JIREN_FULL_POWER.jpg",
     "dp": 9
   },
   {
     "nom": "GOKU (SUPER)",
     "caracteristiques": "ULTRA INSTINCT -SIGN-",
-    "image": "./images/GOKU_(SUPER)_ULTRA_INSTINCT_-SIGN-.jpg",
+    "image": "images/GOKU_(SUPER)_ULTRA_INSTINCT_-SIGN-.jpg",
     "dp": 8
   },
   {
     "nom": "SUPER VEGITO",
-    "image": "./images/SUPER_VEGITO.jpg",
+    "image": "images/SUPER_VEGITO.jpg",
     "dp": 8
   },
   {
     "nom": "YAJIROBE",
-    "image": "./images/YAJIROBE.jpg",
+    "image": "images/YAJIROBE.jpg",
     "dp": 2
   },
   {
     "nom": "DABURA",
-    "image": "./images/DABURA.jpg",
+    "image": "images/DABURA.jpg",
     "dp": 6
   },
   {
     "nom": "SPOPOVICH",
-    "image": "./images/SPOPOVICH.jpg",
+    "image": "images/SPOPOVICH.jpg",
     "dp": 2
   },
   {
     "nom": "GOKU BLACK",
     "caracteristiques": "SUPER SAIYAN ROSÉ",
-    "image": "./images/GOKU_BLACK_SUPER_SAIYAN_ROSÉ.jpg",
+    "image": "images/GOKU_BLACK_SUPER_SAIYAN_ROSÉ.jpg",
     "dp": 8
   },
   {
     "nom": "FUTURE TRUNKS",
-    "image": "./images/FUTURE_TRUNKS.jpg",
+    "image": "images/FUTURE_TRUNKS.jpg",
     "dp": 5
   },
   {
     "nom": "RIBRIANNE",
-    "image": "./images/RIBRIANNE.jpg",
+    "image": "images/RIBRIANNE.jpg",
     "dp": 5
   },
   {
     "nom": "ROASIE",
-    "image": "./images/ROASIE.jpg",
+    "image": "images/ROASIE.jpg",
     "dp": 5
   },
   {
     "nom": "ANILAZA",
-    "image": "./images/ANILAZA.jpg",
+    "image": "images/ANILAZA.jpg",
     "dp": 8
   },
   {
     "nom": "NAIL",
-    "image": "./images/NAIL.jpg",
+    "image": "images/NAIL.jpg",
     "dp": 4
   },
   {
     "nom": "FRIEZA (Z)",
     "caracteristiques": "1ST FORM",
-    "image": "./images/FRIEZA_(Z)_1ST_FORM.jpg",
+    "image": "images/FRIEZA_(Z)_1ST_FORM.jpg",
     "dp": 5
   },
   {
     "nom": "FRIEZA (Z)",
     "caracteristiques": "2ND FORM",
-    "image": "./images/FRIEZA_(Z)_2ND_FORM.jpg",
+    "image": "images/FRIEZA_(Z)_2ND_FORM.jpg",
     "dp": 5
   },
   {
     "nom": "FRIEZA (Z)",
     "caracteristiques": "3RD FORM",
-    "image": "./images/FRIEZA_(Z)_3RD_FORM.jpg",
+    "image": "images/FRIEZA_(Z)_3RD_FORM.jpg",
     "dp": 5
   },
   {
     "nom": "FRIEZA (Z)",
     "caracteristiques": "4TH FORM",
-    "image": "./images/FRIEZA_(Z)_4TH_FORM.jpg",
+    "image": "images/FRIEZA_(Z)_4TH_FORM.jpg",
     "dp": 6
   },
   {
     "nom": "FRIEZA (Z)",
     "caracteristiques": "FULL POWER",
-    "image": "./images/FRIEZA_(Z)_FULL_POWER.jpg",
+    "image": "images/FRIEZA_(Z)_FULL_POWER.jpg",
     "dp": 7
   },
   {
     "nom": "CHIAOTZU",
-    "image": "./images/CHIAOTZU.jpg",
+    "image": "images/CHIAOTZU.jpg",
     "dp": 2
   },
   {
     "nom": "SAIBAMAN",
-    "image": "./images/SAIBAMAN.jpg",
+    "image": "images/SAIBAMAN.jpg",
     "dp": 2
   },
   {
     "nom": "ZARBON",
-    "image": "./images/ZARBON.jpg",
+    "image": "images/ZARBON.jpg",
     "dp": 3
   },
   {
     "nom": "SUPER ZARBON",
-    "image": "./images/SUPER_ZARBON.jpg",
+    "image": "images/SUPER_ZARBON.jpg",
     "dp": 3
   },
   {
     "nom": "DODORIA",
-    "image": "./images/DODORIA.jpg",
+    "image": "images/DODORIA.jpg",
     "dp": 3
   },
   {
     "nom": "CUI",
-    "image": "./images/CUI.jpg",
+    "image": "images/CUI.jpg",
     "dp": 3
   },
   {
     "nom": "GINYU",
-    "image": "./images/GINYU.jpg",
+    "image": "images/GINYU.jpg",
     "dp": 4
   },
   {
     "nom": "RECOOME",
-    "image": "./images/RECOOME.jpg",
+    "image": "images/RECOOME.jpg",
     "dp": 3
   },
   {
     "nom": "GULDO",
-    "image": "./images/GULDO.jpg",
+    "image": "images/GULDO.jpg",
     "dp": 2
   },
   {
     "nom": "GOHAN (TEEN)",
-    "image": "./images/GOHAN_(TEEN).jpg",
+    "image": "images/GOHAN_(TEEN).jpg",
     "dp": 4
   },
   {
     "nom": "GOHAN (TEEN)",
     "caracteristiques": "SUPER SAIYAN",
-    "image": "./images/GOHAN_(TEEN)_SUPER_SAIYAN.jpg",
+    "image": "images/GOHAN_(TEEN)_SUPER_SAIYAN.jpg",
     "dp": 6
   },
   {
     "nom": "GOHAN (TEEN)",
     "caracteristiques": "SUPER SAIYAN 2",
-    "image": "./images/GOHAN_(TEEN)_SUPER_SAIYAN_2.jpg",
+    "image": "images/GOHAN_(TEEN)_SUPER_SAIYAN_2.jpg",
     "dp": 7
   },
   {
     "nom": "TRUNKS (MELEE)",
-    "image": "./images/TRUNKS_(MELEE).jpg",
+    "image": "images/TRUNKS_(MELEE).jpg",
     "dp": 5
   },
   {
     "nom": "ANDROID 17 (Z)",
-    "image": "./images/ANDROID_17_(Z).jpg",
+    "image": "images/ANDROID_17_(Z).jpg",
     "dp": 5
   },
   {
     "nom": "ANDROID 16",
-    "image": "./images/ANDROID_16.jpg",
+    "image": "images/ANDROID_16.jpg",
     "dp": 5
   },
   {
     "nom": "ANDROID 19",
-    "image": "./images/ANDROID_19.jpg",
+    "image": "images/ANDROID_19.jpg",
     "dp": 4
   },
   {
     "nom": "DR. GERO",
-    "image": "./images/DR._GERO.jpg",
+    "image": "images/DR._GERO.jpg",
     "dp": 4
   },
   {
     "nom": "CELL",
     "caracteristiques": "1ST FORM",
-    "image": "./images/CELL_1ST_FORM.jpg",
+    "image": "images/CELL_1ST_FORM.jpg",
     "dp": 5
   },
   {
     "nom": "CELL",
     "caracteristiques": "2ND FORM",
-    "image": "./images/CELL_2ND_FORM.jpg",
+    "image": "images/CELL_2ND_FORM.jpg",
     "dp": 5
   },
   {
     "nom": "PERFECT CELL",
-    "image": "./images/PERFECT_CELL.jpg",
+    "image": "images/PERFECT_CELL.jpg",
     "dp": 7
   },
   {
     "nom": "CELL JR.",
-    "image": "./images/CELL_JR..jpg",
+    "image": "images/CELL_JR..jpg",
     "dp": 3
   },
   {
     "nom": "PICCOLO (FUSED WITH KAMI)",
-    "image": "./images/PICCOLO_(FUSED_WITH_KAMI).jpg",
+    "image": "images/PICCOLO_(FUSED_WITH_KAMI).jpg",
     "dp": 5
   },
   {
     "nom": "KING COLD",
-    "image": "./images/KING_COLD.jpg",
+    "image": "images/KING_COLD.jpg",
     "dp": 4
   },
   {
     "nom": "MECHA FRIEZA",
-    "image": "./images/MECHA_FRIEZA.jpg",
+    "image": "images/MECHA_FRIEZA.jpg",
     "dp": 6
   },
   {
     "nom": "GREAT SAIYAMAN",
-    "image": "./images/GREAT_SAIYAMAN.jpg",
+    "image": "images/GREAT_SAIYAMAN.jpg",
     "dp": 4
   },
   {
     "nom": "BABIDI",
-    "image": "./images/BABIDI.jpg",
+    "image": "images/BABIDI.jpg",
     "dp": 3
   },
   {
     "nom": "GOHAN (ADULT)",
     "caracteristiques": "SUPER SAIYAN",
-    "image": "./images/GOHAN_(ADULT)_SUPER_SAIYAN.jpg",
+    "image": "images/GOHAN_(ADULT)_SUPER_SAIYAN.jpg",
     "dp": 6
   },
   {
     "nom": "MAJIN BUU (EVIL)",
-    "image": "./images/MAJIN_BUU_(EVIL).jpg",
+    "image": "images/MAJIN_BUU_(EVIL).jpg",
     "dp": 6
   },
   {
     "nom": "SUPER BUU",
-    "image": "./images/SUPER_BUU.jpg",
-    "dp": 7
+    "image": "images/SUPER_BUU.jpg",
+    "dp": 6
   },
   {
     "nom": "ULTIMATE GOHAN",
-    "image": "./images/ULTIMATE_GOHAN.jpg",
+    "image": "images/ULTIMATE_GOHAN.jpg",
     "dp": 7
   },
   {
     "nom": "SUPER BUU (GOTENKS ABSORBED)",
-    "image": "./images/SUPER_BUU_(GOTENKS_ABSORBED).jpg",
+    "image": "images/SUPER_BUU_(GOTENKS_ABSORBED).jpg",
     "dp": 7
   },
   {
     "nom": "SUPER BUU (GOHAN ABSORBED)",
-    "image": "./images/SUPER_BUU_(GOHAN_ABSORBED).jpg",
+    "image": "images/SUPER_BUU_(GOHAN_ABSORBED).jpg",
     "dp": 7
   },
   {
     "nom": "KID BUU",
-    "image": "./images/KID_BUU.jpg",
+    "image": "images/KID_BUU.jpg",
     "dp": 7
   },
   {
     "nom": "GOKU (GT)",
-    "image": "./images/GOKU_(GT).jpg",
+    "image": "images/GOKU_(GT).jpg",
     "dp": 5
   },
   {
     "nom": "PAN (GT)",
-    "image": "./images/PAN_(GT).jpg",
+    "image": "images/PAN_(GT).jpg",
     "dp": 3
   },
   {
     "nom": "GOKU (GT)",
     "caracteristiques": "SUPER SAIYAN",
-    "image": "./images/GOKU_(GT)_SUPER_SAIYAN.jpg",
+    "image": "images/GOKU_(GT)_SUPER_SAIYAN.jpg",
     "dp": 6
   },
   {
     "nom": "BABY VEGETA (GT)",
-    "image": "./images/BABY_VEGETA_(GT).jpg",
+    "image": "images/BABY_VEGETA_(GT).jpg",
     "dp": 5
   },
   {
     "nom": "GOKU (GT)",
     "caracteristiques": "SUPER SAIYAN 3",
-    "image": "./images/GOKU_(GT)_SUPER_SAIYAN_3.jpg",
+    "image": "images/GOKU_(GT)_SUPER_SAIYAN_3.jpg",
     "dp": 7
   },
   {
     "nom": "SUPER BABY 1 (GT)",
-    "image": "./images/SUPER_BABY_1_(GT).jpg",
+    "image": "images/SUPER_BABY_1_(GT).jpg",
     "dp": 6
   },
   {
     "nom": "SUPER BABY 2 (GT)",
-    "image": "./images/SUPER_BABY_2_(GT).jpg",
+    "image": "images/SUPER_BABY_2_(GT).jpg",
     "dp": 7
   },
   {
     "nom": "UUB (GT)",
-    "image": "./images/UUB_(GT).jpg",
+    "image": "images/UUB_(GT).jpg",
     "dp": 4
   },
   {
     "nom": "MAJUUB (GT)",
-    "image": "./images/MAJUUB_(GT).jpg",
+    "image": "images/MAJUUB_(GT).jpg",
     "dp": 6
   },
   {
     "nom": "GOKU (GT)",
     "caracteristiques": "SUPER SAIYAN 4",
-    "image": "./images/GOKU_(GT)_SUPER_SAIYAN_4.jpg",
+    "image": "images/GOKU_(GT)_SUPER_SAIYAN_4.jpg",
     "dp": 8
   },
   {
     "nom": "GREAT APE BABY (GT)",
-    "image": "./images/GREAT_APE_BABY_(GT).jpg",
+    "image": "images/GREAT_APE_BABY_(GT).jpg",
     "dp": 7
   },
   {
     "nom": "SYN SHENRON",
-    "image": "./images/SYN_SHENRON.jpg",
+    "image": "images/SYN_SHENRON.jpg",
     "dp": 7
   },
   {
     "nom": "OMEGA SHENRON (GT)",
-    "image": "./images/OMEGA_SHENRON_(GT).jpg",
+    "image": "images/OMEGA_SHENRON_(GT).jpg",
     "dp": 8
   },
   {
     "nom": "VEGETA (GT)",
     "caracteristiques": "SUPER SAIYAN 4",
-    "image": "./images/VEGETA_(GT)_SUPER_SAIYAN_4.jpg",
+    "image": "images/VEGETA_(GT)_SUPER_SAIYAN_4.jpg",
     "dp": 8
   },
   {
     "nom": "GOGETA (GT)",
     "caracteristiques": "SUPER SAIYAN 4",
-    "image": "./images/GOGETA_(GT)_SUPER_SAIYAN_4.jpg",
+    "image": "images/GOGETA_(GT)_SUPER_SAIYAN_4.jpg",
     "dp": 10
   },
   {
     "nom": "FRIEZA FORCE SOLDIER",
-    "image": "./images/FRIEZA_FORCE_SOLDIER.jpg",
+    "image": "images/FRIEZA_FORCE_SOLDIER.jpg",
     "dp": 2
   },
   {
     "nom": "CABBA",
-    "image": "./images/CABBA.jpg",
+    "image": "images/CABBA.jpg",
     "dp": 5
   },
   {
     "nom": "FROST",
-    "image": "./images/FROST.jpg",
+    "image": "images/FROST.jpg",
     "dp": 6
   },
   {
     "nom": "TOPPO, GOD OF DESTRUCTION",
-    "image": "./images/TOPPO,_GOD_OF_DESTRUCTION.jpg",
+    "image": "images/TOPPO,_GOD_OF_DESTRUCTION.jpg",
     "dp": 8
   },
   {
     "nom": "CABBA",
     "caracteristiques": "SUPER SAIYAN",
-    "image": "./images/CABBA_SUPER_SAIYAN.jpg",
+    "image": "images/CABBA_SUPER_SAIYAN.jpg",
     "dp": 6
   },
   {
     "nom": "CABBA",
     "caracteristiques": "SUPER SAIYAN 2",
-    "image": "./images/CABBA_SUPER_SAIYAN_2.jpg",
+    "image": "images/CABBA_SUPER_SAIYAN_2.jpg",
     "dp": 7
   },
   {
     "nom": "BROLY (Z)",
-    "image": "./images/BROLY_(Z).jpg",
+    "image": "images/BROLY_(Z).jpg",
     "dp": 5
   },
   {
     "nom": "BROLY (Z)",
     "caracteristiques": "SUPER SAIYAN",
-    "image": "./images/BROLY_(Z)_SUPER_SAIYAN.jpg",
+    "image": "images/BROLY_(Z)_SUPER_SAIYAN.jpg",
     "dp": 7
   },
   {
     "nom": "BROLY (Z)",
     "caracteristiques": "LEGENDARY SUPER SAIYAN",
-    "image": "./images/BROLY_(Z)_LEGENDARY_SUPER_SAIYAN.jpg",
+    "image": "images/BROLY_(Z)_LEGENDARY_SUPER_SAIYAN.jpg",
     "dp": 9
   },
   {
     "nom": "COOLER",
-    "image": "./images/COOLER.jpg",
+    "image": "images/COOLER.jpg",
     "dp": 6
   },
   {
     "nom": "COOLER",
     "caracteristiques": "FINAL FORM",
-    "image": "./images/COOLER_FINAL_FORM.jpg",
+    "image": "images/COOLER_FINAL_FORM.jpg",
     "dp": 7
   },
   {
     "nom": "METAL COOLER",
-    "image": "./images/METAL_COOLER.jpg",
+    "image": "images/METAL_COOLER.jpg",
     "dp": 7
   },
   {
     "nom": "ANDROID 13",
-    "image": "./images/ANDROID_13.jpg",
+    "image": "images/ANDROID_13.jpg",
     "dp": 5
   },
   {
     "nom": "FUSION ANDROID 13",
-    "image": "./images/FUSION_ANDROID_13.jpg",
+    "image": "images/FUSION_ANDROID_13.jpg",
     "dp": 7
   },
   {
     "nom": "SUPER GARLIC JR.",
-    "image": "./images/SUPER_GARLIC_JR..jpg",
+    "image": "images/SUPER_GARLIC_JR..jpg",
     "dp": 4
   },
   {
     "nom": "DR. WHEELO",
-    "image": "./images/DR._WHEELO.jpg",
+    "image": "images/DR._WHEELO.jpg",
     "dp": 4
   },
   {
     "nom": "LORD SLUG",
-    "image": "./images/LORD_SLUG.jpg",
+    "image": "images/LORD_SLUG.jpg",
     "dp": 4
   },
   {
     "nom": "LORD SLUG",
     "caracteristiques": "GIANT FORM",
-    "image": "./images/LORD_SLUG_GIANT_FORM.jpg",
+    "image": "images/LORD_SLUG_GIANT_FORM.jpg",
     "dp": 6
   },
   {
     "nom": "TURLES",
-    "image": "./images/TURLES.jpg",
+    "image": "images/TURLES.jpg",
     "dp": 4
   },
   {
     "nom": "BOJACK",
-    "image": "./images/BOJACK.jpg",
+    "image": "images/BOJACK.jpg",
     "dp": 5
   },
   {
     "nom": "FULL-POWER BOJACK",
-    "image": "./images/FULL-POWER_BOJACK.jpg",
+    "image": "images/FULL-POWER_BOJACK.jpg",
     "dp": 7
   },
   {
     "nom": "HIRUDEGARN",
-    "image": "./images/HIRUDEGARN.jpg",
+    "image": "images/HIRUDEGARN.jpg",
     "dp": 6
   },
   {
     "nom": "TAPION",
-    "image": "./images/TAPION.jpg",
+    "image": "images/TAPION.jpg",
     "dp": 4
   },
   {
     "nom": "JANEMBA",
-    "image": "./images/JANEMBA.jpg",
+    "image": "images/JANEMBA.jpg",
     "dp": 5
   },
   {
     "nom": "SUPER JANEMBA",
-    "image": "./images/SUPER_JANEMBA.jpg",
+    "image": "images/SUPER_JANEMBA.jpg",
     "dp": 7
   },
   {
     "nom": "SUPER GOGETA (Z)",
-    "image": "./images/SUPER_GOGETA_(Z).jpg",
+    "image": "images/SUPER_GOGETA_(Z).jpg",
     "dp": 8
   },
   {
     "nom": "GOKU (TEEN)",
-    "image": "./images/GOKU_(TEEN).jpg",
+    "image": "images/GOKU_(TEEN).jpg",
     "dp": 3
   },
   {
     "nom": "GOKU (MINI)",
-    "image": "./images/GOKU_(MINI).jpg",
+    "image": "images/GOKU_(MINI).jpg",
     "dp": 4
   }
 ]

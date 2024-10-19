@@ -12,7 +12,7 @@ function CharacterList({ onSelectCharacter, selectedCharacters }) {
   useEffect(() => {
     const updatedCharacters = personnagesData.map(character => ({
       ...character,
-      image: require(`../data/images/${character.image.split('/').pop()}`)
+      image: `${process.env.PUBLIC_URL}/images/${character.image.split('/').pop()}`
     }));
     setCharacters(updatedCharacters);
   }, []);
