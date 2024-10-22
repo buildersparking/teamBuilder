@@ -5392,7 +5392,8 @@
     }
   },
   {
-    "name": "TOPPO, GOD OF DESTRUCTION",
+    "name": "TOPPO",
+    "caracteristiques": "GOD OF DESTRUCTION",
     "image": "images/TOPPO,_GOD_OF_DESTRUCTION.jpg",
     "dp": 8,
     "Health Bars": 4,
