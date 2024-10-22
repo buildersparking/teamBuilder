@@ -4,7 +4,7 @@ import personnagesData from '../data/personnages.json';
 
 function CharacterList({ onSelectCharacter, selectedCharacters }) {
   const [characters, setCharacters] = useState([]);
-  const [sortCriteria, setSortCriteria] = useState('nom');
+  const [sortCriteria, setSortCriteria] = useState('name');
   const [sortOrder, setSortOrder] = useState('asc');
   const [dpFilter, setDpFilter] = useState('all');
   const [searchTerm, setSearchTerm] = useState('');
@@ -37,13 +37,13 @@ function CharacterList({ onSelectCharacter, selectedCharacters }) {
   const filteredAndSortedCharacters = characters
     .filter(character => 
       (dpFilter === 'all' || character.dp === parseInt(dpFilter)) &&
-      character.nom.toLowerCase().includes(searchTerm.toLowerCase())
+      character.name.toLowerCase().includes(searchTerm.toLowerCase())
     )
     .sort((a, b) => {
-      if (sortCriteria === 'nom') {
+      if (sortCriteria === 'name') {
         return sortOrder === 'asc' 
-          ? a.nom.localeCompare(b.nom) 
-          : b.nom.localeCompare(a.nom);
+          ? a.name.localeCompare(b.name) 
+          : b.name.localeCompare(a.name);
       } else {
         return sortOrder === 'asc' 
           ? a.dp - b.dp 
@@ -65,8 +65,8 @@ function CharacterList({ onSelectCharacter, selectedCharacters }) {
           />
         </div>
         <div className="sort-buttons">
-          <button onClick={() => sortCharacters('nom')}>
-            Sort by name {sortCriteria === 'nom' && (sortOrder === 'asc' ? '▲' : '▼')}
+          <button onClick={() => sortCharacters('name')}>
+            Sort by name {sortCriteria === 'name' && (sortOrder === 'asc' ? '▲' : '▼')}
           </button>
           <button onClick={() => sortCharacters('dp')}>
             Sort by DP {sortCriteria === 'dp' && (sortOrder === 'asc' ? '▲' : '▼')}
@@ -88,7 +88,7 @@ function CharacterList({ onSelectCharacter, selectedCharacters }) {
             key={index}
             character={character}
             onSelect={onSelectCharacter}
-            isSelected={selectedCharacters.some(c => c.nom === character.nom)}
+            isSelected={selectedCharacters.some(c => c.name === character.name)}
           />
         ))}
       </div>

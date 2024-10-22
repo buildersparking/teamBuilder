@@ -5,11 +5,11 @@ function CharacterCard({ character, onSelect, isSelected }) {
     <div 
       className={`character-card ${isSelected ? 'selected' : ''}`}
       onClick={() => onSelect(character)}
-      title={character.nom}
+      title={character.name}
     >
-      <img src={character.image} alt={character.nom} className="character-image" />
+      <img src={character.image} alt={character.name} className="character-image" />
       <div className="character-info">
-        <h3>{character.nom}</h3>
+        <h3>{character.name}</h3>
         {character.caracteristiques && (
           <p className="character-characteristics">{character.caracteristiques}</p>
         )}

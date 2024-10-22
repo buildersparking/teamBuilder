@@ -1,972 +1,6250 @@
 [
   {
-    "nom": "GOKU (Z-EARLY)",
+    "name": "GOKU (Z-EARLY)",
     "image": "images/GOKU_(Z-EARLY).jpg",
-    "dp": 4
+    "dp": 4,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "solar flare",
+        "cost": "2"
+      },
+      "up": {
+        "name": "kaioken",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "kamehameha",
+        "cost": "3",
+        "type": "energy beam (chargeable)"
+      },
+      "up": {
+        "name": "kaioken attack",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "spirit bomb",
+        "cost": "-",
+        "type": "energy blast"
+      }
+    }
   },
   {
-    "nom": "GOKU (Z-MID)",
+    "name": "GOKU (Z-MID)",
     "image": "images/GOKU_(Z-MID).jpg",
-    "dp": 5
+    "dp": 5,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "give me energy!",
+        "cost": "2"
+      },
+      "up": {
+        "name": "i can't wait!",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "x20 kaioken kamehameha",
+        "cost": "3",
+        "type": "energy beam"
+      },
+      "up": {
+        "name": "kaioken rush",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "spirit bomb",
+        "cost": "",
+        "type": "energy blast"
+      }
+    }
   },
   {
-    "nom": "GOKU (Z-MID)",
+    "name": "GOKU (Z-MID)",
     "caracteristiques": "SUPER SAIYAN",
     "image": "images/GOKU_(Z-MID)_SUPER_SAIYAN.jpg",
-    "dp": 6
+    "dp": 6,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "wild sense",
+        "cost": "2"
+      },
+      "up": {
+        "name": "now i'm angry!",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "super kamehameha",
+        "cost": "3",
+        "type": "energy beam (chargeable)"
+      },
+      "up": {
+        "name": "meteor smash",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "angry kamehameha",
+        "cost": "",
+        "type": "energy beam"
+      }
+    }
   },
   {
-    "nom": "GOKU (Z-END)",
+    "name": "GOKU (Z-END)",
     "image": "images/GOKU_(Z-END).jpg",
-    "dp": 5
+    "dp": 5,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "instant transmission",
+        "cost": "2"
+      },
+      "up": {
+        "name": "wild sense",
+        "cost": "2"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "kamehameha",
+        "cost": "3",
+        "type": "energy beam (chargeable)"
+      },
+      "up": {
+        "name": "meteor smash",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "super spirit bomb",
+        "cost": "",
+        "type": "energy blast"
+      }
+    }
   },
   {
-    "nom": "GOKU (Z-END)",
+    "name": "GOKU (Z-END)",
     "caracteristiques": "SUPER SAIYAN",
     "image": "images/GOKU_(Z-END)_SUPER_SAIYAN.jpg",
-    "dp": 6
+    "dp": 6,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "wild sense",
+        "cost": "2"
+      },
+      "up": {
+        "name": "saiyan spirit",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "super kamehameha",
+        "cost": "3",
+        "type": "energy beam (chargeable)"
+      },
+      "up": {
+        "name": "super energy wave combo",
+        "cost": "3",
+        "type": "energy blast barrage"
+      },
+      "ultimate": {
+        "name": "instant transmission kamehameha",
+        "cost": "",
+        "type": "energy beam"
+      }
+    }
   },
   {
-    "nom": "GOKU (Z-END)",
+    "name": "GOKU (Z-END)",
     "caracteristiques": "SUPER SAIYAN 2",
     "image": "images/GOKU_(Z-END)_SUPER_SAIYAN_2.jpg",
-    "dp": 6
+    "dp": 6,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "instant transmission",
+        "cost": "2"
+      },
+      "up": {
+        "name": "full power",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "instant transmission kamehameha",
+        "cost": "3",
+        "type": "energy beam"
+      },
+      "up": {
+        "name": "meteor crash",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "super kamehameha",
+        "cost": "",
+        "type": "energy beam"
+      }
+    }
   },
   {
-    "nom": "GOKU (Z-END)",
+    "name": "GOKU (Z-END)",
     "caracteristiques": "SUPER SAIYAN 3",
     "image": "images/GOKU_(Z-END)_SUPER_SAIYAN_3.jpg",
-    "dp": 7
+    "dp": 7,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "instant transmission",
+        "cost": "2"
+      },
+      "up": {
+        "name": "power up to the very limit",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "super kamehameha",
+        "cost": "3",
+        "type": "energy beam (chargeable)"
+      },
+      "up": {
+        "name": "super dragon twin fists",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "dragon fist",
+        "cost": "",
+        "type": "rush attack"
+      }
+    }
   },
   {
-    "nom": "GOKU (SUPER)",
+    "name": "GOKU (SUPER)",
     "image": "images/GOKU_(SUPER).jpg",
-    "dp": 5
+    "dp": 5,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "instant transmission",
+        "cost": "2"
+      },
+      "up": {
+        "name": "all fired up",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "super kamehameha",
+        "cost": "3",
+        "type": "energy beam (chargeable)"
+      },
+      "up": {
+        "name": "dragon burst",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "super spirit bomb",
+        "cost": "",
+        "type": "energy blast"
+      }
+    }
   },
   {
-    "nom": "GOKU (SUPER)",
+    "name": "GOKU (SUPER)",
     "caracteristiques": "SUPER SAIYAN",
     "image": "images/GOKU_(SUPER)_SUPER_SAIYAN.jpg",
-    "dp": 6
+    "dp": 6,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "wild sense",
+        "cost": "2"
+      },
+      "up": {
+        "name": "all-encompassing power",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "super kamehameha",
+        "cost": "3",
+        "type": "energy beam (chargeable)"
+      },
+      "up": {
+        "name": "dragon blast",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "sonic blast",
+        "cost": "",
+        "type": "rush attack"
+      }
+    }
   },
   {
-    "nom": "GOKU (SUPER)",
+    "name": "GOKU (SUPER)",
     "caracteristiques": "SUPER SAIYAN GOD",
     "image": "images/GOKU_(SUPER)_SUPER_SAIYAN_GOD.jpg",
-    "dp": 7
+    "dp": 7,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "god bind",
+        "cost": "2"
+      },
+      "up": {
+        "name": "shenron aura",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "god kamehameha",
+        "cost": "3",
+        "type": "energy beam (chargeable)"
+      },
+      "up": {
+        "name": "god impact",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "god burst kamehameha",
+        "cost": "-",
+        "type": "energy beam"
+      }
+    }
   },
   {
-    "nom": "GOKU (SUPER)",
+    "name": "GOKU (SUPER)",
     "caracteristiques": "SUPER SAIYAN GOD SUPER SAIYAN",
     "image": "images/GOKU_(SUPER)_SUPER_SAIYAN_GOD_SUPER_SAIYAN.jpg",
-    "dp": 8
+    "dp": 8,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "instant transmission",
+        "cost": "2"
+      },
+      "up": {
+        "name": "kaioken",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "god kamehameha",
+        "cost": "3",
+        "type": "energy beam (chargeable)"
+      },
+      "up": {
+        "name": "\"no hard feelings\" hit",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "limit breaker god kamehameha",
+        "cost": "-",
+        "type": "energy beam"
+      }
+    }
   },
   {
-    "nom": "VEGETA (Z-SCOUTER)",
+    "name": "VEGETA (Z-SCOUTER)",
     "image": "images/VEGETA-Z-SCOUTER.jpg",
-    "dp": 4
+    "dp": 4,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "explosive wave",
+        "cost": "2"
+      },
+      "up": {
+        "name": "saiyan spirit",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "galick gun",
+        "cost": "3",
+        "type": "energy beam"
+      },
+      "up": {
+        "name": "final galick cannon",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "dirty fireworks",
+        "cost": "",
+        "type": "rush attack"
+      }
+    }
   },
   {
-    "nom": "GREAT APE VEGETA",
+    "name": "GREAT APE VEGETA",
     "image": "images/GREAT_APE_VEGETA.jpg",
-    "dp": 5
+    "dp": 5,
+    "Health Bars": 4,
+    "Size(Huge)": "Y",
+    "skills": {
+      "neutral": {
+        "name": "explosive wave",
+        "cost": "2"
+      },
+      "up": {
+        "name": "howl",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "chou makouhou",
+        "cost": "3",
+        "type": "energy beam"
+      },
+      "up": {
+        "name": "chou makouhou barrage",
+        "cost": "3",
+        "type": "energy blast barrage"
+      },
+      "ultimate": {
+        "name": "super galick gun",
+        "cost": "",
+        "type": "energy beam"
+      }
+    }
   },
   {
-    "nom": "VEGETA (Z-EARLY)",
+    "name": "VEGETA (Z-EARLY)",
     "image": "images/VEGETA_(Z-EARLY).jpg",
-    "dp": 5
+    "dp": 5,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "explosive wave",
+        "cost": "2"
+      },
+      "up": {
+        "name": "full power",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "galick gun",
+        "cost": "3",
+        "type": "energy beam"
+      },
+      "up": {
+        "name": "super energy wave combo",
+        "cost": "3",
+        "type": "energy blast barrage"
+      },
+      "ultimate": {
+        "name": "super explosive wave",
+        "cost": "",
+        "type": "energy explosion"
+      }
+    }
   },
   {
-    "nom": "VEGETA (Z-EARLY)",
+    "name": "VEGETA (Z-EARLY)",
     "caracteristiques": "SUPER SAIYAN",
     "image": "images/VEGETA_(Z-EARLY)_SUPER_SAIYAN.jpg",
-    "dp": 6
+    "dp": 6,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "explosive wave",
+        "cost": "2"
+      },
+      "up": {
+        "name": "awakened by anger",
+        "cost": ""
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "maximum flasher",
+        "cost": "3",
+        "type": "energy beam"
+      },
+      "up": {
+        "name": "cosmic impact",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "big bang attack",
+        "cost": "",
+        "type": "energy blast"
+      }
+    }
   },
   {
-    "nom": "SUPER VEGETA",
+    "name": "SUPER VEGETA",
     "image": "images/SUPER_VEGETA.jpg",
-    "dp": 6
+    "dp": 6,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "explosive wave",
+        "cost": "2"
+      },
+      "up": {
+        "name": "i am super vegeta!",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "big bang attack",
+        "cost": "3",
+        "type": "energy blast"
+      },
+      "up": {
+        "name": "spirit breaking cannon",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "final flash",
+        "cost": "",
+        "type": "energy beam"
+      }
+    }
   },
   {
-    "nom": "VEGETA (Z-END)",
+    "name": "VEGETA (Z-END)",
     "image": "images/VEGETA_(Z-END).jpg",
-    "dp": 5
+    "dp": 5,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "afterimage",
+        "cost": "2"
+      },
+      "up": {
+        "name": "saiyan spirit",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "double galick cannon",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "up": {
+        "name": "infinite blaster",
+        "cost": "2",
+        "type": "energy blast barrage"
+      },
+      "ultimate": {
+        "name": "big bang attack",
+        "cost": "",
+        "type": "energy blast"
+      }
+    }
   },
   {
-    "nom": "VEGETA (Z-END)",
+    "name": "VEGETA (Z-END)",
     "caracteristiques": "SUPER SAIYAN",
     "image": "images/VEGETA_(Z-END)_SUPER_SAIYAN.jpg",
-    "dp": 6
+    "dp": 6,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "explosive wave",
+        "cost": "2"
+      },
+      "up": {
+        "name": "saiyan spirit",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "final flash",
+        "cost": "3",
+        "type": "energy beam"
+      },
+      "up": {
+        "name": "infinite blaster",
+        "cost": "2",
+        "type": "energy blast barrage"
+      },
+      "ultimate": {
+        "name": "cosmic circle",
+        "cost": "",
+        "type": "energy blast barrage"
+      }
+    }
   },
   {
-    "nom": "VEGETA (Z-END)",
+    "name": "VEGETA (Z-END)",
     "caracteristiques": "SUPER SAIYAN 2",
     "image": "images/VEGETA_(Z-END)_SUPER_SAIYAN_2.jpg",
-    "dp": 6
+    "dp": 6,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "explosive wave",
+        "cost": "2"
+      },
+      "up": {
+        "name": "wild sense",
+        "cost": "2"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "big bang attack",
+        "cost": "3",
+        "type": "energy blast"
+      },
+      "up": {
+        "name": "infinite blaster",
+        "cost": "2",
+        "type": "energy blast barrage"
+      },
+      "ultimate": {
+        "name": "infinity flasher",
+        "cost": "",
+        "type": "rush attack"
+      }
+    }
   },
   {
-    "nom": "MAJIN VEGETA",
+    "name": "MAJIN VEGETA",
     "image": "images/MAJIN_VEGETA.jpg",
-    "dp": 7
+    "dp": 7,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "prince's pride",
+        "cost": "3"
+      },
+      "up": {
+        "name": "majin's awakening",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "final impact",
+        "cost": "3",
+        "type": "energy beam"
+      },
+      "up": {
+        "name": "big bang attack",
+        "cost": "3",
+        "type": "energy blast"
+      },
+      "ultimate": {
+        "name": "final explosion",
+        "cost": "",
+        "type": "energy explosion"
+      }
+    }
   },
   {
-    "nom": "VEGETA (SUPER)",
+    "name": "VEGETA (SUPER)",
     "image": "images/VEGETA_(SUPER).jpg",
-    "dp": 5
+    "dp": 5,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "explosive wave",
+        "cost": "2"
+      },
+      "up": {
+        "name": "all warmed up",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "galick gun",
+        "cost": "3",
+        "type": "energy beam"
+      },
+      "up": {
+        "name": "absolute rush",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "final flash",
+        "cost": "",
+        "type": "energy beam"
+      }
+    }
   },
   {
-    "nom": "VEGETA (SUPER)",
+    "name": "VEGETA (SUPER)",
     "caracteristiques": "SUPER SAIYAN",
     "image": "images/VEGETA_(SUPER)_SUPER_SAIYAN.jpg",
-    "dp": 6
+    "dp": 6,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "saiyan spirit",
+        "cost": "3"
+      },
+      "up": {
+        "name": "i'll get you for this...",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "galick rush",
+        "cost": "3",
+        "type": "energy blast barrage"
+      },
+      "up": {
+        "name": "galick uppercut",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "final galick blast",
+        "cost": "",
+        "type": "rush attack"
+      }
+    }
   },
   {
-    "nom": "VEGETA (SUPER)",
+    "name": "VEGETA (SUPER)",
     "caracteristiques": "SUPER SAIYAN GOD",
     "image": "images/VEGETA_(SUPER)_SUPER_SAIYAN_GOD.jpg",
-    "dp": 7
+    "dp": 7,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "explosive wave",
+        "cost": "2"
+      },
+      "up": {
+        "name": "saiyan spirit",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "god shine attack",
+        "cost": "3",
+        "type": "energy blast barrage"
+      },
+      "up": {
+        "name": "gamma fist",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "prominence flash",
+        "cost": "",
+        "type": "energy beam"
+      }
+    }
   },
   {
-    "nom": "VEGETA (SUPER)",
+    "name": "VEGETA (SUPER)",
     "caracteristiques": "SUPER SAIYAN GOD SUPER SAIYAN",
     "image": "images/VEGETA_(SUPER)_SUPER_SAIYAN_GOD_SUPER_SAIYAN.jpg",
-    "dp": 8
+    "dp": 8,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "i'm no pushover!",
+        "cost": "3"
+      },
+      "up": {
+        "name": "limits?! i break them!",
+        "cost": "5"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "god final flash",
+        "cost": "3",
+        "type": "energy beam"
+      },
+      "up": {
+        "name": "gamma burst flash",
+        "cost": "3",
+        "type": "energy beam"
+      },
+      "ultimate": {
+        "name": "final god explosion",
+        "cost": "",
+        "type": "energy explosion"
+      }
+    }
   },
   {
-    "nom": "PICCOLO",
+    "name": "PICCOLO",
     "image": "images/PICCOLO.jpg",
-    "dp": 4
+    "dp": 4,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "paralyse beam",
+        "cost": "2"
+      },
+      "up": {
+        "name": "all-out",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "explosive demon wave",
+        "cost": "3",
+        "type": "energy beam"
+      },
+      "up": {
+        "name": "explosive breath cannon",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "special beam cannon",
+        "cost": "",
+        "type": "piercing beam"
+      }
+    }
   },
   {
-    "nom": "KRILLIN",
+    "name": "KRILLIN",
     "image": "images/KRILLIN.jpg",
-    "dp": 3
+    "dp": 3,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "solar flare",
+        "cost": "2"
+      },
+      "up": {
+        "name": "afterimage strike",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "kamehameha",
+        "cost": "3",
+        "type": "energy beam (chargeable)"
+      },
+      "up": {
+        "name": "spread energy wave",
+        "cost": "3",
+        "type": "energy blast rain"
+      },
+      "ultimate": {
+        "name": "chain destructo disc",
+        "cost": "",
+        "type": "energy cutter barrage"
+      }
+    }
   },
   {
-    "nom": "YAMCHA",
+    "name": "YAMCHA",
     "image": "images/YAMCHA.jpg",
-    "dp": 3
+    "dp": 3,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "afterimage",
+        "cost": "2"
+      },
+      "up": {
+        "name": "power up to the very limit",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "kamehameha",
+        "cost": "3",
+        "type": "energy beam (chargeable)"
+      },
+      "up": {
+        "name": "wolf fang fist",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "sprit ball",
+        "cost": "",
+        "type": "energy blast"
+      }
+    }
   },
   {
-    "nom": "TIEN",
+    "name": "TIEN",
     "image": "images/TIEN.jpg",
-    "dp": 4
+    "dp": 4,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "solar flare",
+        "cost": "2"
+      },
+      "up": {
+        "name": "wild sense",
+        "cost": "2"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "dodon ray",
+        "cost": "2",
+        "type": "piercing beam"
+      },
+      "up": {
+        "name": "tri-beam",
+        "cost": "3",
+        "type": "energy blast"
+      },
+      "ultimate": {
+        "name": "neo tri-beam",
+        "cost": "",
+        "type": "energy blast barrage"
+      }
+    }
   },
   {
-    "nom": "TRUNKS (MELEE)",
+    "name": "TRUNKS (MELEE)",
     "caracteristiques": "SUPER SAIYAN",
     "image": "images/TRUNKS_(MELEE)_SUPER_SAIYAN.jpg",
-    "dp": 6
+    "dp": 6,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "explosive wave",
+        "cost": "2"
+      },
+      "up": {
+        "name": "finish sign",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "burning attack",
+        "cost": "3",
+        "type": "energy blast"
+      },
+      "up": {
+        "name": "burning breaker",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "heat dome attack",
+        "cost": "-",
+        "type": "rush attack"
+      }
+    }
   },
   {
-    "nom": "FUTURE TRUNKS",
+    "name": "FUTURE TRUNKS",
     "caracteristiques": "SUPER SAIYAN",
     "image": "images/FUTURE_TRUNKS_SUPER_SAIYAN.jpg",
-    "dp": 6
+    "dp": 6,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "explosive wave",
+        "cost": "2"
+      },
+      "up": {
+        "name": "power up to the very limit",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "galick gun",
+        "cost": "3",
+        "type": "energy beam"
+      },
+      "up": {
+        "name": "final flash",
+        "cost": "3",
+        "type": "energy beam"
+      },
+      "ultimate": {
+        "name": "final hope slash",
+        "cost": "-",
+        "type": "rush attack"
+      }
+    }
   },
   {
-    "nom": "FRIEZA (SUPER)",
+    "name": "FRIEZA (SUPER)",
     "image": "images/FRIEZA_(SUPER).jpg",
-    "dp": 6
+    "dp": 6,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "psychokinesis",
+        "cost": "2"
+      },
+      "up": {
+        "name": "power of revenge",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "death beam",
+        "cost": "2",
+        "type": "piercing beam"
+      },
+      "up": {
+        "name": "super nova strike",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "super death ball",
+        "cost": "-",
+        "type": "energy blast"
+      }
+    }
   },
   {
-    "nom": "CELL",
+    "name": "CELL",
     "caracteristiques": "PERFECT FORM",
     "image": "images/CELL_PERFECT_FORM.jpg",
-    "dp": 6
+    "dp": 6,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "explosive wave",
+        "cost": "2"
+      },
+      "up": {
+        "name": "afterimage",
+        "cost": "2"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "super kamehameha",
+        "cost": "3",
+        "type": "energy beam (chargeable)"
+      },
+      "up": {
+        "name": "barrage death beam",
+        "cost": "2",
+        "type": "piercing beam barrage"
+      },
+      "ultimate": {
+        "name": "perfect barrier",
+        "cost": "-",
+        "type": "energy explosion"
+      }
+    }
   },
   {
-    "nom": "MAJIN BUU",
+    "name": "MAJIN BUU",
     "image": "images/MAJIN_BUU.jpg",
-    "dp": 6 
+    "dp": 6,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "paralyze beam",
+        "cost": "2"
+      },
+      "up": {
+        "name": "sleep",
+        "cost": "4"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "buu buu gum",
+        "cost": "3",
+        "type": "projectile"
+      },
+      "up": {
+        "name": "super kamehameha",
+        "cost": "3",
+        "type": "energy beam (chargeable)"
+      },
+      "ultimate": {
+        "name": "angry explosion",
+        "cost": "-",
+        "type": "energy explosion"
+      }
+    }
   },
   {
-    "nom": "MR. SATAN",
+    "name": "MR. SATAN",
     "image": "images/MR._SATAN.jpg",
-    "dp": 1
+    "dp": 1,
+    "Health Bars": 2,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "false courage",
+        "cost": "1"
+      },
+      "up": {
+        "name": "royal raiment?!",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "dynamite kick",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "up": {
+        "name": "present bomb",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "mr. buu arrives!",
+        "cost": "-",
+        "type": "rush attack"
+      }
+    }
   },
   {
-    "nom": "ANDROID 17 (SUPER)",
+    "name": "ANDROID 17 (SUPER)",
     "image": "images/ANDROID_17_(SUPER).jpg",
-    "dp": 6
+    "dp": 6,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "android barrier",
+        "cost": "2"
+      },
+      "up": {
+        "name": "time to get serious",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "high power blitz",
+        "cost": "3",
+        "type": "double energy blast"
+      },
+      "up": {
+        "name": "super electric strike",
+        "cost": "3",
+        "type": "energy blast"
+      },
+      "ultimate": {
+        "name": "barrier explosion",
+        "cost": "-",
+        "type": "rush attack"
+      }
+    }
   },
   {
-    "nom": "ANDROID 18",
+    "name": "ANDROID 18",
     "image": "images/ANDROID_18.jpg",
-    "dp": 5
+    "dp": 5,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "android barrier",
+        "cost": "2"
+      },
+      "up": {
+        "name": "super unyielding spirit",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "infinity bullet",
+        "cost": "2",
+        "type": "energy blast barrage"
+      },
+      "up": {
+        "name": "energy wave",
+        "cost": "3",
+        "type": "energy beam"
+      },
+      "ultimate": {
+        "name": "sadistic 18",
+        "cost": "-",
+        "type": "rush attack"
+      }
+    }
   },
   {
-    "nom": "BROLY (SUPER)",
+    "name": "BROLY (SUPER)",
     "image": "images/BROLY_(SUPER).jpg",
-    "dp": 5
+    "dp": 5,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "full power charge",
+        "cost": "2"
+      },
+      "up": {
+        "name": "going berserk",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "full-power energy wave",
+        "cost": "3",
+        "type": "energy beam"
+      },
+      "up": {
+        "name": "gigantic crash",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "gigantic impact",
+        "cost": "-",
+        "type": "rush attack"
+      }
+    }
   },
   {
-    "nom": "BROLY (SUPER)",
+    "name": "BROLY (SUPER)",
     "caracteristiques": "SUPER SAIYAN",
     "image": "images/BROLY_(SUPER)_SUPER_SAIYAN.jpg",
-    "dp": 7
+    "dp": 7,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "saiyan spirit",
+        "cost": "3"
+      },
+      "up": {
+        "name": "howl",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "gigantic cannon",
+        "cost": "3",
+        "type": "energy beam"
+      },
+      "up": {
+        "name": "gigantic rage",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "gigantic ball",
+        "cost": "-",
+        "type": "energy blast"
+      }
+    }
   },
   {
-    "nom": "JIREN",
+    "name": "JIREN",
     "image": "images/JIREN.jpg",
-    "dp": 8
+    "dp": 8,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "ki pressure",
+        "cost": "2"
+      },
+      "up": {
+        "name": "meditation",
+        "cost": "4"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "power impact",
+        "cost": "3",
+        "type": "energy blast"
+      },
+      "up": {
+        "name": "infinity rush",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "heat break",
+        "cost": "-",
+        "type": "rush attack"
+      }
+    }
   },
   {
-    "nom": "BERGAMO",
+    "name": "BERGAMO",
     "image": "images/BERGAMO.jpg",
-    "dp": 5
+    "dp": 5,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "howl",
+        "cost": "3"
+      },
+      "up": {
+        "name": "come at me!",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "wolfgang penetrator",
+        "cost": "3",
+        "type": "energy beam"
+      },
+      "up": {
+        "name": "danger knuckle",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "triangle danger beam",
+        "cost": "-",
+        "type": "energy beam"
+      }
+    }
   },
   {
-    "nom": "SUPER TRUNKS",
+    "name": "SUPER TRUNKS",
     "image": "images/SUPER_TRUNKS.jpg",
-    "dp": 6
+    "dp": 6,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "explosive wave",
+        "cost": "2"
+      },
+      "up": {
+        "name": "inexperienced power up",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "finish buster",
+        "cost": "3",
+        "type": "energy blast"
+      },
+      "up": {
+        "name": "burning attack",
+        "cost": "3",
+        "type": "energy blast"
+      },
+      "ultimate": {
+        "name": "super explosive wave",
+        "cost": "-",
+        "type": "energy explosion"
+      }
+    }
   },
   {
-    "nom": "DYSPO",
+    "name": "DYSPO",
     "image": "images/DYSPO.jpg",
-    "dp": 6 
+    "dp": 6,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "super maximum light speed mode",
+        "cost": "3"
+      },
+      "up": {
+        "name": "pride trooper pose 2",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "justice crusher",
+        "cost": "3",
+        "type": "energy blast"
+      },
+      "up": {
+        "name": "justice kick",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "united justice stream",
+        "cost": "-",
+        "type": "energy beam"
+      }
+    }
   },
   {
-    "nom": "KAKUNSA",
+    "name": "KAKUNSA",
     "image": "images/KAKUNSA.jpg",
-    "dp": 5
+    "dp": 5,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "wild sense",
+        "cost": "2"
+      },
+      "up": {
+        "name": "maiden's fury",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "primal charge",
+        "cost": "4",
+        "type": "rush strike"
+      },
+      "up": {
+        "name": "primal instinct",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "love symphony",
+        "cost": "-",
+        "type": "energy blast"
+      }
+    }
   },
   {
-    "nom": "MASTER ROSHI",
+    "name": "MASTER ROSHI",
     "caracteristiques": "MAX POWER",
     "image": "images/MASTER_ROSHI_MAX_POWER.jpg",
-    "dp": 2
+    "dp": 2,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "false courage",
+        "cost": "1"
+      },
+      "up": {
+        "name": "pump up",
+        "cost": "2"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "original kamehameha",
+        "cost": "3",
+        "type": "energy beam"
+      },
+      "up": {
+        "name": "turtle school ultimate fist",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "max power kamehameha",
+        "cost": "-",
+        "type": "energy beam"
+      }
+    }
   },
   {
-    "nom": "NAPPA",
+    "name": "NAPPA",
     "image": "images/NAPPA.jpg",
-    "dp": 3
+    "dp": 3,
+    "Health Bars": 4,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "saiyan spirit",
+        "cost": "3"
+      },
+      "up": {
+        "name": "pump up",
+        "cost": "2"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "volcano explosion",
+        "cost": "4",
+        "type": "remote energy explosion"
+      },
+      "up": {
+        "name": "blazing storm",
+        "cost": "2",
+        "type": "remote explosion sweep"
+      },
+      "ultimate": {
+        "name": "nappa cannon",
+        "cost": "-",
+        "type": "energy beam"
+      }
+    }
   },
   {
-    "nom": "BURTER",
+    "name": "BURTER",
     "image": "images/BURTER.jpg",
-    "dp": 3
+    "dp": 3,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "afterimage",
+        "cost": "2"
+      },
+      "up": {
+        "name": "sp fighting pose 2",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "full power energy ball",
+        "cost": "3",
+        "type": "energy blast"
+      },
+      "up": {
+        "name": "space mach attack",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "purple comet attack",
+        "cost": "-",
+        "type": "rush attack"
+      }
+    }
   },
   {
-    "nom": "TOPPO",
+    "name": "TOPPO",
     "image": "images/TOPPO.jpg",
-    "dp": 7
+    "dp": 7,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "justice!",
+        "cost": "3"
+      },
+      "up": {
+        "name": "pride trooper pose 1",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "justice flash",
+        "cost": "2",
+        "type": "energy blast barrage"
+      },
+      "up": {
+        "name": "justice tornado",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "united justice stream",
+        "cost": "-",
+        "type": "energy beam"
+      }
+    }
   },
   {
-    "nom": "JEICE",
+    "name": "JEICE",
     "image": "images/JEICE.jpg",
-    "dp": 3
+    "dp": 3,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "explosive wave",
+        "cost": "2"
+      },
+      "up": {
+        "name": "sp fighting pose 3",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "full-power energy wave",
+        "cost": "3",
+        "type": "energy beam"
+      },
+      "up": {
+        "name": "crusher ball",
+        "cost": "3",
+        "type": "energy blast"
+      },
+      "ultimate": {
+        "name": "purple comet attack",
+        "cost": "-",
+        "type": "rush attack"
+      }
+    }
   },
   {
-    "nom": "KALE",
+    "name": "KALE",
     "caracteristiques": "SUPER SAIYAN (BERSERK)",
     "image": "images/KALE_SUPER_SAIYAN_(BERSERK).jpg",
-    "dp": 7
+    "dp": 7,
+    "Health Bars": 4,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "cry of rage",
+        "cost": "2"
+      },
+      "up": {
+        "name": "berserk rage",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "gigantic impact",
+        "cost": "3",
+        "type": "energy blast"
+      },
+      "up": {
+        "name": "gigantic throw",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "berserk blaster",
+        "cost": "-",
+        "type": "energy explosion"
+      }
+    }
   },
   {
-    "nom": "BROLY (SUPER)",
+    "name": "BROLY (SUPER)",
     "caracteristiques": "SUPER SAIYAN FULL POWER",
     "image": "images/BROLY_(SUPER)_SUPER_SAIYAN_FULL_POWER.jpg",
-    "dp": 9
+    "dp": 9,
+    "Health Bars": 4,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "wild move",
+        "cost": "2"
+      },
+      "up": {
+        "name": "untamed instinct",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "gigantic cannon",
+        "cost": "3",
+        "type": "energy beam"
+      },
+      "up": {
+        "name": "blaster meteor",
+        "cost": "4",
+        "type": "energy explosion"
+      },
+      "ultimate": {
+        "name": "gigantic catastrophe",
+        "cost": "-",
+        "type": "energy cannon"
+      }
+    }
   },
   {
-    "nom": "HIT",
+    "name": "HIT",
     "image": "images/HIT.jpg",
-    "dp": 8
+    "dp": 8,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "ki clone",
+        "cost": "2"
+      },
+      "up": {
+        "name": "time skip",
+        "cost": "2"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "assassin's art",
+        "cost": "3",
+        "type": "piercing blast"
+      },
+      "up": {
+        "name": "time skip/jump spike",
+        "cost": "4",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "time prison",
+        "cost": "-",
+        "type": "rush attack"
+      }
+    }
   },
   {
-    "nom": "BEERUS",
+    "name": "BEERUS",
     "image": "images/BEERUS.jpg",
-    "dp": 10
+    "dp": 10,
+    "Health Bars": 4,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "sleep",
+        "cost": "4"
+      },
+      "up": {
+        "name": "veredict of destruction",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "sphere of destruction",
+        "cost": "3",
+        "type": "energy blast"
+      },
+      "up": {
+        "name": "hakai headshot",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "super sphere of destruction",
+        "cost": "-",
+        "type": "energy blast"
+      }
+    }
   },
   {
-    "nom": "GOHAN (ADULT)",
+    "name": "GOHAN (ADULT)",
     "image": "images/GOHAN_(ADULT).jpg",
-    "dp": 4
+    "dp": 4,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "wild sense",
+        "cost": "2"
+      },
+      "up": {
+        "name": "full-power charge",
+        "cost": "2"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "explosive cannon",
+        "cost": "3",
+        "type": "energy cannon"
+      },
+      "up": {
+        "name": "explosive flash strike",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "super kamehameha",
+        "cost": "",
+        "type": "energy beam"
+      }
+    }
   },
   {
-    "nom": "VIDEL",
+    "name": "VIDEL",
     "image": "images/VIDEL.jpg",
-    "dp": 2
+    "dp": 2,
+    "Health Bars": 2,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "afterimage strike",
+        "cost": "3"
+      },
+      "up": {
+        "name": "super unyielding spirit",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "videl kick",
+        "cost": "2",
+        "type": "rush attack"
+      },
+      "up": {
+        "name": "desperado rush",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "videl rush",
+        "cost": "-",
+        "type": "rush attack"
+      }
+    }
   },
   {
-    "nom": "GOHAN (FUTURE)",
+    "name": "GOHAN (FUTURE)",
     "image": "images/GOHAN_(FUTURE).jpg",
-    "dp": 5
+    "dp": 5,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "wild sense",
+        "cost": "2"
+      },
+      "up": {
+        "name": "full power charge",
+        "cost": "2"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "masenko",
+        "cost": "3",
+        "type": "energy beam"
+      },
+      "up": {
+        "name": "super destructive wave",
+        "cost": "4",
+        "type": "energy explosion"
+      },
+      "ultimate": {
+        "name": "super kamehameha",
+        "cost": "-",
+        "type": "energy beam"
+      }
+    }
   },
   {
-    "nom": "GOHAN (FUTURE)",
+    "name": "GOHAN (FUTURE)",
     "caracteristiques": "SUPER SAIYAN",
     "image": "images/GOHAN_(FUTURE)_SUPER_SAIYAN.jpg",
-    "dp": 6
+    "dp": 6,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "evil barrier",
+        "cost": "3"
+      },
+      "up": {
+        "name": "power up to the very limit",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "hyper masenko",
+        "cost": "3",
+        "type": "energy beam"
+      },
+      "up": {
+        "name": "special beam cannon",
+        "cost": "3",
+        "type": "piercing beam (chargeable)"
+      },
+      "ultimate": {
+        "name": "fierce combination",
+        "cost": "-",
+        "type": "rush attack"
+      }
+    }
   },
   {
-    "nom": "GOHAN (KID)",
+    "name": "GOHAN (KID)",
     "image": "images/GOHAN_(KID).jpg",
-    "dp": 3
+    "dp": 3,
+    "Health Bars": 2,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "super unyielding spirit",
+        "cost": "3"
+      },
+      "up": {
+        "name": "afterimage strike",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "masenko",
+        "cost": "3",
+        "type": "energy beam"
+      },
+      "up": {
+        "name": "energy blast barrage",
+        "cost": "3",
+        "type": "energy blast barrage"
+      },
+      "ultimate": {
+        "name": "wild rush blaster",
+        "cost": "",
+        "type": "rush attack"
+      }
+    }
   },
   {
-    "nom": "MASTER ROSHI",
+    "name": "MASTER ROSHI",
     "image": "images/MASTER_ROSHI.jpg",
-    "dp": 2
+    "dp": 2,
+    "Health Bars": 2,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "afterimage strike",
+        "cost": "3"
+      },
+      "up": {
+        "name": "false courage",
+        "cost": "1"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "original kamehameha",
+        "cost": "3",
+        "type": "energy beam"
+      },
+      "up": {
+        "name": "thunder shock surprise",
+        "cost": "4",
+        "type": "energy beam"
+      },
+      "ultimate": {
+        "name": "evil containment wave",
+        "cost": "-",
+        "type": "energy beam"
+      }
+    }
   },
   {
-    "nom": "TRUNKS (SWORD)",
+    "name": "TRUNKS (SWORD)",
     "image": "images/TRUNKS_(SWORD).jpg",
-    "dp": 4
+    "dp": 4,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "afterimage",
+        "cost": "2"
+      },
+      "up": {
+        "name": "power up to the very limit",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "finish buster",
+        "cost": "3",
+        "type": "energy blast"
+      },
+      "up": {
+        "name": "burning storm",
+        "cost": "3",
+        "type": "energy blast barrage"
+      },
+      "ultimate": {
+        "name": "lightning sword slash",
+        "cost": "",
+        "type": "energy slash barrage"
+      }
+    }
   },
   {
-    "nom": "TRUNKS (SWORD)",
+    "name": "TRUNKS (SWORD)",
     "caracteristiques": "SUPER SAIYAN",
     "image": "images/TRUNKS_(SWORD)_SUPER_SAIYAN.jpg",
-    "dp": 6
+    "dp": 6,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "explosive wave",
+        "cost": "2"
+      },
+      "up": {
+        "name": "burning heart",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "burning attack",
+        "cost": "3",
+        "type": "energy blast"
+      },
+      "up": {
+        "name": "burning storm",
+        "cost": "3",
+        "type": "energy blast barrage"
+      },
+      "ultimate": {
+        "name": "shining sword attack",
+        "cost": "",
+        "type": "rush attack"
+      }
+    }
   },
   {
-    "nom": "WHIS",
+    "name": "WHIS",
     "image": "images/WHIS.jpg",
-    "dp": 10
+    "dp": 10,
+    "Health Bars": 4,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "barrier",
+        "cost": "3"
+      },
+      "up": {
+        "name": "snack time",
+        "cost": "4"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "prelude to destruction",
+        "cost": "3",
+        "type": "piercing beam"
+      },
+      "up": {
+        "name": "symphonic destruction",
+        "cost": "2",
+        "type": "remote energy blast"
+      },
+      "ultimate": {
+        "name": "epilogue to destruction",
+        "cost": "-",
+        "type": "rush attack"
+      }
+    }
   },
   {
-    "nom": "TRUNKS (KID)",
+    "name": "TRUNKS (KID)",
     "image": "images/TRUNKS_(KID).jpg",
-    "dp": 4
+    "dp": 4,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "afterimage",
+        "cost": "2"
+      },
+      "up": {
+        "name": "finish sign",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "full-power energy wave",
+        "cost": "3",
+        "type": "energy beam"
+      },
+      "up": {
+        "name": "high speed rush",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "finish buster",
+        "cost": "-",
+        "type": "energy blast"
+      }
+    }
   },
   {
-    "nom": "TRUNKS (KID)",
+    "name": "TRUNKS (KID)",
     "caracteristiques": "SUPER SAIYAN",
     "image": "images/TRUNKS_(KID)_SUPER_SAIYAN.jpg",
-    "dp": 5
+    "dp": 5,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "explosive wave",
+        "cost": "2"
+      },
+      "up": {
+        "name": "super unyielding spirit",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "full-power energy wave",
+        "cost": "3",
+        "type": "energy beam"
+      },
+      "up": {
+        "name": "high speed rush",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "victory cannon",
+        "cost": "-",
+        "type": "energy beam"
+      }
+    }
   },
   {
-    "nom": "GOTEN",
+    "name": "GOTEN",
     "image": "images/GOTEN.jpg",
-    "dp": 4
+    "dp": 4,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "afterimage",
+        "cost": "2"
+      },
+      "up": {
+        "name": "sleep",
+        "cost": "4"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "boulder toss barrage",
+        "cost": "2",
+        "type": "projectile barrage"
+      },
+      "up": {
+        "name": "charge!",
+        "cost": "2",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "super kamekameha",
+        "cost": "-",
+        "type": "energy beam"
+      }
+    }
   },
   {
-    "nom": "GOTEN",
+    "name": "GOTEN",
     "caracteristiques": "SUPER SAIYAN",
     "image": "images/GOTEN_SUPER_SAIYAN.jpg",
-    "dp": 5
+    "dp": 5,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "wild sense",
+        "cost": "2"
+      },
+      "up": {
+        "name": "false courage",
+        "cost": "1"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "kamekameha",
+        "cost": "3",
+        "type": "energy beam"
+      },
+      "up": {
+        "name": "charge!",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "double kamehameha",
+        "cost": "-",
+        "type": "energy beam"
+      }
+    }
   },
   {
-    "nom": "GOTENKS",
+    "name": "GOTENKS",
     "image": "images/GOTENKS.jpg",
-    "dp": 6
+    "dp": 6,
+    "Health Bars": 4,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "afterimage",
+        "cost": "2"
+      },
+      "up": {
+        "name": "ta-dah!",
+        "cost": "2"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "full-power energy wave",
+        "cost": "3",
+        "type": "energy beam"
+      },
+      "up": {
+        "name": "high speed rush",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "victory cannon",
+        "cost": "-",
+        "type": "energy beam"
+      }
+    }
   },
   {
-    "nom": "GOTENKS",
+    "name": "GOTENKS",
     "caracteristiques": "SUPER SAIYAN",
     "image": "images/GOTENKS_SUPER_SAIYAN.jpg",
-    "dp": 7
+    "dp": 7,
+    "Health Bars": 4,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "false courage",
+        "cost": "1"
+      },
+      "up": {
+        "name": "high-tension",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "victory cannon",
+        "cost": "3",
+        "type": "energy beam"
+      },
+      "up": {
+        "name": "galactic donuts",
+        "cost": "3",
+        "type": "energy blast"
+      },
+      "ultimate": {
+        "name": "super ghost kamikaze attack",
+        "cost": "-",
+        "type": "projectile barrage"
+      }
+    }
   },
   {
-    "nom": "GOTENKS",
+    "name": "GOTENKS",
     "caracteristiques": "SUPER SAIYAN 3",
     "image": "images/GOTENKS_SUPER_SAIYAN_3.jpg",
-    "dp": 8
+    "dp": 8,
+    "Health Bars": 4,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "vice shout",
+        "cost": "2"
+      },
+      "up": {
+        "name": "finish sign",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "victory bazooka",
+        "cost": "3",
+        "type": "energy beam"
+      },
+      "up": {
+        "name": "die die missile barrage",
+        "cost": "3",
+        "type": "energy blast barrage"
+      },
+      "ultimate": {
+        "name": "charging ultra buu buu volleyball",
+        "cost": "-",
+        "type": "rush attack"
+      }
+    }
   },
   {
-    "nom": "KALE",
+    "name": "KALE",
     "image": "images/KALE.jpg",
-    "dp": 5
+    "dp": 5,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "full-power charge",
+        "cost": "2"
+      },
+      "up": {
+        "name": "going berserk",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "resistance cannon",
+        "cost": "3",
+        "type": "energy beam"
+      },
+      "up": {
+        "name": "full-power energy blast volley",
+        "cost": "3",
+        "type": "energy blast barrage"
+      },
+      "ultimate": {
+        "name": "resistance blast",
+        "cost": "-",
+        "type": "energy blast"
+      }
+    }
   },
   {
-    "nom": "KALE",
+    "name": "KALE",
     "caracteristiques": "SUPER SAIYAN",
     "image": "images/KALE_SUPER_SAIYAN.jpg",
-    "dp": 6
+    "dp": 6,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "wild sense",
+        "cost": "2"
+      },
+      "up": {
+        "name": "saiyan spirit",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "resistance blast",
+        "cost": "3",
+        "type": "energy blast"
+      },
+      "up": {
+        "name": "super explosive wave",
+        "cost": "4",
+        "type": "energy explosion"
+      },
+      "ultimate": {
+        "name": "limit break blaster",
+        "cost": "-",
+        "type": "energy beam"
+      }
+    }
   },
   {
-    "nom": "CAULIFLA",
+    "name": "CAULIFLA",
     "image": "images/CAULIFLA.jpg",
-    "dp": 5
+    "dp": 5,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "false courage",
+        "cost": "1"
+      },
+      "up": {
+        "name": "wild sense",
+        "cost": "2"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "full-power energy wave",
+        "cost": "3",
+        "type": "energy beam"
+      },
+      "up": {
+        "name": "super explosive wave",
+        "cost": "4",
+        "type": "energy explosion"
+      },
+      "ultimate": {
+        "name": "crush cannon",
+        "cost": "-",
+        "type": "energy beam"
+      }
+    }
   },
   {
-    "nom": "CAULIFLA",
+    "name": "CAULIFLA",
     "caracteristiques": "SUPER SAIYAN 2",
     "image": "images/CAULIFLA_SUPER_SAIYAN_2.jpg",
-    "dp": 7
+    "dp": 7,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "wild sense",
+        "cost": "2"
+      },
+      "up": {
+        "name": "full power",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "energy blast",
+        "cost": "3",
+        "type": "energy beam"
+      },
+      "up": {
+        "name": "high power rush",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "limit break blaster",
+        "cost": "-",
+        "type": "energy beam"
+      }
+    }
   },
   {
-    "nom": "KEFLA",
+    "name": "KEFLA",
     "image": "images/KEFLA.jpg",
-    "dp": 6
+    "dp": 6,
+    "Health Bars": 4,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "wild sense",
+        "cost": "2"
+      },
+      "up": {
+        "name": "high-tension",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "blaster ball",
+        "cost": "3",
+        "type": "energy blast"
+      },
+      "up": {
+        "name": "gigantic swing",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "gigantic burn",
+        "cost": "-",
+        "type": "energy explosion"
+      }
+    }
   },
   {
-    "nom": "KEFLA",
+    "name": "KEFLA",
     "caracteristiques": "SUPER SAIYAN",
     "image": "images/KEFLA_SUPER_SAIYAN.jpg",
-    "dp": 7
+    "dp": 7,
+    "Health Bars": 4,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "false courage",
+        "cost": "1"
+      },
+      "up": {
+        "name": "finish sign",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "blaster ball",
+        "cost": "3",
+        "type": "energy blast"
+      },
+      "up": {
+        "name": "gigantic claw",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "hexa-cannonball",
+        "cost": "-",
+        "type": "double energy blast"
+      }
+    }
   },
   {
-    "nom": "KEFLA",
+    "name": "KEFLA",
     "caracteristiques": "SUPER SAIYAN 2",
     "image": "images/KEFLA_SUPER_SAIYAN_2.jpg",
-    "dp": 8
+    "dp": 8,
+    "Health Bars": 4,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "saiyan spirit",
+        "cost": "3"
+      },
+      "up": {
+        "name": "i'm number one!",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "gigantic ray",
+        "cost": "3",
+        "type": "energy blast barrage"
+      },
+      "up": {
+        "name": "gigantic breaker",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "gigantic burst",
+        "cost": "-",
+        "type": "energy beam"
+      }
+    }
   },
   {
-    "nom": "VEGITO",
+    "name": "VEGITO",
     "image": "images/VEGITO.jpg",
-    "dp": 7
+    "dp": 7,
+    "Health Bars": 4,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "explosive wave",
+        "cost": "2"
+      },
+      "up": {
+        "name": "high tension",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "big bang cannon",
+        "cost": "3",
+        "type": "energy blast"
+      },
+      "up": {
+        "name": "rampaging rush",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "super kamehameha",
+        "cost": "-",
+        "type": "energy beam"
+      }
+    }
   },
   {
-    "nom": "VEGITO",
+    "name": "VEGITO",
     "caracteristiques": "SUPER SAIYAN GOD SUPER SAIYAN",
     "image": "images/VEGITO_SUPER_SAIYAN_GOD_SUPER_SAIYAN.jpg",
-    "dp": 10
+    "dp": 10,
+    "Health Bars": 4,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "settling the score",
+        "cost": "3"
+      },
+      "up": {
+        "name": "full-power charge",
+        "cost": "2"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "god kamehameha",
+        "cost": "3",
+        "type": "energy beam (chargeable)"
+      },
+      "up": {
+        "name": "omega finishing blow",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "god final kamehameha",
+        "cost": "-",
+        "type": "energy beam"
+      }
+    }
   },
   {
-    "nom": "GOGETA (SUPER)",
+    "name": "GOGETA (SUPER)",
     "image": "images/GOGETA_(SUPER).jpg",
-    "dp": 7
+    "dp": 7,
+    "Health Bars": 4,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "wild sense",
+        "cost": "2"
+      },
+      "up": {
+        "name": "here we go!",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "super kamehameha",
+        "cost": "3",
+        "type": "energy beam (chargeable)"
+      },
+      "up": {
+        "name": "super explosive wave",
+        "cost": "4",
+        "type": "energy explosion"
+      },
+      "ultimate": {
+        "name": "big bang kamehameha",
+        "cost": "-",
+        "type": "energy beam"
+      }
+    }
   },
   {
-    "nom": "GOGETA (SUPER)",
+    "name": "GOGETA (SUPER)",
     "caracteristiques": "SUPER SAIYAN",
     "image": "images/GOGETA_(SUPER)_SUPER_SAIYAN.jpg",
-    "dp": 8
+    "dp": 8,
+    "Health Bars": 4,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "instant transmission",
+        "cost": "2"
+      },
+      "up": {
+        "name": "finish sign",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "super kamehameha",
+        "cost": "3",
+        "type": "energy beam (chargeable)"
+      },
+      "up": {
+        "name": "rising vortex",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "stardust fall",
+        "cost": "-",
+        "type": "rush attack"
+      }
+    }
   },
   {
-    "nom": "GOGETA (SUPER)",
+    "name": "GOGETA (SUPER)",
     "caracteristiques": "SUPER SAIYAN GOD SUPER SAIYAN",
     "image": "images/GOGETA_(SUPER)_SUPER_SAIYAN_GOD_SUPER_SAIYAN.jpg",
-    "dp": 10
+    "dp": 10,
+    "Health Bars": 4,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "instant transmission",
+        "cost": "2"
+      },
+      "up": {
+        "name": "stardust barrier",
+        "cost": "1"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "stardust blaster",
+        "cost": "3",
+        "type": "energy blast"
+      },
+      "up": {
+        "name": "meteor explosion",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "ultimate kamehameha",
+        "cost": "-",
+        "type": "energy beam"
+      }
+    }
   },
   {
-    "nom": "FUSED ZAMASU",
+    "name": "FUSED ZAMASU",
     "image": "images/FUSED_ZAMASU.jpg",
-    "dp": 8
+    "dp": 8,
+    "Health Bars": 4,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "immortal body",
+        "cost": "4"
+      },
+      "up": {
+        "name": "this is true justice!",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "holy wrath",
+        "cost": "3",
+        "type": "energy blast"
+      },
+      "up": {
+        "name": "blades of judgement",
+        "cost": "3",
+        "type": "energy blast barrage"
+      },
+      "ultimate": {
+        "name": "lightning of absolution",
+        "cost": "-",
+        "type": "rush attack"
+      }
+    }
   },
   {
-    "nom": "FUSED ZAMASU",
+    "name": "FUSED ZAMASU",
     "caracteristiques": "HALF-CORRUPTED",
     "image": "images/FUSED_ZAMASU_HALF-CORRUPTED.jpg",
-    "dp": 9
+    "dp": 9,
+    "Health Bars": 4,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "explosive wave",
+        "cost": "2"
+      },
+      "up": {
+        "name": "light of justice",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "mark of condemnation",
+        "cost": "3",
+        "type": "energy blast"
+      },
+      "up": {
+        "name": "violent fierce god slicer",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "divine hammer",
+        "cost": "-",
+        "type": "rush attack"
+      }
+    }
   },
   {
-    "nom": "GOKU ( SUPER )",
+    "name": "GOKU (SUPER)",
     "caracteristiques": "ULTRA INSTINCT",
     "image": "images/GOKU_(SUPER)_ULTRA_INSTINCT.jpg",
-    "dp": 9
+    "dp": 9,
+    "Health Bars": 4,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "ultra movement",
+        "cost": "2"
+      },
+      "up": {
+        "name": "no backing down",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "ultra kamehameha",
+        "cost": "3",
+        "type": "energy beam (chargeable)"
+      },
+      "up": {
+        "name": "ultra barrage",
+        "cost": "4",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "supreme kamehameha",
+        "cost": "",
+        "type": "rush attack"
+      }
+    }
   },
   {
-    "nom": "GOHAN (ADULT)",
+    "name": "GOHAN (ADULT)",
     "caracteristiques": "SUPER SAIYAN 2",
     "image": "images/GOHAN_(ADULT)_SUPER_SAIYAN_2.jpg",
-    "dp": 7
+    "dp": 7,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "explosive wave",
+        "cost": "2"
+      },
+      "up": {
+        "name": "full power",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "super explosive cannon",
+        "cost": "3",
+        "type": "energy cannon"
+      },
+      "up": {
+        "name": "super explosive flash strike",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "super kamehameha",
+        "cost": "",
+        "type": "energy beam"
+      }
+    }
   },
   {
-    "nom": "GOLDEN FRIEZA",
+    "name": "GOLDEN FRIEZA",
     "image": "images/GOLDEN_FRIEZA.jpg",
-    "dp": 8
+    "dp": 8,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "wild sense",
+        "cost": "2"
+      },
+      "up": {
+        "name": "true golden frieza",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "great death beam",
+        "cost": "3",
+        "type": "piercing beam barrage"
+      },
+      "up": {
+        "name": "\"no hard feelings\" strike",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "earth breaker",
+        "cost": "-",
+        "type": "rush attack"
+      }
+    }
   },
   {
-    "nom": "BARDOCK",
+    "name": "BARDOCK",
     "image": "images/BARDOCK.jpg",
-    "dp": 4
+    "dp": 4,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "shockwave of rebellion",
+        "cost": "4"
+      },
+      "up": {
+        "name": "saiyan spirit",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "riot blaster",
+        "cost": "3",
+        "type": "energy beam"
+      },
+      "up": {
+        "name": "final revenger",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "final spirit cannon",
+        "cost": "-",
+        "type": "energy beam"
+      }
+    }
   },
   {
-    "nom": "RADITZ",
+    "name": "RADITZ",
     "image": "images/RADITZ.jpg",
-    "dp": 3
+    "dp": 3,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "saiyan spirit",
+        "cost": "3"
+      },
+      "up": {
+        "name": "full power",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "energy crash",
+        "cost": "3",
+        "type": "energy blast"
+      },
+      "up": {
+        "name": "sonic assault",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "begone!",
+        "cost": "-",
+        "type": "energy blast"
+      }
+    }
   },
   {
-    "nom": "GOKU BLACK",
+    "name": "GOKU BLACK",
     "image": "images/GOKU_BLACK.jpg",
-    "dp": 5
+    "dp": 5,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "wild sense",
+        "cost": "2"
+      },
+      "up": {
+        "name": "finish sign",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "black power ball",
+        "cost": "3",
+        "type": "energy blast"
+      },
+      "up": {
+        "name": "black bind",
+        "cost": "4",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "black kamehameha",
+        "cost": "-",
+        "type": "energy beam"
+      }
+    }
   },
   {
-    "nom": "ZAMASU",
+    "name": "ZAMASU",
     "image": "images/ZAMASU.jpg",
-    "dp": 5
+    "dp": 5,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "immortal body",
+        "cost": "4"
+      },
+      "up": {
+        "name": "afterimage strike",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "divine steel blast",
+        "cost": "3",
+        "type": "projectile"
+      },
+      "up": {
+        "name": "god slicer",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "holy light grenade",
+        "cost": "-",
+        "type": "energy blast"
+      }
+    }
   },
   {
-    "nom": "JIREN",
+    "name": "JIREN",
     "caracteristiques": "FULL POWER",
     "image": "images/JIREN_FULL_POWER.jpg",
-    "dp": 9
+    "dp": 9,
+    "Health Bars": 4,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "ki storm",
+        "cost": "2"
+      },
+      "up": {
+        "name": "strenght is absolute!",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "heatwave magnetron",
+        "cost": "3",
+        "type": "energy beam"
+      },
+      "up": {
+        "name": "overheating blast",
+        "cost": "4",
+        "type": "energy explosion"
+      },
+      "ultimate": {
+        "name": "omegaheat magnetron",
+        "cost": "-",
+        "type": "energy beam"
+      }
+    }
   },
   {
-    "nom": "GOKU ( SUPER )",
+    "name": "GOKU (SUPER)",
     "caracteristiques": "ULTRA INSTINCT -SIGN-",
     "image": "images/GOKU_(SUPER)_ULTRA_INSTINCT_-SIGN-.jpg",
-    "dp": 8
+    "dp": 8,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "even greater potential",
+        "cost": "2"
+      },
+      "up": {
+        "name": "you'll never beat me",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "kamehameha -sign-",
+        "cost": "3",
+        "type": "energy beam"
+      },
+      "up": {
+        "name": "flash -sign-",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "point-blank kamehameha",
+        "cost": "",
+        "type": "rush attack"
+      }
+    }
   },
   {
-    "nom": "SUPER VEGITO",
+    "name": "SUPER VEGITO",
     "image": "images/SUPER_VEGITO.jpg",
-    "dp": 8
+    "dp": 8,
+    "Health Bars": 4,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "afterimage strike",
+        "cost": "3"
+      },
+      "up": {
+        "name": "finish sign",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "big bang attack",
+        "cost": "3",
+        "type": "energy beam"
+      },
+      "up": {
+        "name": "final kamehameha",
+        "cost": "3",
+        "type": "energy beam"
+      },
+      "ultimate": {
+        "name": "beam sword slash",
+        "cost": "-",
+        "type": "rush attack"
+      }
+    }
   },
   {
-    "nom": "YAJIROBE",
+    "name": "YAJIROBE",
     "image": "images/YAJIROBE.jpg",
-    "dp": 2
+    "dp": 2,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "super unyielding spirit",
+        "cost": "3"
+      },
+      "up": {
+        "name": "senzu beans",
+        "cost": "5"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "ka-blam attack",
+        "cost": "4",
+        "type": "rush strike"
+      },
+      "up": {
+        "name": "flash and kill",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "miracle ka-blam slash",
+        "cost": "-",
+        "type": "rush attack"
+      }
+    }
   },
   {
-    "nom": "DABURA",
+    "name": "DABURA",
     "image": "images/DABURA.jpg",
-    "dp": 6
+    "dp": 6,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "evil breath",
+        "cost": "1"
+      },
+      "up": {
+        "name": "afterimage strike",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "evil impulse",
+        "cost": "3",
+        "type": "energy blast"
+      },
+      "up": {
+        "name": "evil flame",
+        "cost": "3",
+        "type": "energy cannon"
+      },
+      "ultimate": {
+        "name": "dark sword strike",
+        "cost": "-",
+        "type": "rush attack"
+      }
+    }
   },
   {
-    "nom": "SPOPOVICH",
+    "name": "SPOPOVICH",
     "image": "images/SPOPOVICH.jpg",
-    "dp": 2
+    "dp": 2,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "a servant's latent power",
+        "cost": "1"
+      },
+      "up": {
+        "name": "berserker",
+        "cost": "2"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "berserker crash",
+        "cost": "4",
+        "type": "rush strike"
+      },
+      "up": {
+        "name": "mad banquet",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "majin buu resurrection",
+        "cost": "-",
+        "type": "rush attack"
+      }
+    }
   },
   {
-    "nom": "GOKU BLACK",
+    "name": "GOKU BLACK",
     "caracteristiques": "SUPER SAIYAN ROSÉ",
     "image": "images/GOKU_BLACK_SUPER_SAIYAN_ROSÉ.jpg",
-    "dp": 8
+    "dp": 8,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "instant transmission",
+        "cost": "2"
+      },
+      "up": {
+        "name": "audacious laugh",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "black kamehameha",
+        "cost": "3",
+        "type": "energy beam (chargeable)"
+      },
+      "up": {
+        "name": "godly display slash",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "godly black kamehameha",
+        "cost": "-",
+        "type": "rush attack"
+      }
+    }
   },
   {
-    "nom": "FUTURE TRUNKS",
+    "name": "FUTURE TRUNKS",
     "image": "images/FUTURE_TRUNKS.jpg",
-    "dp": 5
+    "dp": 5,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "solar flare",
+        "cost": "2"
+      },
+      "up": {
+        "name": "wild sense",
+        "cost": "2"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "masenko",
+        "cost": "3",
+        "type": "energy beam (chargeable)"
+      },
+      "up": {
+        "name": "lightning sword slash",
+        "cost": "3",
+        "type": "energy slash barrage"
+      },
+      "ultimate": {
+        "name": "shining slash",
+        "cost": "-",
+        "type": "rush attack"
+      }
+    }
   },
   {
-    "nom": "RIBRIANNE",
+    "name": "RIBRIANNE",
     "image": "images/RIBRIANNE.jpg",
-    "dp": 5
+    "dp": 5,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "light of love",
+        "cost": "2"
+      },
+      "up": {
+        "name": "maiden's fury",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "pretty cannon",
+        "cost": "3",
+        "type": "energy blast"
+      },
+      "up": {
+        "name": "maiden's charge",
+        "cost": "4",
+        "type": "rush strike"
+      },
+      "ultimate": {
+        "name": "infinite love",
+        "cost": "-",
+        "type": "rush attack"
+      }
+    }
   },
   {
-    "nom": "ROASIE",
+    "name": "ROASIE",
     "image": "images/ROASIE.jpg",
-    "dp": 5
+    "dp": 5,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "full-power charge",
+        "cost": "2"
+      },
+      "up": {
+        "name": "maiden's fury",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "yatchaina fist",
+        "cost": "3",
+        "type": "energy blast barrage"
+      },
+      "up": {
+        "name": "full-power energy blast volley",
+        "cost": "3",
+        "type": "energy blast barrage"
+      },
+      "ultimate": {
+        "name": "love symphony",
+        "cost": "-",
+        "type": "energy blast"
+      }
+    }
   },
   {
-    "nom": "ANILAZA",
+    "name": "ANILAZA",
     "image": "images/ANILAZA.jpg",
-    "dp": 8
+    "dp": 8,
+    "Health Bars": 4,
+    "Size(Huge)": "Y",
+    "skills": {
+      "neutral": {
+        "name": "ultrasonic sensor",
+        "cost": "2"
+      },
+      "up": {
+        "name": "howl",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "warp punch",
+        "cost": "4",
+        "type": "command grab"
+      },
+      "up": {
+        "name": "spread energy blast",
+        "cost": "3",
+        "type": "energy rain"
+      },
+      "ultimate": {
+        "name": "destruction burst",
+        "cost": "-",
+        "type": "energy blast"
+      }
+    }
   },
   {
-    "nom": "NAIL",
+    "name": "NAIL",
     "image": "images/NAIL.jpg",
-    "dp": 4
+    "dp": 4,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "buying time",
+        "cost": "2"
+      },
+      "up": {
+        "name": "full power",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "full-power energy wave",
+        "cost": "3",
+        "type": "energy beam"
+      },
+      "up": {
+        "name": "super destructive wave",
+        "cost": "4",
+        "type": "energy explosion"
+      },
+      "ultimate": {
+        "name": "mystic flasher",
+        "cost": "-",
+        "type": "rush attack"
+      }
+    }
   },
   {
-    "nom": "FRIEZA (Z)",
+    "name": "FRIEZA (Z)",
     "caracteristiques": "1ST FORM",
     "image": "images/FRIEZA_(Z)_1ST_FORM.jpg",
-    "dp": 5
+    "dp": 5,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "psychokinesis",
+        "cost": "2"
+      },
+      "up": {
+        "name": "pump up",
+        "cost": "2"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "death beam",
+        "cost": "2",
+        "type": "piercing beam"
+      },
+      "up": {
+        "name": "punishing rush",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "death ball",
+        "cost": "-",
+        "type": "energy blast"
+      }
+    }
   },
   {
-    "nom": "FRIEZA (Z)",
+    "name": "FRIEZA (Z)",
     "caracteristiques": "2ND FORM",
     "image": "images/FRIEZA_(Z)_2ND_FORM.jpg",
-    "dp": 5
+    "dp": 5,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "explosive wave",
+        "cost": "2"
+      },
+      "up": {
+        "name": "finish sign",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "punishing blaster",
+        "cost": "3",
+        "type": "energy beam"
+      },
+      "up": {
+        "name": "death storm",
+        "cost": "4",
+        "type": "remote energy explosion"
+      },
+      "ultimate": {
+        "name": "hail frieza",
+        "cost": "-",
+        "type": "rush attack"
+      }
+    }
   },
   {
-    "nom": "FRIEZA (Z)",
+    "name": "FRIEZA (Z)",
     "caracteristiques": "3RD FORM",
     "image": "images/FRIEZA_(Z)_3RD_FORM.jpg",
-    "dp": 5
+    "dp": 5,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "explosive wave",
+        "cost": "2"
+      },
+      "up": {
+        "name": "high-tension",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "barrage death beam",
+        "cost": "2",
+        "type": "piercing beam barrage"
+      },
+      "up": {
+        "name": "high speed rush",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "crazy finger beam",
+        "cost": "-",
+        "type": "rush attack"
+      }
+    }
   },
   {
-    "nom": "FRIEZA (Z)",
+    "name": "FRIEZA (Z)",
     "caracteristiques": "4TH FORM",
     "image": "images/FRIEZA_(Z)_4TH_FORM.jpg",
-    "dp": 6
+    "dp": 6,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "psychokinesis",
+        "cost": "2"
+      },
+      "up": {
+        "name": "your arrogance disgusts me!",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "barrage death beam",
+        "cost": "2",
+        "type": "piercing beam barrage"
+      },
+      "up": {
+        "name": "you might die this time",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "i'll destroy this planet!",
+        "cost": "-",
+        "type": "energy blast"
+      }
+    }
   },
   {
-    "nom": "FRIEZA (Z)",
+    "name": "FRIEZA (Z)",
     "caracteristiques": "FULL POWER",
     "image": "images/FRIEZA_(Z)_FULL_POWER.jpg",
-    "dp": 7
+    "dp": 7,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "psychokinesis",
+        "cost": "2"
+      },
+      "up": {
+        "name": "long awaited-for 100%",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "death saucer",
+        "cost": "3",
+        "type": "double energy cutter"
+      },
+      "up": {
+        "name": "nova strike",
+        "cost": "4",
+        "type": "rush strike"
+      },
+      "ultimate": {
+        "name": "i'm the one who'll kill you!",
+        "cost": "-",
+        "type": "energy beam"
+      }
+    }
   },
   {
-    "nom": "CHIAOTZU",
+    "name": "CHIAOTZU",
     "image": "images/CHIAOTZU.jpg",
-    "dp": 2
+    "dp": 2,
+    "Health Bars": 2,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "telekinesis",
+        "cost": "2"
+      },
+      "up": {
+        "name": "afterimage",
+        "cost": "2"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "dodon ray",
+        "cost": "2",
+        "type": "piercing beam"
+      },
+      "up": {
+        "name": "psychic rock throw",
+        "cost": "2",
+        "type": "projectile"
+      },
+      "ultimate": {
+        "name": "farewell, mr. tien",
+        "cost": "-",
+        "type": "rush attack"
+      }
+    }
   },
   {
-    "nom": "SAIBAMAN",
+    "name": "SAIBAMAN",
     "image": "images/SAIBAMAN.jpg",
-    "dp": 2
+    "dp": 2,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "acid",
+        "cost": "2"
+      },
+      "up": {
+        "name": "afterimage",
+        "cost": "2"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "full-power energy wave",
+        "cost": "3",
+        "type": "energy beam"
+      },
+      "up": {
+        "name": "high speed rush",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "saibaman bomb",
+        "cost": "-",
+        "type": "rush attack"
+      }
+    }
   },
   {
-    "nom": "ZARBON",
+    "name": "ZARBON",
     "image": "images/ZARBON.jpg",
-    "dp": 3
+    "dp": 3,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "wild sense",
+        "cost": "2"
+      },
+      "up": {
+        "name": "full power",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "shooting star arrow",
+        "cost": "2",
+        "type": "energy blast barrage"
+      },
+      "up": {
+        "name": "bloody dance",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "elegant blaster",
+        "cost": "-",
+        "type": "energy beam"
+      }
+    }
   },
   {
-    "nom": "SUPER ZARBON",
+    "name": "SUPER ZARBON",
     "image": "images/SUPER_ZARBON.jpg",
-    "dp": 3
+    "dp": 3,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "false courage",
+        "cost": "1"
+      },
+      "up": {
+        "name": "high-tension",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "elegant blaster",
+        "cost": "3",
+        "type": "energy beam"
+      },
+      "up": {
+        "name": "wild pressure",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "monster crush",
+        "cost": "-",
+        "type": "command grab"
+      }
+    }
   },
   {
-    "nom": "DODORIA",
+    "name": "DODORIA",
     "image": "images/DODORIA.jpg",
-    "dp": 3
+    "dp": 3,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "false courage",
+        "cost": "1"
+      },
+      "up": {
+        "name": "pump up",
+        "cost": "2"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "chou makouhou",
+        "cost": "3",
+        "type": "energy beam"
+      },
+      "up": {
+        "name": "dodoria head ram",
+        "cost": "4",
+        "type": "rush strike"
+      },
+      "ultimate": {
+        "name": "maximum buster",
+        "cost": "-",
+        "type": "energy beam"
+      }
+    }
   },
   {
-    "nom": "CUI",
+    "name": "CUI",
     "image": "images/CUI.jpg",
-    "dp": 3
+    "dp": 3,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "false courage",
+        "cost": "1"
+      },
+      "up": {
+        "name": "sleep",
+        "cost": "4"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "full-power energy wave",
+        "cost": "3",
+        "type": "energy beam"
+      },
+      "up": {
+        "name": "full-power energy wave combo",
+        "cost": "3",
+        "type": "energy blast barrage"
+      },
+      "ultimate": {
+        "name": "ah! lord frieza!",
+        "cost": "-",
+        "type": "rush attack"
+      }
+    }
   },
   {
-    "nom": "GINYU",
+    "name": "GINYU",
     "image": "images/GINYU.jpg",
-    "dp": 4
+    "dp": 4,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "sp fighting pose 5",
+        "cost": "3"
+      },
+      "up": {
+        "name": "dangerous shock",
+        "cost": "1"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "full-power energy wave",
+        "cost": "3",
+        "type": "energy beam"
+      },
+      "up": {
+        "name": "galaxy dynamite",
+        "cost": "3",
+        "type": "energy blast"
+      },
+      "ultimate": {
+        "name": "body change",
+        "cost": "-",
+        "type": "energy beam"
+      }
+    }
   },
   {
-    "nom": "RECOOME",
+    "name": "RECOOME",
     "image": "images/RECOOME.jpg",
-    "dp": 3
+    "dp": 3,
+    "Health Bars": 4,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "false courage",
+        "cost": "1"
+      },
+      "up": {
+        "name": "sp fighting pose 1",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "recoome eraser gun",
+        "cost": "3",
+        "type": "energy beam"
+      },
+      "up": {
+        "name": "recoome grenade bomber",
+        "cost": "3",
+        "type": "energy blast barrage"
+      },
+      "ultimate": {
+        "name": "recoome fighting bomber",
+        "cost": "-",
+        "type": "energy explosion"
+      }
+    }
   },
   {
-    "nom": "GULDO",
+    "name": "GULDO",
     "image": "images/GULDO.jpg",
-    "dp": 2
+    "dp": 2,
+    "Health Bars": 2,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "paralysis",
+        "cost": "2"
+      },
+      "up": {
+        "name": "sp fighting pose 4",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "psychic rock throw",
+        "cost": "3",
+        "type": "projectile"
+      },
+      "up": {
+        "name": "full-power energy blast volley",
+        "cost": "3",
+        "type": "energy blast barrage"
+      },
+      "ultimate": {
+        "name": "guldo special",
+        "cost": "-",
+        "type": "remote energy explosion"
+      }
+    }
   },
   {
-    "nom": "GOHAN (TEEN)",
+    "name": "GOHAN (TEEN)",
     "image": "images/GOHAN_(TEEN).jpg",
-    "dp": 4
+    "dp": 4,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "wild sense",
+        "cost": "2"
+      },
+      "up": {
+        "name": "full-power charge",
+        "cost": "2"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "super masenko",
+        "cost": "3",
+        "type": "energy beam (chargeable)"
+      },
+      "up": {
+        "name": "energy blast barrage",
+        "cost": "2",
+        "type": "energy blast barrage"
+      },
+      "ultimate": {
+        "name": "super kamehameha",
+        "cost": "",
+        "type": "energy beam"
+      }
+    }
   },
   {
-    "nom": "GOHAN (TEEN)",
+    "name": "GOHAN (TEEN)",
     "caracteristiques": "SUPER SAIYAN",
     "image": "images/GOHAN_(TEEN)_SUPER_SAIYAN.jpg",
-    "dp": 6
+    "dp": 6,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "explosive wave",
+        "cost": "2"
+      },
+      "up": {
+        "name": "full power",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "super kamehameha",
+        "cost": "3",
+        "type": "energy beam (chargeable)"
+      },
+      "up": {
+        "name": "super assault combo",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "raging masenko",
+        "cost": "",
+        "type": "energy blast barrage"
+      }
+    }
   },
   {
-    "nom": "GOHAN (TEEN)",
+    "name": "GOHAN (TEEN)",
     "caracteristiques": "SUPER SAIYAN 2",
     "image": "images/GOHAN_(TEEN)_SUPER_SAIYAN_2.jpg",
-    "dp": 7
+    "dp": 7,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "explosive wave",
+        "cost": "2"
+      },
+      "up": {
+        "name": "unforgivable",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "super kamehameha",
+        "cost": "2",
+        "type": "energy beam"
+      },
+      "up": {
+        "name": "explosive rush",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "father-son kamehameha",
+        "cost": "",
+        "type": "energy beam"
+      }
+    }
   },
   {
-    "nom": "TRUNKS (MELEE)",
+    "name": "TRUNKS (MELEE)",
     "image": "images/TRUNKS_(MELEE).jpg",
-    "dp": 5
+    "dp": 5,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "explosive wave",
+        "cost": "2"
+      },
+      "up": {
+        "name": "wild sense",
+        "cost": "2"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "burning attack",
+        "cost": "3",
+        "type": "energy blast"
+      },
+      "up": {
+        "name": "high speed rush",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "finish buster",
+        "cost": "-",
+        "type": "energy blast"
+      }
+    }
   },
   {
-    "nom": "ANDROID 17 (Z)",
+    "name": "ANDROID 17 (Z)",
     "image": "images/ANDROID_17_(Z).jpg",
-    "dp": 5
+    "dp": 5,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "android barrier",
+        "cost": "2"
+      },
+      "up": {
+        "name": "finish sign",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "full-power energy ball",
+        "cost": "3",
+        "type": "double energy blast"
+      },
+      "up": {
+        "name": "photon flash",
+        "cost": "3",
+        "type": "energy beam"
+      },
+      "ultimate": {
+        "name": "sadistic dance",
+        "cost": "-",
+        "type": "rush attack"
+      }
+    }
   },
   {
-    "nom": "ANDROID 16",
+    "name": "ANDROID 16",
     "image": "images/ANDROID_16.jpg",
-    "dp": 5
+    "dp": 5,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "explosive wave",
+        "cost": "2"
+      },
+      "up": {
+        "name": "pump up",
+        "cost": "2"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "hell's impact",
+        "cost": "3",
+        "type": "projectile"
+      },
+      "up": {
+        "name": "hell's flash",
+        "cost": "4",
+        "type": "command grab"
+      },
+      "ultimate": {
+        "name": "self destruct device",
+        "cost": "-",
+        "type": "rush attack"
+      }
+    }
   },
   {
-    "nom": "ANDROID 19",
+    "name": "ANDROID 19",
     "image": "images/ANDROID_19.jpg",
-    "dp": 4
+    "dp": 4,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "false courage",
+        "cost": "1"
+      },
+      "up": {
+        "name": "pump up",
+        "cost": "2"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "full-power energy wave",
+        "cost": "3",
+        "type": "energy beam"
+      },
+      "up": {
+        "name": "high power rush",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "drain life 19",
+        "cost": "-",
+        "type": "rush attack"
+      }
+    }
   },
   {
-    "nom": "DR. GERO",
+    "name": "DR. GERO",
     "image": "images/DR._GERO.jpg",
-    "dp": 4
+    "dp": 4,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "false courage",
+        "cost": "1"
+      },
+      "up": {
+        "name": "finish sign",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "full-power energy wave",
+        "cost": "3",
+        "type": "energy beam"
+      },
+      "up": {
+        "name": "bionic punisher",
+        "cost": "2",
+        "type": "piercing beam sweep"
+      },
+      "ultimate": {
+        "name": "life drain 20",
+        "cost": "-",
+        "type": "rush attack"
+      }
+    }
   },
   {
-    "nom": "CELL",
+    "name": "CELL",
     "caracteristiques": "1ST FORM",
     "image": "images/CELL_1ST_FORM.jpg",
-    "dp": 5
+    "dp": 5,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "solar flare",
+        "cost": "2"
+      },
+      "up": {
+        "name": "afterimage",
+        "cost": "2"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "kamehameha",
+        "cost": "3",
+        "type": "energy beam (chargeable)"
+      },
+      "up": {
+        "name": "special beam cannon",
+        "cost": "3",
+        "type": "piercing beam (chargeable)"
+      },
+      "ultimate": {
+        "name": "drain life cell",
+        "cost": "-",
+        "type": "rush attack"
+      }
+    }
   },
   {
-    "nom": "CELL",
+    "name": "CELL",
     "caracteristiques": "2ND FORM",
     "image": "images/CELL_2ND_FORM.jpg",
-    "dp": 5
+    "dp": 5,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "solar flare",
+        "cost": "2"
+      },
+      "up": {
+        "name": "pump up",
+        "cost": "2"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "big bang crash",
+        "cost": "3",
+        "type": "energy blast"
+      },
+      "up": {
+        "name": "drain life cell",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "unforgivable!",
+        "cost": "-",
+        "type": "energy explosion"
+      }
+    }
   },
   {
-    "nom": "PERFECT CELL",
+    "name": "PERFECT CELL",
     "image": "images/PERFECT_CELL.jpg",
-    "dp": 7
+    "dp": 7,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "instant transmission",
+        "cost": "2"
+      },
+      "up": {
+        "name": "wild sense",
+        "cost": "2"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "perfect beam",
+        "cost": "2",
+        "type": "piercing beam"
+      },
+      "up": {
+        "name": "perfect rush",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "solar kamehameha",
+        "cost": "-",
+        "type": "energy beam"
+      }
+    }
   },
   {
-    "nom": "CELL JR.",
+    "name": "CELL JR.",
     "image": "images/CELL_JR..jpg",
-    "dp": 3
+    "dp": 3,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "solar flare",
+        "cost": "2"
+      },
+      "up": {
+        "name": "explosive wave",
+        "cost": "2"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "special beam cannon",
+        "cost": "3",
+        "type": "piercing energy beam"
+      },
+      "up": {
+        "name": "innocence rush",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "super kamehameha",
+        "cost": "-",
+        "type": "energy beam"
+      }
+    }
   },
   {
-    "nom": "PICCOLO (FUSED WITH KAMI)",
+    "name": "PICCOLO (FUSED WITH KAMI)",
     "image": "images/PICCOLO_(FUSED_WITH_KAMI).jpg",
-    "dp": 5
+    "dp": 5,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "wild sense",
+        "cost": "2"
+      },
+      "up": {
+        "name": "false courage",
+        "cost": "1"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "special beam cannon",
+        "cost": "3",
+        "type": "piercing beam (chargeable)"
+      },
+      "up": {
+        "name": "light grenade",
+        "cost": "3",
+        "type": "energy blast"
+      },
+      "ultimate": {
+        "name": "hellzone grenade",
+        "cost": "",
+        "type": "energy blast barrage"
+      }
+    }
   },
   {
-    "nom": "KING COLD",
+    "name": "KING COLD",
     "image": "images/KING_COLD.jpg",
-    "dp": 4
+    "dp": 4,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "explosive wave",
+        "cost": "2"
+      },
+      "up": {
+        "name": "king's dignity",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "full-power death beam",
+        "cost": "2",
+        "type": "piercing energy beam"
+      },
+      "up": {
+        "name": "super explosive wave",
+        "cost": "4",
+        "type": "energy explosion"
+      },
+      "ultimate": {
+        "name": "power of the cold clan",
+        "cost": "-",
+        "type": "rush attack"
+      }
+    }
   },
   {
-    "nom": "MECHA FRIEZA",
+    "name": "MECHA FRIEZA",
     "image": "images/MECHA_FRIEZA.jpg",
-    "dp": 6
+    "dp": 6,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "psychokinesis",
+        "cost": "2"
+      },
+      "up": {
+        "name": "finish sign",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "death beam",
+        "cost": "2",
+        "type": "piercing energy beam"
+      },
+      "up": {
+        "name": "fissure slash",
+        "cost": "3",
+        "type": "double energy slash"
+      },
+      "ultimate": {
+        "name": "supernova",
+        "cost": "-",
+        "type": "energy blast"
+      }
+    }
   },
   {
-    "nom": "GREAT SAIYAMAN",
+    "name": "GREAT SAIYAMAN",
     "image": "images/GREAT_SAIYAMAN.jpg",
-    "dp": 4
+    "dp": 4,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "justice pose",
+        "cost": "3"
+      },
+      "up": {
+        "name": "justice finishing pose",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "justice bomber",
+        "cost": "4",
+        "type": "energy explosion"
+      },
+      "up": {
+        "name": "justice rush",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "justice judgment",
+        "cost": "-",
+        "type": "rush attack"
+      }
+    }
   },
   {
-    "nom": "BABIDI",
+    "name": "BABIDI",
     "image": "images/BABIDI.jpg",
-    "dp": 3
+    "dp": 3,
+    "Health Bars": 2,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "demon eye",
+        "cost": "2"
+      },
+      "up": {
+        "name": "wizard barrier",
+        "cost": "2"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "pui pui nice shot",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "up": {
+        "name": "ultimate explosive power",
+        "cost": "4",
+        "type": "remote explosion"
+      },
+      "ultimate": {
+        "name": "super electroshock sorcery",
+        "cost": "-",
+        "type": "energy cannon"
+      }
+    }
   },
   {
-    "nom": "GOHAN (ADULT)",
+    "name": "GOHAN (ADULT)",
     "caracteristiques": "SUPER SAIYAN",
     "image": "images/GOHAN_(ADULT)_SUPER_SAIYAN.jpg",
-    "dp": 6
+    "dp": 6,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "explosive wave",
+        "cost": "2"
+      },
+      "up": {
+        "name": "full-power charge",
+        "cost": "2"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "explosive cannon",
+        "cost": "3",
+        "type": "energy cannon"
+      },
+      "up": {
+        "name": "full power energy blast volley",
+        "cost": "3",
+        "type": "energy blast barrage"
+      },
+      "ultimate": {
+        "name": "bros. kamehameha",
+        "cost": "",
+        "type": "energy beam"
+      }
+    }
   },
   {
-    "nom": "MAJIN BUU (EVIL)",
+    "name": "MAJIN BUU (EVIL)",
     "image": "images/MAJIN_BUU_(EVIL).jpg",
-    "dp": 6
+    "dp": 6,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "paralyze beam",
+        "cost": "2"
+      },
+      "up": {
+        "name": "mystic breath",
+        "cost": "1"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "super kamehameha",
+        "cost": "3",
+        "type": "energy beam (chargeable)"
+      },
+      "up": {
+        "name": "flame shower breath",
+        "cost": "3",
+        "type": "energy cannon"
+      },
+      "ultimate": {
+        "name": "guilty flash",
+        "cost": "-",
+        "type": "rush attack"
+      }
+    }
   },
   {
-    "nom": "SUPER BUU",
+    "name": "SUPER BUU",
     "image": "images/SUPER_BUU.jpg",
-    "dp": 6
+    "dp": 6,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "vice shout",
+        "cost": "2"
+      },
+      "up": {
+        "name": "regeneration",
+        "cost": "4"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "assault rain",
+        "cost": "3",
+        "type": "energy blast rain"
+      },
+      "up": {
+        "name": "majin beam",
+        "cost": "3",
+        "type": "energy cannon"
+      },
+      "ultimate": {
+        "name": "revenge death bomber",
+        "cost": "-",
+        "type": "energy explosion"
+      }
+    }
   },
   {
-    "nom": "ULTIMATE GOHAN",
+    "name": "ULTIMATE GOHAN",
     "image": "images/ULTIMATE_GOHAN.jpg",
-    "dp": 7
+    "dp": 7,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "wild sense",
+        "cost": "2"
+      },
+      "up": {
+        "name": "power up to the very limit",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "super kamehameha",
+        "cost": "3",
+        "type": "energy beam"
+      },
+      "up": {
+        "name": "fierce combination",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "burst rush",
+        "cost": "-",
+        "type": "rush attack"
+      }
+    }
   },
   {
-    "nom": "SUPER BUU (GOTENKS ABSORBED)",
+    "name": "SUPER BUU (GOTENKS ABSORBED)",
     "image": "images/SUPER_BUU_(GOTENKS_ABSORBED).jpg",
-    "dp": 7
+    "dp": 7,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "explosive wave",
+        "cost": "2"
+      },
+      "up": {
+        "name": "regeneration",
+        "cost": "4"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "galactic donut volley",
+        "cost": "3",
+        "type": "energy blast"
+      },
+      "up": {
+        "name": "special beam cannon",
+        "cost": "3",
+        "type": "piercing beam (chargeable)"
+      },
+      "ultimate": {
+        "name": "super kamehameha",
+        "cost": "-",
+        "type": "energy beam"
+      }
+    }
   },
   {
-    "nom": "SUPER BUU (GOHAN ABSORBED)",
+    "name": "SUPER BUU (GOHAN ABSORBED)",
     "image": "images/SUPER_BUU_(GOHAN_ABSORBED).jpg",
-    "dp": 7
+    "dp": 7,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "afterimage",
+        "cost": "2"
+      },
+      "up": {
+        "name": "high-tension",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "super kamehameha",
+        "cost": "3",
+        "type": "energy beam (chargeable)"
+      },
+      "up": {
+        "name": "majin beam",
+        "cost": "3",
+        "type": "energy cannon"
+      },
+      "ultimate": {
+        "name": "super ghost buu attack",
+        "cost": "-",
+        "type": "projectile barrage"
+      }
+    }
   },
   {
-    "nom": "KID BUU",
+    "name": "KID BUU",
     "image": "images/KID_BUU.jpg",
-    "dp": 7
+    "dp": 7,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "instant transmission",
+        "cost": "2"
+      },
+      "up": {
+        "name": "sleep",
+        "cost": "4"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "super kamehameha",
+        "cost": "3",
+        "type": "energy beam (chargeable)"
+      },
+      "up": {
+        "name": "mystic combination",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "planet burst",
+        "cost": "-",
+        "type": "energy blast"
+      }
+    }
   },
   {
-    "nom": "GOKU (GT)",
+    "name": "GOKU (GT)",
     "image": "images/GOKU_(GT).jpg",
-    "dp": 5
+    "dp": 5,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "solar flare",
+        "cost": "2"
+      },
+      "up": {
+        "name": "afterimage strike",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "kamehameha",
+        "cost": "3",
+        "type": "energy beam (chargeable)"
+      },
+      "up": {
+        "name": "dragon fist",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "spirit bomb",
+        "cost": "",
+        "type": "energy blast"
+      }
+    }
   },
   {
-    "nom": "PAN (GT)",
+    "name": "PAN (GT)",
     "image": "images/PAN_(GT).jpg",
-    "dp": 3
+    "dp": 3,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "afterimage strike",
+        "cost": "3"
+      },
+      "up": {
+        "name": "saiyan spirit",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "kamehameha",
+        "cost": "3",
+        "type": "energy beam (chargeable)"
+      },
+      "up": {
+        "name": "giru missile",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "maiden's rage",
+        "cost": "-",
+        "type": "rush attack"
+      }
+    }
   },
   {
-    "nom": "GOKU (GT)",
+    "name": "GOKU (GT)",
     "caracteristiques": "SUPER SAIYAN",
     "image": "images/GOKU_(GT)_SUPER_SAIYAN.jpg",
-    "dp": 6
+    "dp": 6,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "wild sense",
+        "cost": "2"
+      },
+      "up": {
+        "name": "full power",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "super kamehameha",
+        "cost": "3",
+        "type": "energy beam (chargeable)"
+      },
+      "up": {
+        "name": "full-power energy blast volley",
+        "cost": "3",
+        "type": "energy blast barrage"
+      },
+      "ultimate": {
+        "name": "super explosive wave",
+        "cost": "",
+        "type": "energy explosion"
+      }
+    }
   },
   {
-    "nom": "BABY VEGETA (GT)",
+    "name": "BABY VEGETA (GT)",
     "image": "images/BABY_VEGETA_(GT).jpg",
-    "dp": 5
+    "dp": 5,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "explosive wave",
+        "cost": "2"
+      },
+      "up": {
+        "name": "high-tension",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "galick gun",
+        "cost": "3",
+        "type": "energy beam"
+      },
+      "up": {
+        "name": "finger blitz barrage",
+        "cost": "2",
+        "type": "energy blast barrage"
+      },
+      "ultimate": {
+        "name": "final flash",
+        "cost": "-",
+        "type": "energy beam"
+      }
+    }
   },
   {
-    "nom": "GOKU (GT)",
+    "name": "GOKU (GT)",
     "caracteristiques": "SUPER SAIYAN 3",
     "image": "images/GOKU_(GT)_SUPER_SAIYAN_3.jpg",
-    "dp": 7
+    "dp": 7,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "saiyan spirit",
+        "cost": "3"
+      },
+      "up": {
+        "name": "high-tension",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "super kamehameha",
+        "cost": "3",
+        "type": "energy beam (chargeable)"
+      },
+      "up": {
+        "name": "full-power energy blast volley",
+        "cost": "3",
+        "type": "energy blast barrage"
+      },
+      "ultimate": {
+        "name": "dragon fist",
+        "cost": "",
+        "type": "rush attack"
+      }
+    }
   },
   {
-    "nom": "SUPER BABY 1 (GT)",
+    "name": "SUPER BABY 1 (GT)",
     "image": "images/SUPER_BABY_1_(GT).jpg",
-    "dp": 6
+    "dp": 6,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "afterimage",
+        "cost": "2"
+      },
+      "up": {
+        "name": "high-tension",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "galick gun",
+        "cost": "3",
+        "type": "energy beam"
+      },
+      "up": {
+        "name": "tuffle revenger",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "final flash",
+        "cost": "-",
+        "type": "energy beam"
+      }
+    }
   },
   {
-    "nom": "SUPER BABY 2 (GT)",
+    "name": "SUPER BABY 2 (GT)",
     "image": "images/SUPER_BABY_2_(GT).jpg",
-    "dp": 7
+    "dp": 7,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "explosive wave",
+        "cost": "2"
+      },
+      "up": {
+        "name": "full power",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "final flash",
+        "cost": "3",
+        "type": "energy beam"
+      },
+      "up": {
+        "name": "revenge cutter",
+        "cost": "3",
+        "type": "energy cutter"
+      },
+      "ultimate": {
+        "name": "revenge death ball",
+        "cost": "-",
+        "type": "energy blast"
+      }
+    }
   },
   {
-    "nom": "UUB (GT)",
+    "name": "UUB (GT)",
     "image": "images/UUB_(GT).jpg",
-    "dp": 4
+    "dp": 4,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "wild sense",
+        "cost": "2"
+      },
+      "up": {
+        "name": "power up to the very limit",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "super kamehameha",
+        "cost": "3",
+        "type": "energy beam (chargeable)"
+      },
+      "up": {
+        "name": "blazing barrage palm",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "super explosive wave",
+        "cost": "-",
+        "type": "energy explosion"
+      }
+    }
   },
   {
-    "nom": "MAJUUB (GT)",
+    "name": "MAJUUB (GT)",
     "image": "images/MAJUUB_(GT).jpg",
-    "dp": 6
+    "dp": 6,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "paralyze beam",
+        "cost": "2"
+      },
+      "up": {
+        "name": "mystic breath",
+        "cost": "1"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "super consecutive energy blast",
+        "cost": "2",
+        "type": "energy blast barrage"
+      },
+      "up": {
+        "name": "majin beam",
+        "cost": "4",
+        "type": "energy cannon"
+      },
+      "ultimate": {
+        "name": "lightning arrow",
+        "cost": "-",
+        "type": "rush attack"
+      }
+    }
   },
   {
-    "nom": "GOKU (GT)",
+    "name": "GOKU (GT)",
     "caracteristiques": "SUPER SAIYAN 4",
     "image": "images/GOKU_(GT)_SUPER_SAIYAN_4.jpg",
-    "dp": 8
+    "dp": 8,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "instant transmission",
+        "cost": "2"
+      },
+      "up": {
+        "name": "all i need is five seconds!",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "x10 kamehameha",
+        "cost": "3",
+        "type": "energy beam"
+      },
+      "up": {
+        "name": "meteor crash",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "dragon fist",
+        "cost": "",
+        "type": "rush attack"
+      }
+    }
   },
   {
-    "nom": "GREAT APE BABY (GT)",
+    "name": "GREAT APE BABY (GT)",
     "image": "images/GREAT_APE_BABY_(GT).jpg",
-    "dp": 7
+    "dp": 7,
+    "Health Bars": 4,
+    "Size(Huge)": "Y",
+    "skills": {
+      "neutral": {
+        "name": "explosive wave",
+        "cost": "2"
+      },
+      "up": {
+        "name": "howl",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "super galick gun",
+        "cost": "3",
+        "type": "energy beam"
+      },
+      "up": {
+        "name": "gigantic flame",
+        "cost": "3",
+        "type": "energy cannon"
+      },
+      "ultimate": {
+        "name": "revenge death ball final",
+        "cost": "-",
+        "type": "energy blast"
+      }
+    }
   },
   {
-    "nom": "SYN SHENRON",
+    "name": "SYN SHENRON",
     "image": "images/SYN_SHENRON.jpg",
-    "dp": 7
+    "dp": 7,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "explosive wave",
+        "cost": "2"
+      },
+      "up": {
+        "name": "mystic breath",
+        "cost": "1"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "trap shooter",
+        "cost": "2",
+        "type": "energy blast barrage"
+      },
+      "up": {
+        "name": "blazing storm",
+        "cost": "2",
+        "type": "remote explosive sweep"
+      },
+      "ultimate": {
+        "name": "gigantic blaze",
+        "cost": "-",
+        "type": "remote energy explosion"
+      }
+    }
   },
   {
-    "nom": "OMEGA SHENRON (GT)",
+    "name": "OMEGA SHENRON (GT)",
     "image": "images/OMEGA_SHENRON_(GT).jpg",
-    "dp": 8
+    "dp": 8,
+    "Health Bars": 4,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "wild sense",
+        "cost": "2"
+      },
+      "up": {
+        "name": "power up to the very limit",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "gigantic blaze",
+        "cost": "4",
+        "type": "remote energy explosion"
+      },
+      "up": {
+        "name": "dragon thunder",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "minus energy power ball",
+        "cost": "-",
+        "type": "energy blast"
+      }
+    }
   },
   {
-    "nom": "VEGETA (GT)",
+    "name": "VEGETA (GT)",
     "caracteristiques": "SUPER SAIYAN 4",
     "image": "images/VEGETA_(GT)_SUPER_SAIYAN_4.jpg",
-    "dp": 8
+    "dp": 8,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "explosive wave",
+        "cost": "2"
+      },
+      "up": {
+        "name": "finish sign",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "final flash",
+        "cost": "3",
+        "type": "energy beam"
+      },
+      "up": {
+        "name": "spirit breaking cannon",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "final shine attack",
+        "cost": "",
+        "type": "energy beam"
+      }
+    }
   },
   {
-    "nom": "GOGETA (GT)",
+    "name": "GOGETA (GT)",
     "caracteristiques": "SUPER SAIYAN 4",
     "image": "images/GOGETA_(GT)_SUPER_SAIYAN_4.jpg",
-    "dp": 10
+    "dp": 10,
+    "Health Bars": 4,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "wild sense",
+        "cost": "2"
+      },
+      "up": {
+        "name": "power up to the very limit",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "big bang kamehameha",
+        "cost": "3",
+        "type": "energy beam (chargeable)"
+      },
+      "up": {
+        "name": "ultimate impact",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "ultra big bang kamehameha",
+        "cost": "-",
+        "type": "energy beam"
+      }
+    }
   },
   {
-    "nom": "FRIEZA FORCE SOLDIER",
+    "name": "FRIEZA FORCE SOLDIER",
     "image": "images/FRIEZA_FORCE_SOLDIER.jpg",
-    "dp": 2
+    "dp": 2,
+    "Health Bars": 2,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "full-power charge",
+        "cost": "2"
+      },
+      "up": {
+        "name": "sleep",
+        "cost": "4"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "energy wave",
+        "cost": "2",
+        "type": "energy beam"
+      },
+      "up": {
+        "name": "full-power energy wave",
+        "cost": "3",
+        "type": "energy beam"
+      },
+      "ultimate": {
+        "name": "life-risking blow!",
+        "cost": "-",
+        "type": "rush strike"
+      }
+    }
   },
   {
-    "nom": "CABBA",
+    "name": "CABBA",
     "image": "images/CABBA.jpg",
-    "dp": 5
+    "dp": 5,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "explosive wave",
+        "cost": "2"
+      },
+      "up": {
+        "name": "full power",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "galick cannon",
+        "cost": "3",
+        "type": "energy beam"
+      },
+      "up": {
+        "name": "high speed rush",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "galick rage",
+        "cost": "-",
+        "type": "rush attack"
+      }
+    }
   },
   {
-    "nom": "FROST",
+    "name": "FROST",
     "image": "images/FROST.jpg",
-    "dp": 6
+    "dp": 6,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "explosive wave",
+        "cost": "2"
+      },
+      "up": {
+        "name": "welcome to my world",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "chaos beam",
+        "cost": "3",
+        "type": "piercing beam"
+      },
+      "up": {
+        "name": "secret poison",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "chaos ball",
+        "cost": "-",
+        "type": "energy blast"
+      }
+    }
   },
   {
-    "nom": "TOPPO, GOD OF DESTRUCTION",
+    "name": "TOPPO, GOD OF DESTRUCTION",
     "image": "images/TOPPO,_GOD_OF_DESTRUCTION.jpg",
-    "dp": 8
+    "dp": 8,
+    "Health Bars": 4,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "resolution",
+        "cost": "3"
+      },
+      "up": {
+        "name": "hakai aura",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "destruction flash",
+        "cost": "2",
+        "type": "energy blast barrage"
+      },
+      "up": {
+        "name": "sphere of destruction",
+        "cost": "3",
+        "type": "energy blast"
+      },
+      "ultimate": {
+        "name": "super large sphere of destruction",
+        "cost": "-",
+        "type": "energy blast"
+      }
+    }
   },
   {
-    "nom": "CABBA",
+    "name": "CABBA",
     "caracteristiques": "SUPER SAIYAN",
     "image": "images/CABBA_SUPER_SAIYAN.jpg",
-    "dp": 6
+    "dp": 6,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "explosive wave",
+        "cost": "2"
+      },
+      "up": {
+        "name": "wild sense",
+        "cost": "2"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "galick rain",
+        "cost": "3",
+        "type": "energy blast barrage"
+      },
+      "up": {
+        "name": "galick rage",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "super galick cannon",
+        "cost": "-",
+        "type": "energy beam"
+      }
+    }
   },
   {
-    "nom": "CABBA",
+    "name": "CABBA",
     "caracteristiques": "SUPER SAIYAN 2",
     "image": "images/CABBA_SUPER_SAIYAN_2.jpg",
-    "dp": 7
+    "dp": 7,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "explosive wave",
+        "cost": "2"
+      },
+      "up": {
+        "name": "growth",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "super galick cannon",
+        "cost": "3",
+        "type": "energy beam"
+      },
+      "up": {
+        "name": "galick rain",
+        "cost": "3",
+        "type": "energy blast barrage"
+      },
+      "ultimate": {
+        "name": "final stream",
+        "cost": "-",
+        "type": "energy beam"
+      }
+    }
   },
   {
-    "nom": "BROLY (Z)",
+    "name": "BROLY (Z)",
     "image": "images/BROLY_(Z).jpg",
-    "dp": 5
+    "dp": 5,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "wild sense",
+        "cost": "2"
+      },
+      "up": {
+        "name": "kakarottt!",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "full-power energy wave",
+        "cost": "3",
+        "type": "energy beam"
+      },
+      "up": {
+        "name": "high speed rush",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "super explosive wave",
+        "cost": "-",
+        "type": "energy explosion"
+      }
+    }
   },
   {
-    "nom": "BROLY (Z)",
+    "name": "BROLY (Z)",
     "caracteristiques": "SUPER SAIYAN",
     "image": "images/BROLY_(Z)_SUPER_SAIYAN.jpg",
-    "dp": 7
+    "dp": 7,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "saiyan spirit",
+        "cost": "3"
+      },
+      "up": {
+        "name": "kakarottt!",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "bloody smash",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "up": {
+        "name": "trap shooter",
+        "cost": "2",
+        "type": "energy blast barrage"
+      },
+      "ultimate": {
+        "name": "eraser cannon",
+        "cost": "-",
+        "type": "energy blast"
+      }
+    }
   },
   {
-    "nom": "BROLY (Z)",
+    "name": "BROLY (Z)",
     "caracteristiques": "LEGENDARY SUPER SAIYAN",
     "image": "images/BROLY_(Z)_LEGENDARY_SUPER_SAIYAN.jpg",
-    "dp": 9
+    "dp": 9,
+    "Health Bars": 4,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "explosive wave",
+        "cost": "2"
+      },
+      "up": {
+        "name": "kakarottt!",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "eraser cannon",
+        "cost": "3",
+        "type": "energy blast"
+      },
+      "up": {
+        "name": "gigantic hammer",
+        "cost": "4",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "omega blaster",
+        "cost": "-",
+        "type": "energy blast"
+      }
+    }
   },
   {
-    "nom": "COOLER",
+    "name": "COOLER",
     "image": "images/COOLER.jpg",
-    "dp": 6
+    "dp": 6,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "psychokinesis",
+        "cost": "2"
+      },
+      "up": {
+        "name": "afterimage",
+        "cost": "2"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "full-power energy wave",
+        "cost": "3",
+        "type": "energy beam"
+      },
+      "up": {
+        "name": "darkness eye beam",
+        "cost": "2",
+        "type": "piercing beam sweep"
+      },
+      "ultimate": {
+        "name": "death ball",
+        "cost": "-",
+        "type": "energy blast"
+      }
+    }
   },
   {
-    "nom": "COOLER",
+    "name": "COOLER",
     "caracteristiques": "FINAL FORM",
     "image": "images/COOLER_FINAL_FORM.jpg",
-    "dp": 7
+    "dp": 7,
+    "Health Bars": 4,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "psychokinesis",
+        "cost": "2"
+      },
+      "up": {
+        "name": "psycho barrier",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "death beam",
+        "cost": "2",
+        "type": "piercing beam"
+      },
+      "up": {
+        "name": "death chaser",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "supernova",
+        "cost": "-",
+        "type": "energy beam"
+      }
+    }
   },
   {
-    "nom": "METAL COOLER",
+    "name": "METAL COOLER",
     "image": "images/METAL_COOLER.jpg",
-    "dp": 7
+    "dp": 7,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "instant transmission",
+        "cost": "2"
+      },
+      "up": {
+        "name": "regeneration",
+        "cost": "4"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "lock-on buster",
+        "cost": "4",
+        "type": "piercing beam"
+      },
+      "up": {
+        "name": "finger blitz barrage",
+        "cost": "2",
+        "type": "energy blast barrage"
+      },
+      "ultimate": {
+        "name": "supernova",
+        "cost": "-",
+        "type": "energy blast"
+      }
+    }
   },
   {
-    "nom": "ANDROID 13",
+    "name": "ANDROID 13",
     "image": "images/ANDROID_13.jpg",
-    "dp": 5
+    "dp": 5,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "wild sense",
+        "cost": "2"
+      },
+      "up": {
+        "name": "high-tension",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "full-power energy wave",
+        "cost": "3",
+        "type": "energy beam"
+      },
+      "up": {
+        "name": "silent assasin 13",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "s.s. deadly bomber",
+        "cost": "-",
+        "type": "energy blast"
+      }
+    }
   },
   {
-    "nom": "FUSION ANDROID 13",
+    "name": "FUSION ANDROID 13",
     "image": "images/FUSION_ANDROID_13.jpg",
-    "dp": 7
+    "dp": 7,
+    "Health Bars": 4,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "android barrier",
+        "cost": "3"
+      },
+      "up": {
+        "name": "pump up",
+        "cost": "2"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "s.s. deadly bomber",
+        "cost": "3",
+        "type": "energy blast"
+      },
+      "up": {
+        "name": "super explosive wave",
+        "cost": "4",
+        "type": "energy explosion"
+      },
+      "ultimate": {
+        "name": "s.s. deadly hammer",
+        "cost": "-",
+        "type": "rush attack"
+      }
+    }
   },
   {
-    "nom": "SUPER GARLIC JR.",
+    "name": "SUPER GARLIC JR.",
     "image": "images/SUPER_GARLIC_JR..jpg",
-    "dp": 4
+    "dp": 4,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "sealing paralyze beam",
+        "cost": "2"
+      },
+      "up": {
+        "name": "makyo star",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "death impact",
+        "cost": "3",
+        "type": "energy beam"
+      },
+      "up": {
+        "name": "darkness illusion",
+        "cost": "4",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "dead zone",
+        "cost": "-",
+        "type": "rush attack"
+      }
+    }
   },
   {
-    "nom": "DR. WHEELO",
+    "name": "DR. WHEELO",
     "image": "images/DR._WHEELO.jpg",
-    "dp": 4
+    "dp": 4,
+    "Health Bars": 4,
+    "Size(Huge)": "Y",
+    "skills": {
+      "neutral": {
+        "name": "barrier",
+        "cost": "3"
+      },
+      "up": {
+        "name": "full power",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "photon strike",
+        "cost": "3",
+        "type": "triple energy blast"
+      },
+      "up": {
+        "name": "gigantic bomber",
+        "cost": "4",
+        "type": "rush strike"
+      },
+      "ultimate": {
+        "name": "planet geyser",
+        "cost": "-",
+        "type": "energy beam"
+      }
+    }
   },
   {
-    "nom": "LORD SLUG",
+    "name": "LORD SLUG",
     "image": "images/LORD_SLUG.jpg",
-    "dp": 4
+    "dp": 4,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "explosive wave",
+        "cost": "2"
+      },
+      "up": {
+        "name": "high-tension",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "finger beam",
+        "cost": "2",
+        "type": "piercing beam"
+      },
+      "up": {
+        "name": "darkness eye beam",
+        "cost": "3",
+        "type": "piercing beam sweep"
+      },
+      "ultimate": {
+        "name": "power of darkness",
+        "cost": "-",
+        "type": "rush attack"
+      }
+    }
   },
   {
-    "nom": "LORD SLUG",
+    "name": "LORD SLUG",
     "caracteristiques": "GIANT FORM",
     "image": "images/LORD_SLUG_GIANT_FORM.jpg",
-    "dp": 6
+    "dp": 6,
+    "Health Bars": 4,
+    "Size(Huge)": "Y",
+    "skills": {
+      "neutral": {
+        "name": "explosive wave",
+        "cost": "2"
+      },
+      "up": {
+        "name": "pump up",
+        "cost": "2"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "darkness eye beam",
+        "cost": "3",
+        "type": "piercing beam sweep"
+      },
+      "up": {
+        "name": "super explosive wave",
+        "cost": "4",
+        "type": "energy explosion"
+      },
+      "ultimate": {
+        "name": "darkness blaster",
+        "cost": "-",
+        "type": "energy beam"
+      }
+    }
   },
   {
-    "nom": "TURLES",
+    "name": "TURLES",
     "image": "images/TURLES.jpg",
-    "dp": 4
+    "dp": 4,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "explosive wave",
+        "cost": "2"
+      },
+      "up": {
+        "name": "fruit of the tree of might",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "kill driver",
+        "cost": "3",
+        "type": "energy blast"
+      },
+      "up": {
+        "name": "full-power energy wave combo",
+        "cost": "3",
+        "type": "energy blast barrage"
+      },
+      "ultimate": {
+        "name": "meteor burst",
+        "cost": "-",
+        "type": "rush attack"
+      }
+    }
   },
   {
-    "nom": "BOJACK",
+    "name": "BOJACK",
     "image": "images/BOJACK.jpg",
-    "dp": 5
+    "dp": 5,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "psycho barrier",
+        "cost": "3"
+      },
+      "up": {
+        "name": "full power",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "full-power energy ball",
+        "cost": "3",
+        "type": "energy blast"
+      },
+      "up": {
+        "name": "trap shooter",
+        "cost": "2",
+        "type": "energy blast barrage"
+      },
+      "ultimate": {
+        "name": "grand smasher",
+        "cost": "-",
+        "type": "energy blast"
+      }
+    }
   },
   {
-    "nom": "FULL-POWER BOJACK",
+    "name": "FULL-POWER BOJACK",
     "image": "images/FULL-POWER_BOJACK.jpg",
-    "dp": 7
+    "dp": 7,
+    "Health Bars": 4,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "psycho barrier",
+        "cost": "3"
+      },
+      "up": {
+        "name": "pump up",
+        "cost": "2"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "grand smasher",
+        "cost": "3",
+        "type": "energy blast"
+      },
+      "up": {
+        "name": "galactic tyrant",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "galactic buster",
+        "cost": "-",
+        "type": "energy blast"
+      }
+    }
   },
   {
-    "nom": "HIRUDEGARN",
+    "name": "HIRUDEGARN",
     "image": "images/HIRUDEGARN.jpg",
-    "dp": 6
+    "dp": 6,
+    "Health Bars": 4,
+    "Size(Huge)": "Y",
+    "skills": {
+      "neutral": {
+        "name": "explosive wave",
+        "cost": "2"
+      },
+      "up": {
+        "name": "dark eyes",
+        "cost": "2"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "chou makousen",
+        "cost": "2",
+        "type": "energy cannon"
+      },
+      "up": {
+        "name": "super explosive wave",
+        "cost": "4",
+        "type": "energy explosion"
+      },
+      "ultimate": {
+        "name": "gigantic flame",
+        "cost": "-",
+        "type": "energy beam"
+      }
+    }
   },
   {
-    "nom": "TAPION",
+    "name": "TAPION",
     "image": "images/TAPION.jpg",
-    "dp": 4
+    "dp": 4,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "hero's flute",
+        "cost": "2"
+      },
+      "up": {
+        "name": "afterimage",
+        "cost": "2"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "brave cannon",
+        "cost": "3",
+        "type": "energy blast"
+      },
+      "up": {
+        "name": "brave slash",
+        "cost": "3",
+        "type": "energy slash barrage"
+      },
+      "ultimate": {
+        "name": "brave sword attack",
+        "cost": "-",
+        "type": "rush attack"
+      }
+    }
   },
   {
-    "nom": "JANEMBA",
+    "name": "JANEMBA",
     "image": "images/JANEMBA.jpg",
-    "dp": 5
+    "dp": 5,
+    "Health Bars": 4,
+    "Size(Huge)": "Y",
+    "skills": {
+      "neutral": {
+        "name": "mystic breath",
+        "cost": "1"
+      },
+      "up": {
+        "name": "howl",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "chou makouhou",
+        "cost": "3",
+        "type": "energy beam"
+      },
+      "up": {
+        "name": "rapid cannon",
+        "cost": "3",
+        "type": "energy blast barrage"
+      },
+      "ultimate": {
+        "name": "illusion smash",
+        "cost": "-",
+        "type": "command grab"
+      }
+    }
   },
   {
-    "nom": "SUPER JANEMBA",
+    "name": "SUPER JANEMBA",
     "image": "images/SUPER_JANEMBA.jpg",
-    "dp": 7
+    "dp": 7,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "mystic breath",
+        "cost": "1"
+      },
+      "up": {
+        "name": "dimension shift",
+        "cost": "2"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "evil cannon",
+        "cost": "3",
+        "type": "energy cannon"
+      },
+      "up": {
+        "name": "lightning shower rain",
+        "cost": "3",
+        "type": "piercing blast barrage"
+      },
+      "ultimate": {
+        "name": "dimension sword attack",
+        "cost": "-",
+        "type": "rush attack"
+      }
+    }
   },
   {
-    "nom": "SUPER GOGETA (Z)",
+    "name": "SUPER GOGETA (Z)",
     "image": "images/SUPER_GOGETA_(Z).jpg",
-    "dp": 8
+    "dp": 8,
+    "Health Bars": 4,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "immovable stance",
+        "cost": "2"
+      },
+      "up": {
+        "name": "i'm the one who will defeat you!",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "big bang kamehameha",
+        "cost": "3",
+        "type": "energy beam (chargeable)"
+      },
+      "up": {
+        "name": "punisher drive",
+        "cost": "4",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "stardust breaker",
+        "cost": "-",
+        "type": "rush attack"
+      }
+    }
   },
   {
-    "nom": "GOKU (TEEN)",
+    "name": "GOKU (TEEN)",
     "image": "images/GOKU_(TEEN).jpg",
-    "dp": 3
+    "dp": 3,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "afterimage strike",
+        "cost": "3"
+      },
+      "up": {
+        "name": "false courage",
+        "cost": "1"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "kamehameha",
+        "cost": "3",
+        "type": "energy beam (chargeable)"
+      },
+      "up": {
+        "name": "commencing counterattack!",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "keep going!",
+        "cost": "",
+        "type": "rush attack"
+      }
+    }
   },
   {
-    "nom": "GOKU (MINI)",
+    "name": "GOKU (MINI)",
     "image": "images/GOKU_(MINI).jpg",
-    "dp": 4
+    "dp": 4,
+    "Health Bars": 3,
+    "Size(Huge)": "N",
+    "skills": {
+      "neutral": {
+        "name": "sleep",
+        "cost": "4"
+      },
+      "up": {
+        "name": "warm-up exercise",
+        "cost": "3"
+      }
+    },
+    "Attacks": {
+      "neutral": {
+        "name": "quick rush",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "up": {
+        "name": "take this!",
+        "cost": "3",
+        "type": "rush attack"
+      },
+      "ultimate": {
+        "name": "power pole rush",
+        "cost": "-",
+        "type": "rush attack"
+      }
+    }
   }
 ]

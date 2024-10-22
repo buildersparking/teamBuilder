@@ -6,15 +6,15 @@ function TeamBuilder() {
   const [isOverDPLimit, setIsOverDPLimit] = useState(false);
 
   const handleSelectCharacter = (character) => {
-    if (team.length < 5 && !team.some(c => c.nom === character.nom)) {
+    if (team.length < 5 && !team.some(c => c.name === character.name)) {
       setTeam([...team, character]);
-    } else if (team.some(c => c.nom === character.nom)) {
-      setTeam(team.filter(c => c.nom !== character.nom));
+    } else if (team.some(c => c.name === character.name)) {
+      setTeam(team.filter(c => c.name !== character.name));
     }
   };
 
   const handleRemoveCharacter = (characterToRemove) => {
-    setTeam(team.filter(character => character.nom !== characterToRemove.nom));
+    setTeam(team.filter(character => character.name !== characterToRemove.name));
   };
 
   const totalDP = team.reduce((sum, character) => sum + character.dp, 0);
@@ -41,8 +41,8 @@ function TeamBuilder() {
               >
                 ×
               </button>
-              <img src={character.image} alt={character.nom} className="team-member-image" />
-              <span>{character.nom} (DP: {character.dp})</span>
+              <img src={character.image} alt={character.name} className="team-member-image" />
+              <span>{character.name} (DP: {character.dp})</span>
             </div>
           ))}
         </div>
