@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useCallback } from 'react';
 import CharacterCard from './CharacterCard';
 import personnagesData from '../data/personnages.json';
 
@@ -8,6 +8,7 @@ function CharacterList({ onSelectCharacter, selectedCharacters }) {
   const [sortOrder, setSortOrder] = useState('asc');
   const [dpFilter, setDpFilter] = useState('all');
   const [searchTerm, setSearchTerm] = useState('');
+  const [openCharacterDetails, setOpenCharacterDetails] = useState(null);
 
   useEffect(() => {
     const updatedCharacters = personnagesData.map(character => ({
@@ -53,6 +54,10 @@ function CharacterList({ onSelectCharacter, selectedCharacters }) {
 
   const uniqueDpValues = [...new Set(characters.map(c => c.dp))].sort((a, b) => a - b);
 
+  const getCharacterIdentifier = (character) => {
+    return `${character.name}-${character.caracteristiques || ''}`;
+  };
+
   return (
     <div>
       <div className="filter-sort-controls">
@@ -83,12 +88,18 @@ function CharacterList({ onSelectCharacter, selectedCharacters }) {
         </div>
       </div>
       <div className="character-list">
-        {filteredAndSortedCharacters.map((character, index) => (
+        {filteredAndSortedCharacters.map((character) => (
           <CharacterCard 
-            key={index}
+            key={getCharacterIdentifier(character)}
             character={character}
             onSelect={onSelectCharacter}
             isSelected={selectedCharacters.some(c => c.name === character.name)}
+            isOpen={openCharacterDetails === getCharacterIdentifier(character)}
+            onToggleDetails={() => {
+              const identifier = getCharacterIdentifier(character);
+              setOpenCharacterDetails(openCharacterDetails === identifier ? null : identifier);
+            }}
+            allCharacters={characters}
           />
         ))}
       </div>
