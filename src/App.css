@@ -149,18 +149,18 @@ h1::after {
 
 .character-card {
   position: relative;
-  background-color: #fff;
-  border-radius: 12px;
-  /* overflow: hidden; */
-  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
-  transition: transform 0.3s, box-shadow 0.3s;
-  cursor: pointer;
   display: flex;
   flex-direction: column;
   align-items: center;
   padding: 15px;
   width: calc(20% - 20px);
   min-width: 150px;
+  background-color: #fff;
+  border-radius: 12px;
+  /* overflow: hidden; */
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s, box-shadow 0.3s;
+  cursor: pointer;
   z-index: 1;
 }
 
@@ -190,27 +190,37 @@ h1::after {
 }
 
 .character-info {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
   text-align: center;
+  width: 100%;
+  gap: 3px; /* Espace réduit entre les éléments */
 }
 
 .character-info h3 {
-  margin: 0 0 8px 0;
-  font-size: 1.1em;
+  margin: 0;
+  font-size: 1em;
   color: #2c3e50;
-}
-
-.character-info p {
-  margin: 5px 0 0;
-  font-size: 0.9em;
-  color: #7f8c8d;
+  line-height: 1.2;
 }
 
 .character-info .character-characteristics {
   font-size: 0.8em;
   color: #000000;
-  margin: 5px 0;
+  margin: 0;
   font-style: italic;
   font-weight: bold;
+  line-height: 1.2;
+}
+
+.character-info p {
+  margin: 0;
+  font-size: 0.9em;
+  color: #7f8c8d;
+  line-height: 1.2;
 }
 
 /* Contrôles de filtrage et de tri */
@@ -426,6 +436,22 @@ footer a {
     flex: 1 1 auto;
     min-width: 120px;
   }
+
+  .character-info {
+    gap: 2px;
+  }
+
+  .character-info h3 {
+    font-size: 0.2em;
+  }
+
+  .character-info .character-characteristics {
+    font-size: 0.2em;
+  }
+
+  .character-info p {
+    font-size: 0.2em;
+  }
 }
 
 /* Ajoutez ces styles à la fin de votre fichier App.css */
@@ -612,7 +638,8 @@ footer a {
 .details-section-title {
   font-weight: bold;
   font-size: 1.1em;
-  margin-bottom: 10px;
+  margin-bottom: 3px;
+  margin-top: 3px;
   text-align: center;
 }
 
@@ -626,4 +653,41 @@ footer a {
     font-size: 0.9em;
   }
 }
+
+.character-card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  /* ... autres styles existants ... */
+}
+
+.character-info {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  /* ... autres styles existants ... */
+}
+
+.button-container {
+  margin-top: auto;
+  padding-top: 10px; /* Ajustez selon vos préférences */
+}
+
+.details-button {
+  /* ... styles existants ... */
+}
+
+@media (max-width: 768px) {
+  .character-card {
+    /* ... styles existants ... */
+  }
+
+  .button-container {
+    padding-top: 5px; /* Ajustez pour les petits écrans */
+  }
+
+  /* ... autres styles media query ... */
+}
+
+
 

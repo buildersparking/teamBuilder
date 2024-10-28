@@ -87,6 +87,8 @@ function CharacterCard({ character, onSelect, isSelected, isOpen, onToggleDetail
           <p className="character-characteristics">{character.caracteristiques}</p>
         )}
         <p>DP: {character.dp}</p>
+      </div>
+      <div className="button-container">
         <button 
           className="details-button" 
           onClick={toggleDetails}
@@ -101,7 +103,7 @@ function CharacterCard({ character, onSelect, isSelected, isOpen, onToggleDetail
           onClick={(e) => e.stopPropagation()}
           ref={detailsRef}
         >
-          <p className="details-section-title">Health Bars: {character["Health Bars"]}</p>
+          <p className="details-section-title">{character["Health Bars"]} HP Bars</p>
           <div className="skills-attacks-list">
             <p className="details-section-title">Skills:</p>
             {Object.entries(character.skills).map(([key, skill]) => (
