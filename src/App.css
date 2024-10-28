@@ -69,7 +69,7 @@ h1::after {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  gap: 20px;
+  gap: 0%;
 }
 
 .team-member {
@@ -91,12 +91,13 @@ h1::after {
 }
 
 .team-member-image {
-  width: 40px;
-  height: 40px;
+  position: relative; /* Ajout de cette ligne */
+  width: 100px;
+  height: 100px;
   object-fit: cover;
   border-radius: 50%;
-  margin-right: 10px;
-  border: 2px solid #3498db;
+  margin-bottom: 15px;
+  border: 4px solid #3498db;
 }
 
 .team-member-info {
@@ -132,11 +133,22 @@ h1::after {
   justify-content: center;
   align-items: center;
   transition: all 0.3s ease;
+  z-index: 1; /* Ajout de cette ligne */
 }
 
 .remove-character:hover {
   background-color: #c0392b;
   transform: scale(1.1);
+}
+
+@media (max-width: 768px) {
+  .remove-character {
+    width: 15px;
+    height: 15px;
+    font-size: 10px;
+    top: -3px;
+    right: -3px;
+  }
 }
 
 /* Liste des personnages */
@@ -689,5 +701,83 @@ footer a {
   /* ... autres styles media query ... */
 }
 
+.team-member-card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 15px;
+  width: 17%;
+  min-width: 150px;
+  margin: 0px;
+}
 
+.team-member-image {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-bottom: 15px;
+  border: 4px solid #3498db;
+}
+
+.team-member-info {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  width: 100%;
+  gap: 3px;
+}
+
+.team-member-info h3 {
+  margin: 0;
+  font-size: 1em;
+  color: #2c3e50;
+  line-height: 1.2;
+}
+
+.team-member-characteristics {
+  font-size: 0.8em;
+  color: #000000;
+  margin: 0;
+  font-style: italic;
+  font-weight: bold;
+  line-height: 1.2;
+}
+
+.team-member-info p {
+  margin: 0;
+  font-size: 0.9em;
+  color: #7f8c8d;
+  line-height: 1.2;
+}
+
+@media (max-width: 768px) {
+  .team-member-card {
+    width: calc(22% - 10px);
+    min-width: 1px;
+    padding: 1px;
+  }
+
+  .team-member-image {
+    width: 45px;
+    height: 45px;
+    margin-bottom: 5px;
+  }
+
+  .team-member-info h3 {
+    font-size: 0.2em;
+  }
+
+  .team-member-characteristics {
+    font-size: 0.2em;
+  }
+
+  .team-member-info p {
+    font-size: 0.2em;
+  }
+}
 

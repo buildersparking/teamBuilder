@@ -34,15 +34,23 @@ function TeamBuilder() {
         )}
         <div className="team-members">
           {team.map((character, index) => (
-            <div key={index} className="team-member">
-              <button 
-                className="remove-character" 
-                onClick={() => handleRemoveCharacter(character)}
-              >
-                ×
-              </button>
-              <img src={character.image} alt={character.name} className="team-member-image" />
-              <span>{character.name} (DP: {character.dp})</span>
+            <div key={index} className="team-member-card">
+              <div style={{ position: 'relative' }}>
+                <img src={character.image} alt={character.name} className="team-member-image" />
+                <button 
+                  className="remove-character" 
+                  onClick={() => handleRemoveCharacter(character)}
+                >
+                  ×
+                </button>
+              </div>
+              <div className="team-member-info">
+                <h3>{character.name}</h3>
+                {character.caracteristiques && (
+                  <p className="team-member-characteristics">{character.caracteristiques}</p>
+                )}
+                <p>DP: {character.dp}</p>
+              </div>
             </div>
           ))}
         </div>
